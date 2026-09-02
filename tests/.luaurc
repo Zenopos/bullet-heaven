@@ -1,0 +1,20 @@
+{
+	"languageMode": "strict",
+	"globals": [
+		"afterAll",
+		"afterEach",
+		"beforeAll",
+		"beforeEach",
+		"describe",
+		"describeFOCUS",
+		"describeSKIP",
+		"expect",
+		"it",
+		"itFIXME",
+		"itFOCUS",
+		"itSKIP",
+		"FIXME",
+		"FOCUS",
+		"SKIP"
+	]
+}

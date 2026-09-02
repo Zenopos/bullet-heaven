@@ -1,0 +1,20 @@
+# Dependency manifest — context/02 §3. Library composition, not a framework (Knit/Flamework forbidden).
+[package]
+name = "team/bullet-heaven"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Signal      = "sleitnick/signal@2.0.3"      # typed event objects
+Trove       = "sleitnick/trove@1.8.0"       # connection/instance cleanup per entity lifecycle
+Promise     = "evaera/promise@4.0.0"        # async composition
+Loader      = "sleitnick/loader@2.0.0"      # auto-requires module trees; framework-free bootstrap
+# Zap is an IDL compiler binary, not a Wally package — pinned in rokit.toml (red-blox/zap@0.6.23)
+ObjectCache = "pyseph/objectcache@1.4.6"    # Model+Part pooling for bullets/enemies/gems (verified on wally-index 2026-09; was placeholder @1.0.0)
+Sift        = "csqrl/sift@0.0.11"           # immutable tables for ECS/state transforms
+jecs        = "ukendio/jecs@0.10.1"         # ECS for the server-side horde simulation
+Cmdr        = "evaera/cmdr@1.12.0"          # in-game debug/admin console
+
+[dev-dependencies]
+TestEZ      = "roblox/testez@0.4.1"         # BDD test framework; DevPackages, excluded from production

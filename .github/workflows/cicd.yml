@@ -1,0 +1,74 @@
+# CI/CD per context/02 §7. Gates: format -> lint -> typecheck -> build -> in-engine TestEZ
+# (skipped until W0-03 provisions ROBLOX_TEST_PLACE_ID) -> publish on production only.
+name: cicd
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [production]
+
+# Luau Execution API allows 10 concurrent tasks per place; serialize CI runs anyway.
+concurrency:
+  group: cicd-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # Installs every pinned tool from rokit.toml (Rojo/Wally/Selene/StyLua/luau-lsp/Lune/Zap).
+      # Resolved tag: CompeyDev/setup-rokit@v0.2.1 (rokit-rbx/setup-rokit@v1 in context/02 §7 does not exist).
+      - uses: CompeyDev/setup-rokit@v0.2.1
+      # wally 0.3.2 has no --locked flag; `wally install` is authoritative to committed wally.lock.
+      - name: Install packages (locked via wally.lock)
+        run: wally install
+      - name: Generate package types
+        run: |
+          rojo sourcemap > sourcemap.json
+          wally-package-types --sourcemap sourcemap.json Packages/
+          wally-package-types --sourcemap sourcemap.json DevPackages/
+      - name: Format check
+        run: stylua --check src tests
+      - name: Lint
+        run: selene src tests
+      - name: Type check
+        run: luau-lsp analyze --platform roblox --definitions tools/globalTypes.d.luau --sourcemap sourcemap.json --ignore "tools/globalTypes.d.luau" .
+      - name: Build test place
+        run: rojo build test.project.json -o game-test.rbxlx
+      # --- In-engine tests: wired now, skip cleanly until W0-03 provides the test place ---
+      - name: Upload to test place
+        if: vars.ROBLOX_TEST_PLACE_ID != ''
+        run: |
+          curl -X POST \
+            -H "x-api-key: ${{ secrets.ROBLOX_API_KEY }}" \
+            -H "Content-Type: application/octet-stream" \
+            --data-binary @game-test.rbxlx \
+            "https://apis.roblox.com/universes/v1/${{ vars.ROBLOX_UNIVERSE_ID }}/places/${{ vars.ROBLOX_TEST_PLACE_ID }}/versions?versionType=Saved"
+      - name: Run TestEZ via Luau Execution API
+        if: vars.ROBLOX_TEST_PLACE_ID != ''
+        run: lune run tools/run-tests
+        env:
+          ROBLOX_API_KEY: ${{ secrets.ROBLOX_API_KEY }}
+          ROBLOX_UNIVERSE_ID: ${{ vars.ROBLOX_UNIVERSE_ID }}
+          ROBLOX_TEST_PLACE_ID: ${{ vars.ROBLOX_TEST_PLACE_ID }}
+
+  publish:
+    if: github.ref == 'refs/heads/production' && github.event_name == 'push'
+    needs: ci
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: CompeyDev/setup-rokit@v0.2.1
+      - run: wally install
+      - name: Build production place
+        run: rojo build -o game-prod.rbxlx # default.project.json; tests/ excluded
+      - name: Publish production place
+        if: vars.ROBLOX_PLACE_ID != ''
+        run: |
+          curl -X POST \
+            -H "x-api-key: ${{ secrets.ROBLOX_API_KEY }}" \
+            -H "Content-Type: application/octet-stream" \
+            --data-binary @game-prod.rbxlx \
+            "https://apis.roblox.com/universes/v1/${{ vars.ROBLOX_UNIVERSE_ID }}/places/${{ vars.ROBLOX_PLACE_ID }}/versions?versionType=Published"
