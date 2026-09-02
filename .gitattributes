@@ -1,0 +1,8 @@
+# Keep LF line endings on checkout — StyLua is configured for Unix endings.
+*.luau text eol=lf
+*.lua text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf

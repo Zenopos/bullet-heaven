@@ -1,0 +1,17 @@
+# Wally package output (reproducible from wally.lock)
+Packages/
+DevPackages/
+
+# Rojo sourcemap (regenerated locally / in CI)
+sourcemap.json
+
+# Built place files
+*.rbxl
+*.rbxlx
+
+# Asset extraction scratch (W0-02 outputs get committed selectively)
+extraction/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
