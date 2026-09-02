@@ -1,0 +1,49 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/BattlePassItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "PassItem 2",
+  "passId": 2,
+  "itemTitle": "Gold Plus",
+  "itemTitleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Gold Plus"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Ouro Plus"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "黄金 Plus"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "ゴールドプラス"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "골드 플러스"
+    }
+  ],
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/OldUI/UI Images/Bundle_icon_02.png",
+    "fileID": 21300000
+  },
+  "rewardType": 1,
+  "rewardTier": 1,
+  "characterData": [],
+  "currencyReward": {
+    "currency": {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Gold.asset",
+      "fileID": 11400000
+    },
+    "amount": 1000
+  },
+  "iconReward": null,
+  "frameReward": null,
+  "inventoryItems": [],
+  "_scriptType": "BattlePassItem.cs"
+}

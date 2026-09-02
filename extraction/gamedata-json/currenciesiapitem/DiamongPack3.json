@@ -1,0 +1,20 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/IAPItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "DiamongPack3",
+  "itemId": 3,
+  "itemName": "Giant Diamond Pack",
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/OldUI/UI Images/Bundle_icon_07.png",
+    "fileID": 21300000
+  },
+  "priceInUSD": 15.99,
+  "currencyAmount": 600,
+  "associatedCurrency": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Diamond.asset",
+    "fileID": 11400000
+  },
+  "_scriptType": "IAPItem.cs"
+}

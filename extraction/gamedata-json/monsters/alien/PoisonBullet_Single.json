@@ -1,0 +1,97 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Gameplay/Battle/MonsterSkill/MonsterSkill.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "PoisonBullet_Single",
+  "skillName": null,
+  "icon": null,
+  "damageType": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/PoisonType.asset",
+    "fileID": 11400000
+  },
+  "cooldown": 2,
+  "damagePrefab": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Monsters/Mushnub/PoisonProjectile_1.prefab",
+    "fileID": -7364722898387050947
+  },
+  "spawnOffset": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "baseDamage": 100,
+  "launchSpeed": 7,
+  "lifeTime": 2,
+  "minDistance": 3,
+  "animationIndex": 0,
+  "delayToLaunch": 0,
+  "delayToMove": 0.7,
+  "spawnEffect": null,
+  "spawnAudio": null,
+  "playSpawnAudioEaShot": 0,
+  "skillAudio": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Audio/MonsterSkill.wav",
+    "fileID": 8300000
+  },
+  "playSkillAudioEaShot": 1,
+  "playSkillAudioAfter": 0,
+  "HitEffect": {
+    "$ref": "Assets/BulletHellTemplate/Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect6.prefab",
+    "fileID": 2229347667842700779
+  },
+  "HitAudio": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Audio/Impact_2.wav",
+    "fileID": 8300000
+  },
+  "isMultiShot": 1,
+  "shots": 1,
+  "angle": 0,
+  "delayBetweenShots": 0,
+  "isAdvancedMultiShot": 0,
+  "shotWaves": [],
+  "isOrbital": 0,
+  "orbitalDistance": 5,
+  "isDash": 0,
+  "isReverseDash": 0,
+  "dashSpeed": 3,
+  "dashDuration": 0.3,
+  "isTrapSkill": 0,
+  "trapPrefab": null,
+  "trapLifetime": 6,
+  "isRicochet": 0,
+  "isBoomerang": 1,
+  "maxBoomerangDistance": 6,
+  "isMelee": 0,
+  "isRanged": 1,
+  "slow": {
+    "enable": 0,
+    "percent": 0,
+    "duration": 0
+  },
+  "stun": {
+    "enable": 0,
+    "duration": 0
+  },
+  "knockback": {
+    "enable": 0,
+    "distance": 0,
+    "duration": 0
+  },
+  "dot": {
+    "enable": 0,
+    "totalDamage": 0,
+    "duration": 0
+  },
+  "healSelf": {
+    "enable": 0,
+    "amount": 0
+  },
+  "healTrap": {
+    "enable": 0,
+    "healPerTick": 0,
+    "tickInterval": 0,
+    "lifeTime": 0
+  },
+  "_scriptType": "MonsterSkill.cs"
+}

@@ -1,0 +1,91 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/SkillPearkData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Multi Shots Perk",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/ShirikenPerk.png",
+    "fileID": 21300000
+  },
+  "maxLevelIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/ShirikenPerk.png",
+    "fileID": 21300000
+  },
+  "maxLevelFrame": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/Box4Selected.png",
+    "fileID": 21300000
+  },
+  "maxLevel": 5,
+  "damageType": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/SteelType.asset",
+    "fileID": 11400000
+  },
+  "initialDamagePrefab": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/ShurikenSkill/ShurikenPrefab.prefab",
+    "fileID": 6573228251521866193
+  },
+  "maxLvDamagePrefab": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/ShurikenSkill/ShurikenPrefab.prefab",
+    "fileID": 6573228251521866193
+  },
+  "spawnEffect": null,
+  "spawnAudio": null,
+  "effectDuration": 0,
+  "speed": 5,
+  "lifeTime": 5,
+  "withoutCooldown": 0,
+  "cooldown": 2,
+  "isHpLeech": 0,
+  "isMultiShot": 1,
+  "shots": 3,
+  "angle": 30,
+  "delay": 0,
+  "evolveChanges": 1,
+  "shotsEvolved": 6,
+  "angleEvolved": 30,
+  "delayEvolved": 0,
+  "isOrbital": 0,
+  "orbitalDistance": 5,
+  "isBoomerangSkill": 0,
+  "maxDistance": 0,
+  "isRicochet": 1,
+  "isDash": 0,
+  "dashSpeed": 5,
+  "dashDuration": 0.3,
+  "isShield": 0,
+  "shieldAmount": 300,
+  "shieldDuration": 1.5,
+  "isMelee": 0,
+  "applySlow": 0,
+  "slowPercent": 0,
+  "slowDuration": 0,
+  "applyKnockback": 0,
+  "knockbackDistance": 0,
+  "knockbackDuration": 0,
+  "applyStun": 0,
+  "stunDuration": 0,
+  "applyDOT": 0,
+  "dotAmount": 100,
+  "dotDuration": 2,
+  "hasEvolution": 1,
+  "perkRequireToEvolveSkill": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/StatsPearks/Damage.asset",
+    "fileID": 11400000
+  },
+  "damagePerLevel": [
+    50,
+    75,
+    100,
+    125,
+    200
+  ],
+  "attackerDamageRate": [
+    1,
+    1,
+    1,
+    1,
+    1.5
+  ],
+  "_scriptType": "SkillPearkData.cs"
+}

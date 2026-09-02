@@ -1,0 +1,35 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/StatPerkData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "HPRegen",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/MPRegen.png",
+    "fileID": 21300000
+  },
+  "maxLevelIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/HPRegenMax.png",
+    "fileID": 21300000
+  },
+  "statType": 1,
+  "fixedStat": {
+    "values": [
+      1,
+      3,
+      5,
+      7,
+      15
+    ]
+  },
+  "rateStat": {
+    "rates": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5
+    ]
+  },
+  "_scriptType": "StatPerkData.cs"
+}

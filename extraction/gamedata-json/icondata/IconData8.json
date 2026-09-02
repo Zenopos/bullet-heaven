@@ -1,0 +1,16 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/IconItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "IconData8",
+  "iconName": "Icon 8",
+  "iconNameTranslated": [],
+  "iconId": "icon8",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/Icons/Icon7.png",
+    "fileID": 21300000
+  },
+  "isUnlocked": 1,
+  "_scriptType": "IconItem.cs"
+}

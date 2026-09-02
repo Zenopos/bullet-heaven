@@ -1,0 +1,11 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/DropEntity.cs",
+    "fileID": 11500000
+  },
+  "m_Name": null,
+  "type": 0,
+  "value": 0,
+  "canAutoCollect": 1,
+  "_scriptType": "DropEntity.cs"
+}

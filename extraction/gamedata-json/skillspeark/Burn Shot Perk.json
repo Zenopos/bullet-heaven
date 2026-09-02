@@ -1,0 +1,93 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/SkillPearkData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Burn Shot Perk",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/SkillPerk.png",
+    "fileID": 21300000
+  },
+  "maxLevelIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/SkillPerk.png",
+    "fileID": 21300000
+  },
+  "maxLevelFrame": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/Box4Selected.png",
+    "fileID": 21300000
+  },
+  "maxLevel": 5,
+  "damageType": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/FireType.asset",
+    "fileID": 11400000
+  },
+  "initialDamagePrefab": {
+    "$ref": null,
+    "guid": "89c615f8d4e46f542a9f4d37052c8689",
+    "fileID": 3905412019331826984
+  },
+  "maxLvDamagePrefab": {
+    "$ref": null,
+    "guid": "89c615f8d4e46f542a9f4d37052c8689",
+    "fileID": 3905412019331826984
+  },
+  "spawnEffect": null,
+  "spawnAudio": null,
+  "effectDuration": 0,
+  "speed": 5,
+  "lifeTime": 5,
+  "withoutCooldown": 0,
+  "cooldown": 3,
+  "isHpLeech": 0,
+  "isMultiShot": 1,
+  "shots": 2,
+  "angle": 30,
+  "delay": 0.4,
+  "evolveChanges": 1,
+  "shotsEvolved": 9,
+  "angleEvolved": 0,
+  "delayEvolved": 0.1,
+  "isOrbital": 0,
+  "orbitalDistance": 5,
+  "isBoomerangSkill": 0,
+  "maxDistance": 0,
+  "isRicochet": 0,
+  "isDash": 0,
+  "dashSpeed": 5,
+  "dashDuration": 0.3,
+  "isShield": 0,
+  "shieldAmount": 300,
+  "shieldDuration": 1.5,
+  "isMelee": 0,
+  "applySlow": 0,
+  "slowPercent": 0,
+  "slowDuration": 0,
+  "applyKnockback": 0,
+  "knockbackDistance": 1.5,
+  "knockbackDuration": 0.2,
+  "applyStun": 0,
+  "stunDuration": 1,
+  "applyDOT": 0,
+  "dotAmount": 300,
+  "dotDuration": 2,
+  "hasEvolution": 1,
+  "perkRequireToEvolveSkill": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/StatsPearks/attackSpeed.asset",
+    "fileID": 11400000
+  },
+  "damagePerLevel": [
+    50,
+    75,
+    100,
+    125,
+    200
+  ],
+  "attackerDamageRate": [
+    1,
+    1,
+    1,
+    1,
+    1.5
+  ],
+  "_scriptType": "SkillPearkData.cs"
+}

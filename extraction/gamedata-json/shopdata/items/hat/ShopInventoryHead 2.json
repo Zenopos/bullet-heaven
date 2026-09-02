@@ -1,0 +1,29 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/ShopItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "ShopInventoryHead 2",
+  "itemId": 20002,
+  "itemTitle": "Helmet Rare",
+  "itemTitleTranslated": [],
+  "price": 200,
+  "currency": "GO",
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Addons/Inventory/Resources/UI/HeadItemIcon.png",
+    "fileID": 21300000
+  },
+  "category": "item",
+  "isCurrencyPackage": 0,
+  "currencyRewards": [],
+  "icons": [],
+  "frames": [],
+  "characterData": [],
+  "inventoryItems": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Addons/Inventory/Resources/Hat/HatRare.asset",
+      "fileID": 11400000
+    }
+  ],
+  "_scriptType": "ShopItem.cs"
+}

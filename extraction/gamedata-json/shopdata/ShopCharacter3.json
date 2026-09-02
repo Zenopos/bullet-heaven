@@ -1,0 +1,29 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/ShopItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "ShopCharacter3",
+  "itemId": "shop_character_tidebone",
+  "itemTitle": "Tidebone",
+  "itemTitleTranslated": [],
+  "price": 50,
+  "currency": "DM",
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/GunnerIcon.png",
+    "fileID": 21300000
+  },
+  "category": "character",
+  "isCurrencyPackage": 0,
+  "currencyRewards": [],
+  "icons": [],
+  "frames": [],
+  "characterData": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/CharacterData/character3.asset",
+      "fileID": 11400000
+    }
+  ],
+  "inventoryItems": [],
+  "_scriptType": "ShopItem.cs"
+}

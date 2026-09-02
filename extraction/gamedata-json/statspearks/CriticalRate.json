@@ -1,0 +1,35 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/StatPerkData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "CriticalRate",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Critical.png",
+    "fileID": 21300000
+  },
+  "maxLevelIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/CriticalMax.png",
+    "fileID": 21300000
+  },
+  "statType": 8,
+  "fixedStat": {
+    "values": [
+      0.15,
+      0.15,
+      0.15,
+      0.15,
+      0.3
+    ]
+  },
+  "rateStat": {
+    "rates": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "_scriptType": "StatPerkData.cs"
+}

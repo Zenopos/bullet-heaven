@@ -9,8 +9,23 @@ sourcemap.json
 *.rbxl
 *.rbxlx
 
-# Asset extraction scratch (W0-02 outputs get committed selectively)
-extraction/
+# Asset extraction scratch — only reviewed, public-safe outputs are committed.
+# Path B (template-extracted) binaries must NEVER be committed: in a public repo that is
+# standalone redistribution, a Unity EULA breach. They live under extraction/ (ignored).
+extraction/*
+!extraction/README.md
+!extraction/asset-inventory.csv
+!extraction/kaykit-diff.md
+!extraction/gamedata-json/
+!extraction/originals/
+!extraction/*.py
+
+# Secrets — never commit
+.env
+.env.*
+*.pem
+*.key
+secrets/
 
 # OS / editor noise
 .DS_Store

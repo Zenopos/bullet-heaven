@@ -1,0 +1,41 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/CharacterTypeData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "FireType",
+  "typeName": "Fire",
+  "typeNameTranslated": {
+    "LanguageId": null,
+    "Translate": null
+  },
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/ElementaIcons/FireElement.png",
+    "fileID": 21300000
+  },
+  "weaknesses": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/WaterType.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/GroundType.asset",
+      "fileID": 11400000
+    }
+  ],
+  "strengths": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/GrassType.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/SteelType.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/PoisonType.asset",
+      "fileID": 11400000
+    }
+  ],
+  "_scriptType": "CharacterTypeData.cs"
+}

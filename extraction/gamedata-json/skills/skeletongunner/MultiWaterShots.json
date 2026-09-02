@@ -1,0 +1,209 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/SkillData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "MultiWaterShots",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/skill_shooter_2.png",
+    "fileID": 21300000
+  },
+  "iconEvolved": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/skill_shooter_2.png",
+    "fileID": 21300000
+  },
+  "frameEvolved": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/PremiumPassReward.png",
+    "fileID": 21300000
+  },
+  "skillName": "Water shooting outbreak",
+  "skillNameTranslated": [],
+  "damageType": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/WaterType.asset",
+    "fileID": 11400000
+  },
+  "cooldown": 6,
+  "delayToLaunch": 0.4,
+  "delayToMove": 0,
+  "canRotateWhileStopped": 0,
+  "autoAttackDelay": 1.3,
+  "manaCost": 0,
+  "AimMode": 0,
+  "damageEntityPrefab": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/SkeletonGunner/WaterBullet.prefab",
+    "fileID": -7986080780167093631
+  },
+  "spawnEffect": {
+    "$ref": "Assets/BulletHellTemplate/Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect10.prefab",
+    "fileID": 471954124924366040
+  },
+  "spawnAudio": null,
+  "playSpawnAudioEaShot": 0,
+  "skillAudio": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Audio/MultiShot.wav",
+    "fileID": 8300000
+  },
+  "playSkillAudioEaShot": 0,
+  "playSkillAudioAfter": 0.32,
+  "HitEffect": {
+    "$ref": "Assets/BulletHellTemplate/Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect6.prefab",
+    "fileID": 2229347667842700779
+  },
+  "HitAudio": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Audio/Impact_3.wav",
+    "fileID": 8300000
+  },
+  "rangeIndicatorType": 0,
+  "radialIndicatorSettings": {
+    "radiusArea": 0,
+    "useCastIndicator": 0
+  },
+  "radialAoEIndicatorSettings": {
+    "radiusMaxRange": 0,
+    "radiusArea": 0,
+    "useCastIndicator": 0
+  },
+  "arrowIndicatorSettings": {
+    "arrowSize": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "useCastIndicator": 0
+  },
+  "coneIndicatorSettings": {
+    "ConeSize": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "useCastIndicator": 0
+  },
+  "launchType": 0,
+  "airStrikeHeight": 0,
+  "isRotateToEnemy": 1,
+  "rotateDuration": 1.2,
+  "destroyOnFirstHit": 0,
+  "sizeChangeConfig": {
+    "enableSizeChange": 0,
+    "initialSizeX": 1,
+    "finalSizeX": 1,
+    "sizeChangeTimeX": 0,
+    "initialSizeY": 1,
+    "finalSizeY": 1,
+    "sizeChangeTimeY": 0,
+    "initialSizeZ": 1,
+    "finalSizeZ": 1,
+    "sizeChangeTimeZ": 0
+  },
+  "isHpLeech": 0,
+  "explodeOnDestroy": 0,
+  "explodeDamageEntity": null,
+  "explodeEntitySettings": {
+    "baseDamage": 0,
+    "attackerDamageRate": 0,
+    "canCauseCriticalDamage": 0,
+    "speed": 0,
+    "lifeTime": 0,
+    "isEvolved": 0
+  },
+  "isMultiShot": 1,
+  "shots": 10,
+  "angle": 210,
+  "delay": 0.05,
+  "isAdvancedMultiShot": 0,
+  "playAnimationEaShot": 0,
+  "shotWaves": [],
+  "shotWavesEvolved": [],
+  "isOrbital": 0,
+  "orbitalDistance": 5,
+  "isRicochet": 0,
+  "isBoomerangSkill": 0,
+  "maxDistance": 0,
+  "isDash": 0,
+  "isReverseDash": 0,
+  "dashSpeed": 0,
+  "dashDuration": 0,
+  "advancedDashSettings": {
+    "enableAdvancedDash": 0,
+    "AnimationTriggerEachDash": 0,
+    "dashWaves": 1,
+    "delayBetweenWaves": 0,
+    "dashMode": 0,
+    "dashSpeed": 10,
+    "dashDuration": 0.3
+  },
+  "isMelee": 0,
+  "applySlow": 0,
+  "slowPercent": 0.5,
+  "slowDuration": 0.7,
+  "applyKnockback": 1,
+  "knockbackDistance": 1,
+  "knockbackDuration": 0.13,
+  "applyStun": 0,
+  "stunDuration": 1,
+  "applyDOT": 0,
+  "dotAmount": 70,
+  "dotDuration": 3,
+  "receiveHeal": 0,
+  "healAmount": 0,
+  "receiveShield": 0,
+  "shieldAmount": 0,
+  "shieldDuration": 0,
+  "receiveMoveSpeed": 0,
+  "moveSpeedAmount": 0,
+  "moveSpeedDuration": 0,
+  "receiveAttackSpeed": 0,
+  "attackSpeedAmount": 0,
+  "attackSpeedDuration": 0,
+  "receiveDefense": 0,
+  "defenseAmount": 0,
+  "defenseDuration": 0,
+  "receiveDamage": 0,
+  "damageAmount": 0,
+  "damageDuration": 0,
+  "isInvincible": 0,
+  "invincibleDuration": 0,
+  "receiveSlow": 0,
+  "receiveSlowAmount": 0,
+  "receiveSlowDuration": 0,
+  "evolvedDamageEntityPrefab": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/SkeletonGunner/WaterBullet.prefab",
+    "fileID": -7986080780167093631
+  },
+  "evolveChanges": 0,
+  "shotsEvolved": 0,
+  "angleEvolved": 30,
+  "delayEvolved": 0,
+  "skillLevels": [
+    {
+      "baseDamage": 30,
+      "attackerDamageRate": 1.1,
+      "canCauseCriticalDamage": 1,
+      "speed": 10,
+      "lifeTime": 2,
+      "isEvolved": 0
+    },
+    {
+      "baseDamage": 75,
+      "attackerDamageRate": 1.2,
+      "canCauseCriticalDamage": 1,
+      "speed": 10,
+      "lifeTime": 2,
+      "isEvolved": 0
+    },
+    {
+      "baseDamage": 115,
+      "attackerDamageRate": 1.15,
+      "canCauseCriticalDamage": 1,
+      "speed": 10,
+      "lifeTime": 2,
+      "isEvolved": 1
+    }
+  ],
+  "requireStatForEvolve": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/StatsPearks/attackSpeed.asset",
+    "fileID": 11400000
+  },
+  "_scriptType": "SkillData.cs"
+}

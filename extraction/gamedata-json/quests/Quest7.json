@@ -1,0 +1,56 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/QuestItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Quest7",
+  "questId": 7,
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/SlayerIcon.png",
+    "fileID": 21300000
+  },
+  "title": "Stalker Mastery",
+  "titleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Stalker Mastery"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Maestria do Espreitador"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "潜行者精通"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "ストーカーの熟練度"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "추적자 숙련도"
+    }
+  ],
+  "currencyReward": "GO",
+  "currencyAmount": 0,
+  "battlePassExp": 0,
+  "accountExp": 20,
+  "selectedCharacterExp": 300,
+  "questReward": 0,
+  "characterData": null,
+  "iconItem": null,
+  "frameItem": null,
+  "inventoryItem": null,
+  "requirement": {
+    "requirementType": 3,
+    "targetAmount": 1000,
+    "targetMap": null,
+    "targetCharacter": {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/CharacterData/character5Update.asset",
+      "fileID": 11400000
+    }
+  },
+  "questType": 0,
+  "_scriptType": "QuestItem.cs"
+}

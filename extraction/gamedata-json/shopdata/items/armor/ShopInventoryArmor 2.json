@@ -1,0 +1,29 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/ShopItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "ShopInventoryArmor 2",
+  "itemId": 10002,
+  "itemTitle": "Armor Rare",
+  "itemTitleTranslated": [],
+  "price": 200,
+  "currency": "GO",
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Addons/Inventory/Resources/UI/ArmorItemIcon.png",
+    "fileID": 21300000
+  },
+  "category": "item",
+  "isCurrencyPackage": 0,
+  "currencyRewards": [],
+  "icons": [],
+  "frames": [],
+  "characterData": [],
+  "inventoryItems": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Addons/Inventory/Resources/Armors/ArmorRare.asset",
+      "fileID": 11400000
+    }
+  ],
+  "_scriptType": "ShopItem.cs"
+}

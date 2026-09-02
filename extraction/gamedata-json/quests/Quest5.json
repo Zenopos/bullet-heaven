@@ -1,0 +1,56 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/QuestItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Quest5",
+  "questId": 5,
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/1.3.0UI/CharacterIcons/VincentIcon.png",
+    "fileID": 21300000
+  },
+  "title": "Assassin Mastery",
+  "titleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Assassin Mastery"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Maestria do Assassino"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "刺客精通"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "アサシンの熟練度"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "암살자 숙련도"
+    }
+  ],
+  "currencyReward": "GO",
+  "currencyAmount": 0,
+  "battlePassExp": 0,
+  "accountExp": 20,
+  "selectedCharacterExp": 300,
+  "questReward": 0,
+  "characterData": null,
+  "iconItem": null,
+  "frameItem": null,
+  "inventoryItem": null,
+  "requirement": {
+    "requirementType": 3,
+    "targetAmount": 1000,
+    "targetMap": null,
+    "targetCharacter": {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/CharacterData/character1.asset",
+      "fileID": 11400000
+    }
+  },
+  "questType": 0,
+  "_scriptType": "QuestItem.cs"
+}

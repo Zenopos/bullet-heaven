@@ -1,0 +1,35 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/StatPerkData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Damage",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Damage.png",
+    "fileID": 21300000
+  },
+  "maxLevelIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/DamageMax.png",
+    "fileID": 21300000
+  },
+  "statType": 5,
+  "fixedStat": {
+    "values": [
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
+  },
+  "rateStat": {
+    "rates": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5
+    ]
+  },
+  "_scriptType": "StatPerkData.cs"
+}

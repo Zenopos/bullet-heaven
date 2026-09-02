@@ -1,0 +1,20 @@
+Pixabay Content License note — "At the Park (Afternoon)" by XtremeFreddy
+=========================================================================
+
+Template file: Res/Audio/Ambient/at-the-park-afternoon- XtremeFreddy.wav
+Original:      "At the Park (Afternoon)" by XtremeFreddy, Pixabay Music
+
+Verified 2026-09-02 (HTTP 200, page title confirms track + artist):
+  https://pixabay.com/music/sneaky-at-the-park-afternoon-193011/
+Artist page (HTTP 200):
+  https://pixabay.com/users/xtremefreddy-32332307/
+Corroborating third-party credit list (itch.io game "Mewracle Brew", fetched 200):
+  https://igdx-meng.itch.io/mewracle-brew (credits "At the park afternoon — xtremefreddy —
+  pixabay.com/users/xtremefreddy-32332307/")
+
+License: Pixabay Content License (free for commercial use, no attribution required;
+may not be redistributed standalone / sold unaltered). NOT CC0. See
+https://pixabay.com/service/license-summary/ for the current terms.
+
+chosen_path in provenance.csv: A (re-download from the Pixabay track page; anonymous
+download may require an account — if blocked, Path B from the template with this note).

@@ -1,0 +1,12 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/CouponItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Coupon3",
+  "idCoupon": 3,
+  "couponCode": "Event2025",
+  "currencyRewardId": "DM",
+  "currencyAmount": 200,
+  "_scriptType": "CouponItem.cs"
+}

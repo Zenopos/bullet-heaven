@@ -1,0 +1,49 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/BattlePassItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "PassItem 8",
+  "passId": 8,
+  "itemTitle": "Fairy Icon",
+  "itemTitleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Fairy Icon"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Ícone de Fada"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "精灵图标"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "妖精アイコン"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "요정 아이콘"
+    }
+  ],
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/Icons/Icon_4.png",
+    "fileID": 21300000
+  },
+  "rewardType": 2,
+  "rewardTier": 0,
+  "characterData": [],
+  "currencyReward": {
+    "currency": null,
+    "amount": 0
+  },
+  "iconReward": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/IconData/IconData4.asset",
+    "fileID": 11400000
+  },
+  "frameReward": null,
+  "inventoryItems": [],
+  "_scriptType": "BattlePassItem.cs"
+}

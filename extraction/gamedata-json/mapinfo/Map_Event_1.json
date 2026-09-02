@@ -1,0 +1,70 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/MapInfoData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Map_Event_1",
+  "scene": "MapArena4",
+  "mapId": 1001,
+  "isUnlocked": 1,
+  "mapName": "Halloween Event",
+  "mapNameTranslated": [],
+  "mapPreviewImage": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/MapPreview/Arena_3_icon.png",
+    "fileID": 21300000
+  },
+  "mapMinimapImage": {
+    "$ref": null,
+    "guid": "423c9e3f0bcf28244a7b7b6bdaa77e88",
+    "fileID": 21300000
+  },
+  "difficultyRating": 4,
+  "isRewardOnCompleteFirstTime": 1,
+  "WinMapRewards": [
+    {
+      "currency": {
+        "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Upgrade.asset",
+        "fileID": 11400000
+      },
+      "amount": 9999,
+      "accountExp": 1000,
+      "characterExp": 1000,
+      "characterMasteryAmount": 1000
+    },
+    {
+      "currency": {
+        "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Gold.asset",
+        "fileID": 11400000
+      },
+      "amount": 9999,
+      "accountExp": 0,
+      "characterExp": 0,
+      "characterMasteryAmount": 0
+    },
+    {
+      "currency": {
+        "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Diamond.asset",
+        "fileID": 11400000
+      },
+      "amount": 9999,
+      "accountExp": 0,
+      "characterExp": 0,
+      "characterMasteryAmount": 0
+    }
+  ],
+  "rewardType": 0,
+  "iconItem": null,
+  "frameItem": null,
+  "characterData": null,
+  "inventoryItem": null,
+  "isNeedCurrency": 1,
+  "currency": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Stamine.asset",
+    "fileID": 11400000
+  },
+  "amount": 1,
+  "canIgnoreMap": 0,
+  "isEventMap": 1,
+  "eventIdName": "Halloween",
+  "_scriptType": "MapInfoData.cs"
+}

@@ -1,0 +1,16 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/FrameItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Frame 6",
+  "frameName": "Frame 6",
+  "frameNameTranslated": [],
+  "frameId": "frame6",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/Frames/Frame_6.png",
+    "fileID": 21300000
+  },
+  "isUnlocked": 0,
+  "_scriptType": "FrameItem.cs"
+}

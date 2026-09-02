@@ -1,0 +1,23 @@
+Kevin MacLeod (incompetech) — CC BY license note
+=================================================
+
+Two music files in the template's Res/Audio/Music/ are Kevin MacLeod tracks
+(NOT CC0, NOT covered by the publisher's freesound disclosure):
+
+  Res/Audio/Music/AudioClip_Music_Darkling.wav      = "Darkling", ISRC USUAN1700050
+  Res/Audio/Music/AudioClip_Music_MorganaRides.wav  = "Morgana Rides", ISRC USUAN1800010
+
+Verified 2026-09-02 against incompetech's own catalog (fetched, HTTP 200):
+  https://incompetech.com/music/royalty-free/full_list.php
+    contains "ISRC: USUAN1700050 - Darkling" and "ISRC: USUAN1800010 - Morgana Rides"
+License terms page (fetched, HTTP 200):
+  https://incompetech.com/music/royalty-free/licenses/
+    Free use = Creative Commons Attribution (credit required); a paid "Standard License"
+    exists for no-attribution use.
+
+Template WAVs are re-encodes (larger than the incompetech MP3 originals).
+Roblox usage options:
+  A) keep the tracks and give attribution (credits screen + description),
+  B) buy the no-attribution Standard License,
+  C) replace with CC0 music (recommended for simplicity).
+chosen_path in provenance.csv: A (re-download from incompetech) with attribution flag.

@@ -1,0 +1,180 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/GameplayManager.cs",
+    "fileID": 11500000
+  },
+  "m_Name": null,
+  "reviveSeconds": 20,
+  "reviveLimit": 1,
+  "winCondition": 2,
+  "upgradeMode": 0,
+  "bossPrefab": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Monsters/Mushnub/BossMushnubLv1.prefab",
+    "fileID": 5737578929948052375
+  },
+  "survivalTime": 80,
+  "waves": [
+    {
+      "monsters": [
+        {
+          "monsterPrefab": {
+            "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Monsters/Slime/Slime_Fire_Lv1.prefab",
+            "fileID": 2492503425219176357
+          },
+          "spawnInterval": 1.5,
+          "goldPerMonster": 12,
+          "xpPerMonster": 12
+        },
+        {
+          "monsterPrefab": {
+            "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Monsters/Slime/Slime_Fire_Lv2.prefab",
+            "fileID": 2492503425219176357
+          },
+          "spawnInterval": 3,
+          "goldPerMonster": 12,
+          "xpPerMonster": 12
+        }
+      ],
+      "waveDuration": 20,
+      "spawnBossAfterWave": 0
+    },
+    {
+      "monsters": [
+        {
+          "monsterPrefab": {
+            "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Monsters/Slime/Slime_Fire_Lv2.prefab",
+            "fileID": 2492503425219176357
+          },
+          "spawnInterval": 2.2,
+          "goldPerMonster": 19,
+          "xpPerMonster": 19
+        },
+        {
+          "monsterPrefab": {
+            "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Monsters/Slime/Slime_Fire_Lv1.prefab",
+            "fileID": 2492503425219176357
+          },
+          "spawnInterval": 1,
+          "goldPerMonster": 19,
+          "xpPerMonster": 19
+        }
+      ],
+      "waveDuration": 30,
+      "spawnBossAfterWave": 0
+    },
+    {
+      "monsters": [
+        {
+          "monsterPrefab": {
+            "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Monsters/Slime/Slime_Fire_Lv3.prefab",
+            "fileID": 5957155901569432163
+          },
+          "spawnInterval": 4,
+          "goldPerMonster": 30,
+          "xpPerMonster": 30
+        },
+        {
+          "monsterPrefab": {
+            "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Monsters/Slime/Slime_Fire_Lv2.prefab",
+            "fileID": 2492503425219176357
+          },
+          "spawnInterval": 2,
+          "goldPerMonster": 30,
+          "xpPerMonster": 30
+        }
+      ],
+      "waveDuration": 40,
+      "spawnBossAfterWave": 0
+    }
+  ],
+  "xpToNextLevel": [
+    200,
+    225,
+    253,
+    285,
+    321,
+    361,
+    406,
+    457,
+    514,
+    578,
+    650,
+    731,
+    823,
+    926,
+    1042,
+    1173,
+    1320,
+    1485,
+    1671,
+    1880,
+    2116,
+    2381,
+    2679,
+    3015,
+    3393,
+    3818,
+    4297,
+    4836,
+    5442,
+    6124,
+    6892,
+    7756,
+    8728,
+    9822,
+    11053,
+    12438,
+    13997,
+    15751,
+    17725,
+    19947
+  ],
+  "maxLevel": 40,
+  "minDamage": 5,
+  "timeDisplayFormat": 1,
+  "maxLevelStatPerks": 5,
+  "maxLevelSkillPerks": 5,
+  "maxSkills": 5,
+  "maxStats": 5,
+  "skillPerkData": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/SkillsPeark/Multi Shots Perk.asset",
+      "fileID": 11400000
+    }
+  ],
+  "statPerkData": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/StatsPearks/attackSpeed.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/StatsPearks/Damage.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/StatsPearks/MoveSpeed.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/StatsPearks/HPRegen.asset",
+      "fileID": 11400000
+    }
+  ],
+  "spawnPointsList": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "teamSpawnSlots": [
+    null
+  ],
+  "teamSpawnSpreadRadius": 1.5,
+  "PreloadAllMonsters": 0,
+  "_scriptType": "GameplayManager.cs",
+  "_sourceScene": "Res/Scenes/MapArena3.unity",
+  "xpToNextLevel_raw": "c8000000e1000000fd0000001d010000410100006901000096010000c901000002020000420200008a020000db020000370300009e030000120400009504000028050000cd0500008706000058070000440800004d090000770a0000c70b0000410d0000ea0e0000c9100000e412000042150000ec170000ec1a00004c1e0000182200005e2600002d2b000096300000ad360000873d00003d450000eb4d0000",
+  "_formatNotes": {
+    "xpToNextLevel": "Unity int[] serialized as hex little-endian uint32; decoded to int list, raw hex kept in xpToNextLevel_raw"
+  }
+}

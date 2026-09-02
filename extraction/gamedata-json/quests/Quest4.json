@@ -1,0 +1,56 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/QuestItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Quest4",
+  "questId": 4,
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/OldUI/UI Images/Icon_Dayle.png",
+    "fileID": 21300000
+  },
+  "title": "Saving the Day",
+  "titleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Saving the Day"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Salvando o Dia"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "拯救世界"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "世界を救え"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "하루를 구하라"
+    }
+  ],
+  "currencyReward": "DM",
+  "currencyAmount": 15,
+  "battlePassExp": 100,
+  "accountExp": 50,
+  "selectedCharacterExp": 0,
+  "questReward": 0,
+  "characterData": null,
+  "iconItem": null,
+  "frameItem": null,
+  "inventoryItem": null,
+  "requirement": {
+    "requirementType": 0,
+    "targetAmount": 1000,
+    "targetMap": null,
+    "targetCharacter": {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/CharacterData/character1.asset",
+      "fileID": 11400000
+    }
+  },
+  "questType": 1,
+  "_scriptType": "QuestItem.cs"
+}

@@ -1,0 +1,35 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/StatPerkData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "MaxHPRate",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/HP.png",
+    "fileID": 21300000
+  },
+  "maxLevelIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/HPMax.png",
+    "fileID": 21300000
+  },
+  "statType": 0,
+  "fixedStat": {
+    "values": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "rateStat": {
+    "rates": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5
+    ]
+  },
+  "_scriptType": "StatPerkData.cs"
+}

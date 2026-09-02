@@ -1,0 +1,89 @@
+PUBLISHER THIRD-PARTY DISCLOSURE — BulletHell Elemental Template (BizachiCode)
+Source: Codester mirror of the store listing
+URL: https://www.codester.com/items/55926/bullethell-elemental-template-unity
+Fetched: 2026-09-02 (HTTP 200, full text below verbatim from the listing body)
+(The same text appears on bizachicode.com/project/bullethell-elemental — that page is
+JS-rendered and could not be captured verbatim with fetch tools; Google-indexed snippet
+matches the Codester text. The Unity Asset Store listing ID 293814 carries the same
+"third-party resources" section per context/01 note [^1^].)
+
+----- verbatim excerpt -----
+
+This asset uses the following third-party resources:
+
+LeanTween
+
+License: MIT
+
+Author: Russell Savage - Dented Pixel
+
+Shader:
+
+Name: "SimpleURPToonLit"
+
+License: MIT
+
+Author: NiloToon
+
+Audio Files:
+
+Path: "ThirdPartyResources/Audio"
+
+License: CC0 Public domain
+
+Source: freesound.org
+
+3D Models:
+
+Path: "ThirdPartyResources"
+
+License: CC0 Public domain
+
+Source: poly.pizza
+
+Modular Dungeon Kit:
+
+Path: "ThirdPartyResources/Modular Dungeon Kit"
+
+License: MIT
+
+Author: Henry Boadle
+
+UI Images:
+
+Path: "ThirdPartyResources/NewUI"
+
+License: MIT
+
+Author: Evghenii Conev
+
+Font:
+
+Name: "Evil Empire"
+
+License: CC0 Public domain
+
+Source: Fontmeme.com
+
+Note: The authors, Evghenii Conev and Henry Boadle, have expressly granted permission
+to use their assets under the MIT License. This authorization allows all purchasers
+of this package to utilize the assets under the MIT License as well.
+
+----- end verbatim excerpt -----
+
+RECONCILIATION NOTES (from file-level inspection of the purchased project, 2026-09-02):
+- No "ThirdPartyResources/Modular Dungeon Kit" folder exists in v1.5.0. The actual
+  dungeon/arena content is Kenney "Mini Dungeon" (v1.5) and "Mini Arena" (v1.1), both
+  CC0, each with a bundled License.txt inside ThirdPartyResources/3DModels/.
+  The Henry Boadle MIT disclosure maps to no shipped files (stale or substituted entry).
+- "ThirdPartyResources/NewUI" ships as "ThirdPartyResources/New UI/". Its
+  1.3.0UI/Ranks subfolder is actually the RhosGFX "Vector Ranks" pack (CC0, bundled
+  License.txt). The remaining New UI art has no located public original; it rides on
+  the publisher's MIT disclosure above (per-file unverified).
+- The 3D models are indeed poly.pizza-sourced CC0 content, identified file-level as
+  KayKit Character Packs (Adventurers + Skeletons, Kay Lousberg) and Quaternius
+  Ultimate Monsters — see extraction/kaykit-diff.md for the hash/bone-level evidence.
+- Audio: per-file freesound matching could not be verified anonymously (2026-09-02);
+  re-verify each file before Roblox upload. Two music files in Res/Audio are NOT
+  covered by this disclosure (they are Kevin MacLeod CC-BY and Pixabay content —
+  see KevinMacLeod-CCBY-note.txt and Pixabay-XtremeFreddy-note.txt).
