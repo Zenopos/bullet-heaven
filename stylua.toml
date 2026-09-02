@@ -1,0 +1,6 @@
+# StyLua format config — one enforced code style; --check is the first CI gate.
+column_width = 100
+line_endings = "Unix"
+indent_type = "Tabs"
+indent_width = 4
+quote_style = "AutoPreferDouble"

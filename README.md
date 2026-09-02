@@ -18,7 +18,7 @@ Quality gates (all must exit 0 before any commit):
 ```sh
 stylua --check src tests
 selene src tests
-luau-lsp analyze
+luau-lsp analyze --platform roblox --definitions tools/globalTypes.d.luau --sourcemap sourcemap.json --ignore "tools/globalTypes.d.luau" .
 rojo build -o place.rbxl
 ```
 

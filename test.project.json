@@ -1,0 +1,28 @@
+{
+	"name": "bullet-heaven-test",
+	"tree": {
+		"$className": "DataModel",
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"Server": { "$path": "src/server" }
+		},
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"Client": { "$path": "src/client" }
+			}
+		},
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Shared": { "$path": "src/shared" },
+			"Assets": { "$path": "src/assets" },
+			"Packages": { "$path": "Packages" },
+			"DevPackages": { "$path": "DevPackages" },
+			"Tests": { "$path": "tests" }
+		},
+		"Workspace": { "$className": "Workspace", "$properties": { "FilteringEnabled": true } },
+		"Lighting": { "$className": "Lighting" },
+		"SoundService": { "$className": "SoundService" }
+	}
+}

@@ -1,0 +1,8 @@
+# Selene lint config — context/02 §4.
+# "roblox+testez": testez.yml (repo root) defines TestEZ spec globals (describe/it/expect/…),
+# per selene docs. roblox.yml is pinned + committed (`selene generate-roblox-std`) so CI is hermetic.
+std = "roblox+testez"
+roblox-std-source = "pinned"
+
+# Vendored third-party module (MadStudioRoblox/ProfileStore) — never lint upstream code.
+exclude = ["src/server/Lib/ProfileStore.luau"]

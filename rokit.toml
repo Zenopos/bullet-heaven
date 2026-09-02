@@ -1,0 +1,10 @@
+# Toolchain pins — context/02 §1. Never bump a pin without re-running the full local gate.
+[tools]
+rojo                = "rojo-rbx/rojo@7.6.1"                        # sync + build
+wally               = "UpliftGames/wally@0.3.2"                    # packages
+selene              = "Kampfkarren/selene@0.31.0"                  # lint
+stylua              = "JohnnyMorganz/StyLua@2.5.2"                 # format
+luau-lsp            = "JohnnyMorganz/luau-lsp@1.69.0"              # language server + CI analyze
+lune                = "lune-org/lune@0.10.4"                       # CI scripts / headless runtime
+wally-package-types = "JohnnyMorganz/wally-package-types@1.4.2"    # typed Packages
+zap                 = "red-blox/zap@0.6.23"                        # networking IDL compiler (binary — not a Wally package; context/02 §3)
