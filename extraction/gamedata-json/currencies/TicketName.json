@@ -1,0 +1,23 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/Currency.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "TicketName",
+  "coinName": "TicketName",
+  "coinID": "TKN",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/OldUI/Misc/gem-animation.psd",
+    "fileID": 21300000
+  },
+  "initialAmount": 10,
+  "useMaxAmount": 0,
+  "maxAmount": 100,
+  "canExceedMaxValue": 1,
+  "isRechargeableCurrency": 0,
+  "rechargeableTimeScale": 0,
+  "rechargeableTime": 60,
+  "rechargeAmount": 0,
+  "RechargeWhileOffline": 0,
+  "_scriptType": "Currency.cs"
+}

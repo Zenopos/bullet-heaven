@@ -1,0 +1,281 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/CharacterData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "character4",
+  "characterName": "Scorchblade ",
+  "characterNameTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Scorchblade"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Scorchblade"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "烈焰刃"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "スコーチブレード"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "스코치블레이드"
+    }
+  ],
+  "characterId": 3,
+  "characterType": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/FireType.asset",
+    "fileID": 11400000
+  },
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/WarriorIcon.png",
+    "fileID": 21300000
+  },
+  "tierIcon": {
+    "$ref": null,
+    "guid": "09ac96ec04b5ff845a6674da668c2a0e",
+    "fileID": 21300000
+  },
+  "characterClassType": "Warrior",
+  "characterClassTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Warrior"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Guerreiro"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "战士"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "ウォリアー"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "워리어"
+    }
+  ],
+  "characterClassIcon": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/1.3.0UI/ClassIcon/WarriorIcon.png",
+    "fileID": 21300000
+  },
+  "characterRarity": 4,
+  "characterModel": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Skeleton Warrior/SkeletonWarriorFire.prefab",
+    "fileID": 306770583758182995
+  },
+  "characterSkins": [
+    {
+      "skinIcon": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/WarriorIcon.png",
+        "fileID": 21300000
+      },
+      "skinName": "Scorchblade ",
+      "skinNameTranslated": [
+        {
+          "LanguageId": "en",
+          "Translate": "Scorchblade"
+        },
+        {
+          "LanguageId": "pt",
+          "Translate": "Scorchblade"
+        },
+        {
+          "LanguageId": "zh",
+          "Translate": "烈焰刃"
+        },
+        {
+          "LanguageId": "ja",
+          "Translate": "スコーチブレード"
+        },
+        {
+          "LanguageId": "ko",
+          "Translate": "스코치블레이드"
+        }
+      ],
+      "skinCharacterModel": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Skeleton Warrior/SkeletonWarriorFire.prefab",
+        "fileID": 306770583758182995
+      },
+      "isUnlocked": 1,
+      "unlockCurrencyId": "DM",
+      "unlockPrice": 0
+    },
+    {
+      "skinIcon": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/WarriorIcon.png",
+        "fileID": 21300000
+      },
+      "skinName": "Golden Scorchblade ",
+      "skinNameTranslated": [],
+      "skinCharacterModel": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Skeleton Warrior/SkeletonWarriorSkin1.prefab",
+        "fileID": 306770583758182995
+      },
+      "isUnlocked": 0,
+      "unlockCurrencyId": "DM",
+      "unlockPrice": 500
+    }
+  ],
+  "autoAttack": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Skeleton Warrior/WarriorAA.asset",
+    "fileID": 11400000
+  },
+  "skills": [
+    {
+      "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Skeleton Warrior/DashWarrior.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Skeleton Warrior/WarriorUltimate.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Skeleton Warrior/SwordAttack.asset",
+      "fileID": 11400000
+    }
+  ],
+  "itemSlots": [
+    "Head",
+    "Armor",
+    "Pants",
+    "Shoes"
+  ],
+  "runeSlots": [
+    "Rune Universal",
+    "Rune Defense",
+    "Rune Attack",
+    "Rune Support"
+  ],
+  "isUnlock": 0,
+  "baseStats": {
+    "baseHP": 1300,
+    "baseHPRegen": 2,
+    "baseHPLeech": 0.15,
+    "baseMP": 100,
+    "baseMPRegen": 4,
+    "baseDamage": 65,
+    "baseAttackSpeed": 2.2,
+    "baseCooldownReduction": 0,
+    "baseCriticalRate": 0.65,
+    "baseCriticalDamageMultiplier": 2,
+    "baseDefense": 0,
+    "baseShield": 0,
+    "baseMoveSpeed": 2.2,
+    "baseCollectRange": 2,
+    "baseMaxStats": 3,
+    "baseMaxSkills": 3
+  },
+  "maxLevel": 10,
+  "statsPercentageIncreaseByLevel": 0.05,
+  "expCalculationMethod": 1,
+  "initialExp": 20,
+  "finalExp": 500,
+  "expPerLevel": "140000001d000000290000003a0000005400000078000000ab000000f50000005e010000f4010000",
+  "currencyId": "UP",
+  "upgradeCostPerLevel": "1900000026000000390000005500000081000000c200000024010000b901000098020000e8030000",
+  "initialUpgradeCost": 25,
+  "finalUpgradeCost": 1000,
+  "upgradeCostCalculationMethod": 1,
+  "statUpgrades": [
+    {
+      "upgradeName": "Hp Max",
+      "upgradeNameTranslated": [],
+      "statType": 0,
+      "upgradeMaxLevel": 5,
+      "upgradeAmounts": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "upgradeCosts": 0,
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/HP.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    },
+    {
+      "upgradeName": "Damage Plus",
+      "upgradeNameTranslated": [],
+      "statType": 5,
+      "upgradeMaxLevel": 5,
+      "upgradeAmounts": [
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "upgradeCosts": "c8000000bc020000dc05000088130000e02e000008520000",
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Damage.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    },
+    {
+      "upgradeName": "Collector",
+      "upgradeNameTranslated": [],
+      "statType": 13,
+      "upgradeMaxLevel": 5,
+      "upgradeAmounts": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "upgradeCosts": 0,
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/OldUI/UI Images/icon_Monster.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    },
+    {
+      "upgradeName": "More Stats",
+      "upgradeNameTranslated": [],
+      "statType": 14,
+      "upgradeMaxLevel": 2,
+      "upgradeAmounts": [
+        1,
+        1
+      ],
+      "upgradeCosts": 0,
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Damage.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    },
+    {
+      "upgradeName": "More Skills",
+      "upgradeNameTranslated": [],
+      "statType": 15,
+      "upgradeMaxLevel": 2,
+      "upgradeAmounts": [
+        1,
+        1
+      ],
+      "upgradeCosts": 0,
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Leech.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    }
+  ],
+  "_scriptType": "CharacterData.cs"
+}

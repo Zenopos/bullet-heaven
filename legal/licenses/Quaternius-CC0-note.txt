@@ -1,0 +1,23 @@
+Quaternius Ultimate Monsters — CC0 note
+=======================================
+
+The template's monster models (Mushnub, Slime, Alien under
+ThirdPartyResources/3DModels/Monsters/) match Quaternius "Ultimate Monsters"
+pack naming (Mushnub / Pink Slime / Alien etc.), consistent with the publisher's
+"3D models: CC0, poly.pizza" disclosure.
+
+Verified 2026-09-02 (fetched, HTTP 200):
+  https://poly.pizza/bundle/Ultimate-Monsters-Bundle-5oyGWAmOB6
+    "Ultimate Monsters Bundle by Quaternius — 50 Monsters with attack, death, running,
+     walking, and many more animations. In .FBX, and glTF formats. Free to use in any
+     project, even commercially! (CC0) — Licence: Public Domain (CC0)"
+  https://quaternius.com/packs/ultimatemonsters.html
+    (pack page; links to https://creativecommons.org/publicdomain/zero/1.0/;
+     download is a Google Drive folder:
+     https://drive.google.com/drive/folders/18m4KpzpEzhC9wl7jzr6dUc0N8Jozr79C)
+
+Per-model poly.pizza pages could not be fetched individually (Cloudflare anti-bot on
+poly.pizza /search and /m/ routes, 2026-09-02) — per-file verification stays
+"pack-level verified, per-file unverified". Bulk download from the Drive folder was
+not attempted (no anonymous folder-zip without third-party tooling); the template
+(Path B) copies are byte-usable under CC0 either way.

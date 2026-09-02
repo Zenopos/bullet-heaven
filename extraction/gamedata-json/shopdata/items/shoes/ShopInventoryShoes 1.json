@@ -1,0 +1,29 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/ShopItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "ShopInventoryShoes 1",
+  "itemId": 40001,
+  "itemTitle": "Shoes Uncommon",
+  "itemTitleTranslated": [],
+  "price": 100,
+  "currency": "GO",
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Addons/Inventory/Resources/UI/ShoesItemIcon.png",
+    "fileID": 21300000
+  },
+  "category": "item",
+  "isCurrencyPackage": 0,
+  "currencyRewards": [],
+  "icons": [],
+  "frames": [],
+  "characterData": [],
+  "inventoryItems": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Addons/Inventory/Resources/Shoes/ShoesUncommon.asset",
+      "fileID": 11400000
+    }
+  ],
+  "_scriptType": "ShopItem.cs"
+}

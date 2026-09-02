@@ -1,0 +1,31 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/ShopItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "ShopGold1",
+  "itemId": "gold1",
+  "itemTitle": "Stamine",
+  "price": 10,
+  "currency": "STM",
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/OldUI/UI Images/Bundle_icon_01.png",
+    "fileID": 21300000
+  },
+  "category": "currency",
+  "isCurrencyPackage": 1,
+  "currencyRewards": [
+    {
+      "currency": {
+        "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Gold.asset",
+        "fileID": 11400000
+      },
+      "amount": 1000
+    }
+  ],
+  "icons": [],
+  "frames": [],
+  "characterData": [],
+  "inventoryItems": [],
+  "_scriptType": "ShopItem.cs"
+}

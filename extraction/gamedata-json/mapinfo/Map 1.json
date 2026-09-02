@@ -1,0 +1,47 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/MapInfoData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Map 1",
+  "scene": "MapArena1",
+  "mapId": 1,
+  "isUnlocked": 1,
+  "mapName": "Chess Castle",
+  "mapNameTranslated": [],
+  "mapPreviewImage": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/MapPreview/Arena_1_Icon.png",
+    "fileID": 21300000
+  },
+  "mapMinimapImage": {
+    "$ref": null,
+    "guid": "f43add0401276694b9ea7324a4a6de19",
+    "fileID": 21300000
+  },
+  "difficultyRating": 1,
+  "isRewardOnCompleteFirstTime": 1,
+  "WinMapRewards": [
+    {
+      "currency": {
+        "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Diamond.asset",
+        "fileID": 11400000
+      },
+      "amount": 10,
+      "accountExp": 100,
+      "characterExp": 100,
+      "characterMasteryAmount": 100
+    }
+  ],
+  "rewardType": 0,
+  "iconItem": null,
+  "frameItem": null,
+  "characterData": null,
+  "inventoryItem": null,
+  "isNeedCurrency": 0,
+  "currency": null,
+  "amount": 0,
+  "canIgnoreMap": 0,
+  "isEventMap": 0,
+  "eventIdName": null,
+  "_scriptType": "MapInfoData.cs"
+}

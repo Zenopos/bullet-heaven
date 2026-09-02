@@ -1,0 +1,30 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/ShopItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "ShopGold3",
+  "itemId": "gold3",
+  "itemTitle": "GM Gold Pack",
+  "price": 999,
+  "currency": "DM",
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/OldUI/UI Images/Bundle_icon_04.png",
+    "fileID": 21300000
+  },
+  "category": "currency",
+  "isCurrencyPackage": 1,
+  "currencyRewards": [
+    {
+      "currency": {
+        "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Gold.asset",
+        "fileID": 11400000
+      },
+      "amount": 50000
+    }
+  ],
+  "icons": [],
+  "frames": [],
+  "characterData": [],
+  "_scriptType": "ShopItem.cs"
+}

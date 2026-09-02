@@ -1,0 +1,29 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/ShopItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "ShopFrame3",
+  "itemId": "shop_frame_3",
+  "itemTitle": "Frame 4",
+  "itemTitleTranslated": [],
+  "price": 100,
+  "currency": "DM",
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/Frames/Frame_4.png",
+    "fileID": 21300000
+  },
+  "category": "frame",
+  "isCurrencyPackage": 0,
+  "currencyRewards": [],
+  "icons": [],
+  "frames": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/FrameData/Frame 4.asset",
+      "fileID": 11400000
+    }
+  ],
+  "characterData": [],
+  "inventoryItems": [],
+  "_scriptType": "ShopItem.cs"
+}

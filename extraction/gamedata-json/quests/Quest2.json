@@ -1,0 +1,53 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/QuestItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Quest2",
+  "questId": 2,
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/OldUI/UI Images/icon_Monster.png",
+    "fileID": 21300000
+  },
+  "title": "Defeating Monsters II",
+  "titleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Defeating Monsters II"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Derrotando os Monstros II"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "击败怪物 II"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "モンスター討伐 II"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "몬스터 처치 II"
+    }
+  ],
+  "currencyReward": "GO",
+  "currencyAmount": 100,
+  "battlePassExp": 100,
+  "accountExp": 100,
+  "selectedCharacterExp": 40,
+  "questReward": 0,
+  "characterData": null,
+  "iconItem": null,
+  "frameItem": null,
+  "inventoryItem": null,
+  "requirement": {
+    "requirementType": 0,
+    "targetAmount": 100,
+    "targetMap": null,
+    "targetCharacter": null
+  },
+  "questType": 0,
+  "_scriptType": "QuestItem.cs"
+}

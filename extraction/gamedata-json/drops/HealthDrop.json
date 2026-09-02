@@ -1,0 +1,26 @@
+[
+  {
+    "m_Script": {
+      "$ref": "Assets/BulletHellTemplate/Core/DropEntity.cs",
+      "fileID": 11500000
+    },
+    "m_Name": null,
+    "type": 2,
+    "value": 200,
+    "canAutoCollect": 1,
+    "_scriptType": "DropEntity.cs"
+  },
+  {
+    "m_Script": {
+      "$ref": "Assets/BulletHellTemplate/Core/RotateObject.cs",
+      "fileID": 11500000
+    },
+    "m_Name": null,
+    "rotationSpeed": {
+      "x": 0,
+      "y": 100,
+      "z": 0
+    },
+    "_scriptType": "RotateObject.cs"
+  }
+]

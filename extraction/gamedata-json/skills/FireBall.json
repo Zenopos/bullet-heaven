@@ -1,0 +1,114 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/SkillData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "FireBall",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/Fireball.png",
+    "fileID": 21300000
+  },
+  "iconEvolved": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/Fireball.png",
+    "fileID": 21300000
+  },
+  "frameEvolved": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/UI_Gameplay/EvolveFrame.png",
+    "fileID": 21300000
+  },
+  "skillName": "Fireball",
+  "damageType": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/FireType.asset",
+    "fileID": 11400000
+  },
+  "delayToLaunch": 0,
+  "cooldown": 5,
+  "isHpLeech": 0,
+  "damageEntityPrefab": {
+    "$ref": null,
+    "guid": "1759f5f6baeba224baffd541dad0aed6",
+    "fileID": 3905412019331826984
+  },
+  "evolvedDamageEntityPrefab": {
+    "$ref": null,
+    "guid": "1759f5f6baeba224baffd541dad0aed6",
+    "fileID": 3905412019331826984
+  },
+  "isMultiShot": 1,
+  "shots": 2,
+  "angle": 0,
+  "delay": 0.25,
+  "evolveChanges": 1,
+  "shotsEvolved": 5,
+  "angleEvolved": 0,
+  "delayEvolved": 0.19,
+  "isOrbital": 0,
+  "orbitalDistance": 2,
+  "isDash": 1,
+  "dashSpeed": 4,
+  "dashDuration": 0.3,
+  "isShield": 1,
+  "shieldAmount": 100,
+  "shieldDuration": 2,
+  "isMelee": 0,
+  "applySlow": 0,
+  "slowPercent": 0,
+  "slowDuration": 0,
+  "apllyKnockback": 0,
+  "knockbackDistance": 0,
+  "knockbackDuration": 0,
+  "apllyStun": 0,
+  "stunDuration": 0,
+  "apllyDOT": 0,
+  "dotAmount": 0,
+  "dotDuration": 0,
+  "isRotateToEnemy": 1,
+  "rotateDuration": 0.7,
+  "skillLevels": [
+    {
+      "baseDamage": 15,
+      "attackerDamageRate": 0.5,
+      "canCauseCriticalDamage": 1,
+      "speed": 12,
+      "lifeTime": 1,
+      "isEvolved": 0
+    },
+    {
+      "baseDamage": 50,
+      "attackerDamageRate": 0.75,
+      "canCauseCriticalDamage": 1,
+      "speed": 12,
+      "lifeTime": 1,
+      "isEvolved": 0
+    },
+    {
+      "baseDamage": 75,
+      "attackerDamageRate": 1.15,
+      "canCauseCriticalDamage": 1,
+      "speed": 12,
+      "lifeTime": 1,
+      "isEvolved": 0
+    },
+    {
+      "baseDamage": 100,
+      "attackerDamageRate": 1.2,
+      "canCauseCriticalDamage": 1,
+      "speed": 12,
+      "lifeTime": 1,
+      "isEvolved": 0
+    },
+    {
+      "baseDamage": 200,
+      "attackerDamageRate": 2,
+      "canCauseCriticalDamage": 1,
+      "speed": 15,
+      "lifeTime": 1,
+      "isEvolved": 1
+    }
+  ],
+  "requireStatForEvolve": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/StatsPearks/attackSpeed.asset",
+    "fileID": 11400000
+  },
+  "_scriptType": "SkillData.cs"
+}

@@ -1,0 +1,27 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/ShopItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "ShopIcon3",
+  "itemId": 8,
+  "itemTitle": "Icon 4",
+  "price": 200,
+  "currency": "DM",
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/Icons/Icon_4.png",
+    "fileID": 21300000
+  },
+  "category": "icon",
+  "isCurrencyPackage": 0,
+  "currencyRewards": [],
+  "icons": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/IconData/IconData4.asset",
+      "fileID": 11400000
+    }
+  ],
+  "frames": [],
+  "characterData": [],
+  "_scriptType": "ShopItem.cs"
+}

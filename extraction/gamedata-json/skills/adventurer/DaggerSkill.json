@@ -1,0 +1,212 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/SkillData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "DaggerSkill",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/skill_dagger_1.png",
+    "fileID": 21300000
+  },
+  "iconEvolved": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/SkillsIcon/skill_dagger_1.png",
+    "fileID": 21300000
+  },
+  "frameEvolved": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/Box4Selected.png",
+    "fileID": 21300000
+  },
+  "skillName": "Dagger throwing",
+  "skillNameTranslated": [],
+  "damageType": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/FireType.asset",
+    "fileID": 11400000
+  },
+  "cooldown": 6,
+  "delayToLaunch": 0,
+  "delayToMove": 0,
+  "canRotateWhileStopped": 0,
+  "autoAttackDelay": 3,
+  "manaCost": 20,
+  "AimMode": 0,
+  "damageEntityPrefab": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/DaggerSkill_Prefab.prefab",
+    "fileID": 926067750446100022
+  },
+  "spawnEffect": {
+    "$ref": "Assets/BulletHellTemplate/Res/Effects/Swirl/SwirlEffect.prefab",
+    "fileID": 2703960052037390760
+  },
+  "spawnAudio": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Audio/Swoosh1.wav",
+    "fileID": 8300000
+  },
+  "playSpawnAudioEaShot": 0,
+  "skillAudio": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Audio/MaleGrunt.wav",
+    "fileID": 8300000
+  },
+  "playSkillAudioEaShot": 0,
+  "playSkillAudioAfter": 0.1,
+  "HitEffect": {
+    "$ref": "Assets/BulletHellTemplate/Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect6.prefab",
+    "fileID": 2229347667842700779
+  },
+  "HitAudio": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Audio/Impact_3.wav",
+    "fileID": 8300000
+  },
+  "rangeIndicatorType": 0,
+  "radialIndicatorSettings": {
+    "radiusArea": 2,
+    "useCastIndicator": 1
+  },
+  "radialAoEIndicatorSettings": {
+    "radiusMaxRange": 2,
+    "radiusArea": 0.4,
+    "useCastIndicator": 1
+  },
+  "arrowIndicatorSettings": {
+    "arrowSize": {
+      "x": 0.44675118,
+      "y": 0.46046942,
+      "z": 1
+    },
+    "useCastIndicator": 1
+  },
+  "coneIndicatorSettings": {
+    "ConeSize": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "useCastIndicator": 0
+  },
+  "launchType": 0,
+  "airStrikeHeight": 0,
+  "isRotateToEnemy": 1,
+  "rotateDuration": 0.7,
+  "destroyOnFirstHit": 0,
+  "sizeChangeConfig": {
+    "enableSizeChange": 0,
+    "initialSizeX": 1,
+    "finalSizeX": 3,
+    "sizeChangeTimeX": 1,
+    "initialSizeY": 1,
+    "finalSizeY": 3,
+    "sizeChangeTimeY": 1,
+    "initialSizeZ": 1,
+    "finalSizeZ": 3,
+    "sizeChangeTimeZ": 1
+  },
+  "isHpLeech": 0,
+  "explodeOnDestroy": 0,
+  "explodeDamageEntity": null,
+  "explodeEntitySettings": {
+    "baseDamage": 500,
+    "attackerDamageRate": 0,
+    "canCauseCriticalDamage": 1,
+    "speed": 0,
+    "lifeTime": 3,
+    "isEvolved": 0
+  },
+  "isMultiShot": 1,
+  "shots": 6,
+  "angle": 20,
+  "delay": 0,
+  "isAdvancedMultiShot": 0,
+  "playAnimationEaShot": 0,
+  "shotWaves": [],
+  "shotWavesEvolved": [],
+  "isOrbital": 0,
+  "orbitalDistance": 2,
+  "isRicochet": 1,
+  "isBoomerangSkill": 0,
+  "maxDistance": 5,
+  "isDash": 0,
+  "isReverseDash": 0,
+  "dashSpeed": 4,
+  "dashDuration": 0.3,
+  "advancedDashSettings": {
+    "enableAdvancedDash": 0,
+    "AnimationTriggerEachDash": 0,
+    "dashWaves": 1,
+    "delayBetweenWaves": 0,
+    "dashMode": 3,
+    "dashSpeed": 10,
+    "dashDuration": 0.3
+  },
+  "isMelee": 0,
+  "applySlow": 0,
+  "slowPercent": 0,
+  "slowDuration": 0,
+  "applyKnockback": 1,
+  "knockbackDistance": 0.5,
+  "knockbackDuration": 0.1,
+  "applyStun": 0,
+  "stunDuration": 0,
+  "applyDOT": 0,
+  "dotAmount": 0,
+  "dotDuration": 0,
+  "receiveHeal": 0,
+  "healAmount": 1000,
+  "receiveShield": 0,
+  "shieldAmount": 0,
+  "shieldDuration": 1,
+  "receiveMoveSpeed": 0,
+  "moveSpeedAmount": 5,
+  "moveSpeedDuration": 5,
+  "receiveAttackSpeed": 0,
+  "attackSpeedAmount": 1,
+  "attackSpeedDuration": 3,
+  "receiveDefense": 0,
+  "defenseAmount": 100,
+  "defenseDuration": 3,
+  "receiveDamage": 0,
+  "damageAmount": 200,
+  "damageDuration": 5,
+  "isInvincible": 0,
+  "invincibleDuration": 2,
+  "receiveSlow": 0,
+  "receiveSlowAmount": 0.523,
+  "receiveSlowDuration": 1,
+  "evolvedDamageEntityPrefab": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/DaggerSkill_Prefab.prefab",
+    "fileID": 926067750446100022
+  },
+  "evolveChanges": 1,
+  "shotsEvolved": 6,
+  "angleEvolved": 25,
+  "delayEvolved": 0,
+  "skillLevels": [
+    {
+      "baseDamage": 15,
+      "attackerDamageRate": 0.8,
+      "canCauseCriticalDamage": 1,
+      "speed": 8,
+      "lifeTime": 1.2,
+      "isEvolved": 0
+    },
+    {
+      "baseDamage": 30,
+      "attackerDamageRate": 1,
+      "canCauseCriticalDamage": 1,
+      "speed": 8,
+      "lifeTime": 1,
+      "isEvolved": 0
+    },
+    {
+      "baseDamage": 50,
+      "attackerDamageRate": 1,
+      "canCauseCriticalDamage": 1,
+      "speed": 8,
+      "lifeTime": 1.2,
+      "isEvolved": 1
+    }
+  ],
+  "requireStatForEvolve": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/StatsPearks/attackSpeed.asset",
+    "fileID": 11400000
+  },
+  "_scriptType": "SkillData.cs"
+}

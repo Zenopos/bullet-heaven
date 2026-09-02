@@ -1,0 +1,29 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/StatPerkData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "MoveSpeed",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Speed.png",
+    "fileID": 21300000
+  },
+  "maxLevelIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/SpeedMax.png",
+    "fileID": 21300000
+  },
+  "statType": 10,
+  "fixedStat": {
+    "values": [
+      0.15,
+      0.15,
+      0.15,
+      0.15,
+      0.4
+    ]
+  },
+  "rateStat": {
+    "rates": []
+  },
+  "_scriptType": "StatPerkData.cs"
+}

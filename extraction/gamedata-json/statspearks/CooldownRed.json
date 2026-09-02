@@ -1,0 +1,29 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/StatPerkData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "CooldownRed",
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Cooldown.png",
+    "fileID": 21300000
+  },
+  "maxLevelIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/CooldownMax.png",
+    "fileID": 21300000
+  },
+  "statType": 7,
+  "fixedStat": {
+    "values": [
+      5,
+      7,
+      10,
+      13,
+      15
+    ]
+  },
+  "rateStat": {
+    "rates": []
+  },
+  "_scriptType": "StatPerkData.cs"
+}

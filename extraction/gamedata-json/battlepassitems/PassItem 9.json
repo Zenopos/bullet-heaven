@@ -1,0 +1,49 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/BattlePassItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "PassItem 9",
+  "passId": 9,
+  "itemTitle": "Gold Frame",
+  "itemTitleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Gold Frame"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Moldura Dourada"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "黄金边框"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "ゴールドフレーム"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "골드 프레임"
+    }
+  ],
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/UI/Frames/Frame_4.png",
+    "fileID": 21300000
+  },
+  "rewardType": 3,
+  "rewardTier": 1,
+  "characterData": [],
+  "currencyReward": {
+    "currency": null,
+    "amount": 0
+  },
+  "iconReward": null,
+  "frameReward": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/FrameData/Frame 4.asset",
+    "fileID": 11400000
+  },
+  "inventoryItems": [],
+  "_scriptType": "BattlePassItem.cs"
+}

@@ -1,0 +1,49 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/BattlePassItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "PassItem 5",
+  "passId": 5,
+  "itemTitle": "Diamond Plus",
+  "itemTitleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Diamond Plus"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Diamante Plus"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "钻石 Plus"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "ダイヤモンドプラス"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "다이아몬드 플러스"
+    }
+  ],
+  "itemIcon": {
+    "$ref": "Assets/BulletHellTemplate/Res/OldUI/UI Images/Bundle_icon_06.png",
+    "fileID": 21300000
+  },
+  "rewardType": 1,
+  "rewardTier": 1,
+  "characterData": [],
+  "currencyReward": {
+    "currency": {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/Currencies/Diamond.asset",
+      "fileID": 11400000
+    },
+    "amount": 50
+  },
+  "iconReward": null,
+  "frameReward": null,
+  "inventoryItems": [],
+  "_scriptType": "BattlePassItem.cs"
+}

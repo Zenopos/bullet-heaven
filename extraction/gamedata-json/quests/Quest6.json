@@ -1,0 +1,56 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/QuestItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Quest6",
+  "questId": 6,
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/GunnerIcon.png",
+    "fileID": 21300000
+  },
+  "title": "Gunslinger Mastery",
+  "titleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Gunslinger Mastery"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Maestria do Atirador"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "神枪手精通"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "ガンスリンガーの熟練度"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "총잡이 숙련도"
+    }
+  ],
+  "currencyReward": "GO",
+  "currencyAmount": 0,
+  "battlePassExp": 0,
+  "accountExp": 20,
+  "selectedCharacterExp": 300,
+  "questReward": 0,
+  "characterData": null,
+  "iconItem": null,
+  "frameItem": null,
+  "inventoryItem": null,
+  "requirement": {
+    "requirementType": 3,
+    "targetAmount": 1000,
+    "targetMap": null,
+    "targetCharacter": {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/CharacterData/character3.asset",
+      "fileID": 11400000
+    }
+  },
+  "questType": 0,
+  "_scriptType": "QuestItem.cs"
+}

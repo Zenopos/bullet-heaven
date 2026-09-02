@@ -1,0 +1,1654 @@
+path,type,format,size_bytes,poly_count,notes
+Res/AnimController/AC_CharacterTemplate.controller,animation,controller,47528,n/a,
+Res/AnimController/Action_Dummy/Attack.anim,animation,anim,1294,n/a,
+Res/AnimController/Action_Dummy/Death.anim,animation,anim,1293,n/a,
+Res/AnimController/Action_Dummy/ReceiveDamage.anim,animation,anim,1301,n/a,
+Res/AnimController/Action_Dummy/Skill_0.anim,animation,anim,1295,n/a,
+Res/AnimController/Action_Dummy/Skill_1.anim,animation,anim,1295,n/a,
+Res/AnimController/Action_Dummy/Skill_2.anim,animation,anim,1295,n/a,
+Res/AnimController/Action_Dummy/Skill_3.anim,animation,anim,1295,n/a,
+Res/AnimController/Action_Dummy/Skill_4.anim,animation,anim,1295,n/a,
+Res/AnimController/Action_Dummy/Skill_5.anim,animation,anim,1295,n/a,
+Res/AnimController/Action_Dummy/Skill_6.anim,animation,anim,1295,n/a,
+Res/AnimController/HFSM_Generic.controller,animation,controller,24520,n/a,
+Res/AnimController/Idle_Dummy/Idle_E.anim,animation,anim,1294,n/a,
+Res/AnimController/Idle_Dummy/Idle_N.anim,animation,anim,1294,n/a,
+Res/AnimController/Idle_Dummy/Idle_NE.anim,animation,anim,1295,n/a,
+Res/AnimController/Idle_Dummy/Idle_NW.anim,animation,anim,1295,n/a,
+Res/AnimController/Idle_Dummy/Idle_S.anim,animation,anim,1294,n/a,
+Res/AnimController/Idle_Dummy/Idle_SE.anim,animation,anim,1295,n/a,
+Res/AnimController/Idle_Dummy/Idle_SW.anim,animation,anim,1295,n/a,
+Res/AnimController/Idle_Dummy/Idle_W.anim,animation,anim,1294,n/a,
+Res/AnimController/Legacy/CharacterController.controller,animation,controller,13292,n/a,
+Res/AnimController/Run_Dummy/Run_E.anim,animation,anim,1293,n/a,
+Res/AnimController/Run_Dummy/Run_N.anim,animation,anim,1293,n/a,
+Res/AnimController/Run_Dummy/Run_NE.anim,animation,anim,1294,n/a,
+Res/AnimController/Run_Dummy/Run_NW.anim,animation,anim,1294,n/a,
+Res/AnimController/Run_Dummy/Run_S.anim,animation,anim,1293,n/a,
+Res/AnimController/Run_Dummy/Run_SE.anim,animation,anim,1294,n/a,
+Res/AnimController/Run_Dummy/Run_SW.anim,animation,anim,1294,n/a,
+Res/AnimController/Run_Dummy/Run_W.anim,animation,anim,1293,n/a,
+Res/Audio/AA.wav,audio,wav,211088,n/a,
+Res/Audio/Ambient/AudioClip_Background-Ambient.wav,audio,wav,34560044,n/a,
+Res/Audio/Ambient/at-the-park-afternoon- XtremeFreddy.wav,audio,wav,18869804,n/a,
+Res/Audio/AudioClip_Purchase-Cha-Ching.wav,audio,wav,177136,n/a,
+Res/Audio/BackCancelSound.wav,audio,wav,61796,n/a,
+Res/Audio/Click.wav,audio,wav,41770,n/a,
+Res/Audio/Launch.wav,audio,wav,54896,n/a,
+Res/Audio/Music/AudioClip_Fanfares_Defeat.wav,audio,wav,1443320,n/a,
+Res/Audio/Music/AudioClip_Fanfares_Victory.wav,audio,wav,1015008,n/a,
+Res/Audio/Music/AudioClip_Music_Darkling.wav,audio,wav,29945320,n/a,
+Res/Audio/Music/AudioClip_Music_MorganaRides.wav,audio,wav,43442152,n/a,
+Res/Audio/SFX/AudioClip_Click-Medium.wav,audio,wav,57628,n/a,
+Res/Audio/SFX/AudioClip_Click-Soft.wav,audio,wav,33988,n/a,
+Res/Audio/SFX/AudioClip_Click-Springy.wav,audio,wav,61000,n/a,
+Res/Audio/SFX/AudioClip_Click-Switch.wav,audio,wav,95736,n/a,
+Res/Audio/SFX/AudioClip_Click-Tap.wav,audio,wav,65292,n/a,
+Res/Audio/SFX/AudioClip_Error.wav,audio,wav,26200,n/a,
+Res/Audio/SFX/AudioClip_PotionDrop.wav,audio,wav,1230758,n/a,
+Res/Audio/gameplay/AudioClip_generic-gethit.wav,audio,wav,52016,n/a,
+Res/CharacterEntity.prefab,other,prefab,115166,n/a,
+Res/CharacterFace/Eyes/Eye1/Eye1BG.png,texture,png,9284,n/a,
+Res/CharacterFace/Eyes/Eye1/Eye1Full.png,texture,png,12396,n/a,
+Res/CharacterFace/Eyes/Eye1/Eye1Iris.png,texture,png,3035,n/a,
+Res/CharacterFace/Eyes/Eye1/Materials/ClosedL.mat,other,mat,16748,n/a,
+Res/CharacterFace/Eyes/Eye1/Materials/ClosedR.mat,other,mat,16751,n/a,
+Res/CharacterFace/Eyes/Eye1/Materials/Eye1IFull.mat,other,mat,16683,n/a,
+Res/CharacterFace/Eyes/Eye1/Materials/Eye1Iris.mat,other,mat,16801,n/a,
+Res/CharacterFace/Eyes/Eye1/Materials/EyeL.mat,other,mat,16701,n/a,
+Res/CharacterFace/Eyes/Eye1/Materials/EyeR 1.mat,other,mat,16817,n/a,
+Res/CharacterFace/Eyes/Eye1/Materials/EyeR 2.mat,other,mat,16814,n/a,
+Res/CharacterFace/Eyes/Eye1/Materials/EyeR.mat,other,mat,16797,n/a,
+Res/CharacterFace/Eyes/Eye2/Eye2.png,texture,png,6991,n/a,
+Res/CharacterFace/Eyes/Eye2/F_EyeL 1.mat,other,mat,16704,n/a,
+Res/CharacterFace/Eyes/Eye2/F_EyeL 2.mat,other,mat,16704,n/a,
+Res/CharacterFace/Eyes/Eye2/FemaleEye1.png,texture,png,14951,n/a,
+Res/CharacterFace/Mouths/Mouth1/Material/DefaultMouth 1.mat,other,mat,14342,n/a,
+Res/CharacterFace/Mouths/Mouth1/Material/DefaultMouth.mat,other,mat,14292,n/a,
+Res/CharacterFace/Mouths/Mouth1/Material/Mouth1.mat,other,mat,14285,n/a,
+Res/CharacterFace/Mouths/Mouth1/Mouth1.png,texture,png,7079,n/a,
+Res/CharacterFace/Mouths/Mouth1/Mouth2.png,texture,png,2624,n/a,
+Res/CharacterFace/Mouths/Mouth1/Mouth3.png,texture,png,4152,n/a,
+Res/CharacterFace/Noses/Nose1/Materials/Nose1Material.mat,other,mat,14320,n/a,
+Res/CharacterFace/Noses/Nose1/Nose1.png,texture,png,12341,n/a,
+Res/CharacterFace/Noses/Nose2/Nose2.png,texture,png,18165,n/a,
+Res/CharacterFace/Noses/Nose2/Nose2Material.mat,other,mat,14337,n/a,
+Res/Drops/CollectExp.prefab,other,prefab,6945,n/a,
+Res/Drops/EXPDrop.prefab,other,prefab,5357,n/a,
+Res/Drops/GoldDrop.prefab,other,prefab,5307,n/a,
+Res/Drops/HealthDrop.prefab,other,prefab,8714,n/a,
+Res/Drops/ShieldDrop.prefab,other,prefab,6970,n/a,
+Res/Effects/DaggerEffect/AdditiveScroll.shadergraph,other,shadergraph,136674,n/a,
+Res/Effects/DaggerEffect/Materials/Dag1.mat,other,mat,5726,n/a,
+Res/Effects/DaggerEffect/Materials/DagFire.mat,other,mat,3751,n/a,
+Res/Effects/DaggerEffect/Mesh/BulletMesh 1.fbx,mesh,fbx,20220,n/a,
+Res/Effects/DaggerEffect/Mesh/BulletMesh 1.prefab,other,prefab,2543,n/a,
+Res/Effects/DaggerEffect/Mesh/Cone.fbx,mesh,fbx,19324,n/a,
+Res/Effects/DaggerEffect/Mesh/Cone.prefab,other,prefab,2294,n/a,
+Res/Effects/DaggerEffect/Mesh/Materials/Material.001.mat,other,mat,3659,n/a,
+Res/Effects/DaggerEffect/Texture/FireLine.png,texture,png,891116,n/a,vfx-texture
+Res/Effects/DaggerEffect/Texture/NoiseDag.png,texture,png,287022,n/a,vfx-texture
+Res/Effects/DaggerEffect/Texture/NoiseDag2.png,texture,png,378068,n/a,vfx-texture
+Res/Effects/Dash/DashEffect.prefab,other,prefab,3739,n/a,
+Res/Effects/Dash/Materials/Dash.mat,other,mat,2323,n/a,
+Res/Effects/Dash/Textures/dash.PNG,texture,png,265604,n/a,vfx-texture
+Res/Effects/EmissiveUnlitMat/EmissiveUnlitMat.mat,other,mat,4299,n/a,
+Res/Effects/Gradients/Gradient.PNG,texture,png,46343,n/a,vfx-texture
+Res/Effects/Gradients/GradientCenter.PNG,texture,png,37967,n/a,vfx-texture
+Res/Effects/Gradients/GradientCenter2.PNG,texture,png,168936,n/a,vfx-texture
+Res/Effects/Gradients/GradientCenter3.png,texture,png,278222,n/a,vfx-texture
+Res/Effects/Gradients/Gradient_greyscale.PNG,texture,png,3056,n/a,vfx-texture
+Res/Effects/Gradients/Vignette2.png,texture,png,6381,n/a,vfx-texture
+Res/Effects/Poisons/Materials/EffectsPoison 1.mat,other,mat,5055,n/a,
+Res/Effects/Poisons/Materials/EffectsPoison.mat,other,mat,5008,n/a,
+Res/Effects/Shiny/Materials/BlackEffect.mat,other,mat,5011,n/a,
+Res/Effects/Shiny/Materials/FireEffect.mat,other,mat,5024,n/a,
+Res/Effects/Shiny/Materials/Square.mat,other,mat,3918,n/a,
+Res/Effects/Shiny/Materials/TrailLine.mat,other,mat,3598,n/a,
+Res/Effects/Shiny/Shiny.prefab,other,prefab,122635,n/a,
+Res/Effects/Shiny/Textures/EffectIcon.PNG,texture,png,6663147,n/a,vfx-texture
+Res/Effects/Shiny/Textures/Square.PNG,texture,png,21404,n/a,vfx-texture
+Res/Effects/SimpleTrail/Materials/M_Trail.mat,other,mat,3170,n/a,
+Res/Effects/SimpleTrail/Prefabs/Trail.prefab,other,prefab,4183,n/a,
+Res/Effects/SimpleTrail/Textures/T_Trail_finger.png,texture,png,3472,n/a,vfx-texture
+Res/Effects/Swirl/Materials/Swirl.mat,other,mat,3643,n/a,
+Res/Effects/Swirl/Swirl.prefab,other,prefab,118905,n/a,
+Res/Effects/Swirl/SwirlEffect.prefab,other,prefab,4278,n/a,
+Res/Effects/Swirl/SwirlEffect.shadergraph,other,shadergraph,40099,n/a,
+Res/Effects/Swirl/Textures/Swirl01.png,texture,png,203989,n/a,vfx-texture
+Res/Effects/Sword/Materials/EffectIconDark.mat,other,mat,5113,n/a,
+Res/FX/Aura/Materials/Glow_Mat.mat,other,mat,3164,n/a,
+Res/FX/Aura/Prefabs/Aura.prefab,other,prefab,234826,n/a,
+Res/FX/Aura/Textures/GlowStreaks.png,texture,png,212690,n/a,vfx-texture
+Res/FX/CoinGemMagnet/Prefabs/P_VFX_ForceField.prefab,other,prefab,13075,n/a,
+Res/FX/CoinGemMagnet/Prefabs/P_VFX_GemMagnetFX Variant.prefab,other,prefab,17767,n/a,
+Res/FX/CoinGemMagnet/Prefabs/P_VFX_GoldMagnetFX.prefab,other,prefab,119474,n/a,
+Res/FX/FrameFire/Frame FX.prefab,other,prefab,825009,n/a,
+Res/FX/GlowEffect/GlowItem_1.prefab,other,prefab,117052,n/a,
+Res/FX/GlowEffect/GlowItem_2.prefab,other,prefab,117052,n/a,
+Res/FX/GlowEffect/GlowParticleMat 1.mat,other,mat,3729,n/a,
+Res/FX/GlowEffect/GlowParticleMat.mat,other,mat,3727,n/a,
+Res/FX/HitEffect/Materials/Mat_HitEffect_VFX_AlphaThreshold.mat,other,mat,2492,n/a,
+Res/FX/HitEffect/Materials/Mat_HitEffect_VFX_PunchTrail.mat,other,mat,1118,n/a,
+Res/FX/HitEffect/Materials/Mat_HitEffect_VFX_SmallDrop.mat,other,mat,1242,n/a,
+Res/FX/HitEffect/Prefabs/Fire_HitEffect.prefab,other,prefab,313512,n/a,
+Res/FX/HitEffect/Prefabs/Grass_HitEffect.prefab,other,prefab,316286,n/a,
+Res/FX/HitEffect/Prefabs/Water_HitEffect.prefab,other,prefab,316286,n/a,
+Res/FX/HitEffect/Sprites/Sprite_HitEffect.png,texture,png,29832,n/a,vfx-texture
+Res/FX/HitEffect/Sprites/Sprite_PunchTrail.png,texture,png,1954,n/a,vfx-texture
+Res/FX/HitEffect/Sprites/Sprite_Triangle.png,texture,png,2683,n/a,vfx-texture
+Res/FX/LevelUp/Materials/VerticalRay_Mat 1.mat,other,mat,3226,n/a,
+Res/FX/LevelUp/Materials/VerticalRay_Mat.mat,other,mat,3239,n/a,
+Res/FX/LevelUp/Materials/VerticalSteaks_Mat.mat,other,mat,3148,n/a,
+Res/FX/LevelUp/Prefabs/Swirls.prefab,other,prefab,117283,n/a,
+Res/FX/LevelUp/Prefabs/VerticalRays.prefab,other,prefab,115991,n/a,
+Res/FX/LevelUp/Textures/Ramp01.png,texture,png,241,n/a,vfx-texture
+Res/FX/LevelUp/Textures/VerticalRay.png,texture,png,295345,n/a,vfx-texture
+Res/FX/LevelUp/Textures/VerticalRaySmall.png,texture,png,2306,n/a,vfx-texture
+Res/FX/Sparkles/Materials/Sparkle_Mat.mat,other,mat,2934,n/a,
+Res/FX/Sparkles/Prefabs/Sparkles.prefab,other,prefab,117649,n/a,
+Res/FX/Sparkles/Sparkle.psd,texture,psd,403912,n/a,vfx-texture
+Res/FX/Sparkles/Textures/Sparkles.png,texture,png,18901,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/ExplosionSpriteSheet.png,texture,png,150101,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/HitEffect2x2.png,texture,png,58748,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/HollowCircle.png,texture,png,582542,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/LensFlareBlur.png,texture,png,33315,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/MultiCirlceHue.png,texture,png,4367,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/Ring.png,texture,png,12220,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/Ring2x2.png,texture,png,58063,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/RingHit.png,texture,png,375003,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/Spark.png,texture,png,30274,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Art/SparkHit1.png,texture,png,131057,n/a,vfx-texture
+Res/FX/VFX/HitFolder2/Materials/DissolveMaterials/DissolveAdd.mat,other,mat,1745,n/a,
+Res/FX/VFX/HitFolder2/Materials/DissolveMaterials/DissolveAlpha.mat,other,mat,1747,n/a,
+Res/FX/VFX/HitFolder2/Materials/PlaneMaterial.mat,other,mat,3745,n/a,
+Res/FX/VFX/HitFolder2/Materials/Regular/RegularAdd.mat,other,mat,1710,n/a,
+Res/FX/VFX/HitFolder2/Materials/Regular/RegularAddClear.mat,other,mat,1659,n/a,
+Res/FX/VFX/HitFolder2/Materials/Regular/RegularAddHit 0.mat,other,mat,1715,n/a,
+Res/FX/VFX/HitFolder2/Materials/Regular/RegularAddHit1.mat,other,mat,1712,n/a,
+Res/FX/VFX/HitFolder2/Materials/Regular/RegularAddHit2.mat,other,mat,1713,n/a,
+Res/FX/VFX/HitFolder2/Materials/Regular/RegularAddHit3.mat,other,mat,1713,n/a,
+Res/FX/VFX/HitFolder2/Materials/Skybox/Skybox 2.mat,other,mat,4234,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_AnimatedHit1.prefab,other,prefab,235650,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_DissolveEffect1.prefab,other,prefab,117666,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_DissolveEffect2.prefab,other,prefab,235327,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_Explosion1.prefab,other,prefab,117339,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_Explosion2.prefab,other,prefab,236441,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect1.prefab,other,prefab,117728,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect10.prefab,other,prefab,355917,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect2.prefab,other,prefab,235406,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect3.prefab,other,prefab,117729,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect4.prefab,other,prefab,235409,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect5.prefab,other,prefab,235293,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect6.prefab,other,prefab,237785,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect7.prefab,other,prefab,235740,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect8.prefab,other,prefab,117700,n/a,
+Res/FX/VFX/HitFolder2/Prefabs/vfx_HitEffect9.prefab,other,prefab,353288,n/a,
+Res/FX/VFX/HitFolder2/Shadergraph/Dissolve/DissolveAdd.shadergraph,other,shadergraph,44987,n/a,
+Res/FX/VFX/HitFolder2/Shadergraph/Dissolve/DissolveAlpha.shadergraph,other,shadergraph,45061,n/a,
+Res/FX/VFX/HitFolder2/Shadergraph/Regular/RegularAdd.shadergraph,other,shadergraph,44100,n/a,
+Res/FX/VFX/Orbital spheres/FireOrbital.prefab,other,prefab,470333,n/a,
+Res/FX/VFX/Orbital spheres/GrassOrbital.prefab,other,prefab,470354,n/a,
+Res/FX/VFX/Orbital spheres/IceOrbital.prefab,other,prefab,470778,n/a,
+Res/FX/VFX/Orbital spheres/Materials/Snow Dots.mat,other,mat,4269,n/a,
+Res/FX/VFX/Orbital spheres/Materials/Snow smoke.mat,other,mat,3157,n/a,
+Res/FX/VFX/Orbital spheres/Materials/SnowTrail.mat,other,mat,4049,n/a,
+Res/FX/VFX/Orbital spheres/Materials/Snowflake dots.mat,other,mat,2487,n/a,
+Res/FX/VFX/Orbital spheres/Materials/Snowflake.mat,other,mat,2482,n/a,
+Res/FX/VFX/Orbital spheres/Textures/Blur_Dot02.png,texture,png,2238145,n/a,vfx-texture
+Res/FX/VFX/Orbital spheres/Textures/Smoke_Spritesheet01.png,texture,png,2314967,n/a,vfx-texture
+Res/FX/VFX/Orbital spheres/Textures/Snow01.png,texture,png,61407,n/a,vfx-texture
+Res/FX/VFX/Orbital spheres/Textures/Snowflake01.png,texture,png,1436559,n/a,vfx-texture
+Res/FX/VFX/Orbital spheres/Textures/Trail06.png,texture,png,724199,n/a,vfx-texture
+Res/FX/VFX/ToxicBubble/Material/BubbleMat.mat,other,mat,3222,n/a,
+Res/FX/VFX/ToxicBubble/Material/eff_tex_fbmNoise1.png,texture,png,369170,n/a,vfx-texture
+Res/FX/VFX/ToxicBubble/Material/eff_tex_glow03.png,texture,png,36799,n/a,vfx-texture
+Res/FX/VFX/ToxicBubble/Material/embers.mat,other,mat,4063,n/a,
+Res/FX/VFX/ToxicBubble/ToxicBubble.prefab,other,prefab,235899,n/a,
+Res/FullHDMainMenu.renderTexture,other,rendertexture,861,n/a,
+Res/GameData/BattlePassItems/PassItem 1.asset,other,asset,1411,n/a,
+Res/GameData/BattlePassItems/PassItem 10.asset,other,asset,1582,n/a,
+Res/GameData/BattlePassItems/PassItem 2.asset,other,asset,1475,n/a,
+Res/GameData/BattlePassItems/PassItem 3.asset,other,asset,1475,n/a,
+Res/GameData/BattlePassItems/PassItem 4.asset,other,asset,1503,n/a,
+Res/GameData/BattlePassItems/PassItem 5.asset,other,asset,1560,n/a,
+Res/GameData/BattlePassItems/PassItem 6.asset,other,asset,1475,n/a,
+Res/GameData/BattlePassItems/PassItem 7.asset,other,asset,1418,n/a,
+Res/GameData/BattlePassItems/PassItem 8.asset,other,asset,1605,n/a,
+Res/GameData/BattlePassItems/PassItem 9.asset,other,asset,1543,n/a,
+Res/GameData/CharacterData/character1.asset,other,asset,6545,n/a,
+Res/GameData/CharacterData/character2.asset,other,asset,6774,n/a,
+Res/GameData/CharacterData/character3.asset,other,asset,6896,n/a,
+Res/GameData/CharacterData/character4.asset,other,asset,6906,n/a,
+Res/GameData/CharacterData/character5Update.asset,other,asset,6805,n/a,
+Res/GameData/CharacterData/character6Update.asset,other,asset,7246,n/a,
+Res/GameData/CharacterData/character7.asset,other,asset,6126,n/a,
+Res/GameData/Coupons/Coupon1.asset,other,asset,477,n/a,
+Res/GameData/Coupons/Coupon2.asset,other,asset,479,n/a,
+Res/GameData/Coupons/Coupon3.asset,other,asset,479,n/a,
+Res/GameData/Currencies/Diamond.asset,other,asset,537,n/a,
+Res/GameData/Currencies/Gold.asset,other,asset,702,n/a,
+Res/GameData/Currencies/Stamine.asset,other,asset,708,n/a,
+Res/GameData/Currencies/TicketName.asset,other,asset,714,n/a,
+Res/GameData/Currencies/Upgrade.asset,other,asset,540,n/a,
+Res/GameData/CurrenciesIAPItem/DiamongPack1.asset,other,asset,693,n/a,
+Res/GameData/CurrenciesIAPItem/DiamongPack2.asset,other,asset,693,n/a,
+Res/GameData/CurrenciesIAPItem/DiamongPack3.asset,other,asset,696,n/a,
+Res/GameData/CurrenciesIAPItem/DiamongPack4.asset,other,asset,696,n/a,
+Res/GameData/ElementalTypes/ElectricalType.asset,other,asset,944,n/a,
+Res/GameData/ElementalTypes/FireType.asset,other,asset,932,n/a,
+Res/GameData/ElementalTypes/FlyingType.asset,other,asset,936,n/a,
+Res/GameData/ElementalTypes/GrassType.asset,other,asset,934,n/a,
+Res/GameData/ElementalTypes/GroundType.asset,other,asset,864,n/a,
+Res/GameData/ElementalTypes/MysticalType.asset,other,asset,868,n/a,
+Res/GameData/ElementalTypes/PoisonType.asset,other,asset,936,n/a,
+Res/GameData/ElementalTypes/SteelType.asset,other,asset,1006,n/a,
+Res/GameData/ElementalTypes/WaterType.asset,other,asset,934,n/a,
+Res/GameData/FrameData/Frame 1.asset,other,asset,527,n/a,
+Res/GameData/FrameData/Frame 10.asset,other,asset,556,n/a,
+Res/GameData/FrameData/Frame 11.asset,other,asset,556,n/a,
+Res/GameData/FrameData/Frame 2.asset,other,asset,527,n/a,
+Res/GameData/FrameData/Frame 3.asset,other,asset,553,n/a,
+Res/GameData/FrameData/Frame 4.asset,other,asset,527,n/a,
+Res/GameData/FrameData/Frame 5.asset,other,asset,553,n/a,
+Res/GameData/FrameData/Frame 6.asset,other,asset,553,n/a,
+Res/GameData/FrameData/Frame 7.asset,other,asset,553,n/a,
+Res/GameData/FrameData/Frame 8.asset,other,asset,553,n/a,
+Res/GameData/FrameData/Frame 9.asset,other,asset,553,n/a,
+Res/GameData/IconData/IconData1.asset,other,asset,550,n/a,
+Res/GameData/IconData/IconData2.asset,other,asset,550,n/a,
+Res/GameData/IconData/IconData3.asset,other,asset,550,n/a,
+Res/GameData/IconData/IconData4.asset,other,asset,550,n/a,
+Res/GameData/IconData/IconData5.asset,other,asset,550,n/a,
+Res/GameData/IconData/IconData6.asset,other,asset,550,n/a,
+Res/GameData/IconData/IconData7.asset,other,asset,550,n/a,
+Res/GameData/IconData/IconData8.asset,other,asset,550,n/a,
+Res/GameData/MapInfo/Map 1.asset,other,asset,1216,n/a,
+Res/GameData/MapInfo/Map 2.asset,other,asset,1269,n/a,
+Res/GameData/MapInfo/Map 3.asset,other,asset,1199,n/a,
+Res/GameData/MapInfo/Map 4.asset,other,asset,1210,n/a,
+Res/GameData/MapInfo/Map_Event_1.asset,other,asset,1645,n/a,
+Res/GameData/Quests/Quest1.asset,other,asset,1695,n/a,
+Res/GameData/Quests/Quest2.asset,other,asset,1654,n/a,
+Res/GameData/Quests/Quest3.asset,other,asset,1724,n/a,
+Res/GameData/Quests/Quest4.asset,other,asset,1674,n/a,
+Res/GameData/Quests/Quest5.asset,other,asset,1839,n/a,
+Res/GameData/Quests/Quest6.asset,other,asset,1887,n/a,
+Res/GameData/Quests/Quest7.asset,other,asset,1884,n/a,
+Res/GameData/Quests/Quest8.asset,other,asset,1679,n/a,
+Res/GameData/ShopData/ShopCharacter2.asset,other,asset,858,n/a,
+Res/GameData/ShopData/ShopCharacter3.asset,other,asset,861,n/a,
+Res/GameData/ShopData/ShopDataItems/Armor/ShopInventoryArmor 1.asset,other,asset,857,n/a,
+Res/GameData/ShopData/ShopDataItems/Armor/ShopInventoryArmor 2.asset,other,asset,849,n/a,
+Res/GameData/ShopData/ShopDataItems/Armor/ShopInventoryArmor 3.asset,other,asset,849,n/a,
+Res/GameData/ShopData/ShopDataItems/Armor/ShopInventoryArmor 4.asset,other,asset,860,n/a,
+Res/GameData/ShopData/ShopDataItems/Hat/ShopInventoryHead 1.asset,other,asset,858,n/a,
+Res/GameData/ShopData/ShopDataItems/Hat/ShopInventoryHead 2.asset,other,asset,850,n/a,
+Res/GameData/ShopData/ShopDataItems/Hat/ShopInventoryHead 3.asset,other,asset,850,n/a,
+Res/GameData/ShopData/ShopDataItems/Hat/ShopInventoryHead 4.asset,other,asset,861,n/a,
+Res/GameData/ShopData/ShopDataItems/Pants/ShopInventoryPants 1.asset,other,asset,857,n/a,
+Res/GameData/ShopData/ShopDataItems/Pants/ShopInventoryPants 2.asset,other,asset,849,n/a,
+Res/GameData/ShopData/ShopDataItems/Pants/ShopInventoryPants 3.asset,other,asset,849,n/a,
+Res/GameData/ShopData/ShopDataItems/Pants/ShopInventoryPants 4.asset,other,asset,860,n/a,
+Res/GameData/ShopData/ShopDataItems/Shoes/ShopInventoryShoes 1.asset,other,asset,857,n/a,
+Res/GameData/ShopData/ShopDataItems/Shoes/ShopInventoryShoes 2.asset,other,asset,849,n/a,
+Res/GameData/ShopData/ShopDataItems/Shoes/ShopInventoryShoes 3.asset,other,asset,849,n/a,
+Res/GameData/ShopData/ShopDataItems/Shoes/ShopInventoryShoes 4.asset,other,asset,859,n/a,
+Res/GameData/ShopData/ShopFrame1.asset,other,asset,842,n/a,
+Res/GameData/ShopData/ShopFrame2.asset,other,asset,841,n/a,
+Res/GameData/ShopData/ShopFrame3.asset,other,asset,841,n/a,
+Res/GameData/ShopData/ShopFrame_4.asset,other,asset,842,n/a,
+Res/GameData/ShopData/ShopFrame_5.asset,other,asset,842,n/a,
+Res/GameData/ShopData/ShopFrame_6.asset,other,asset,842,n/a,
+Res/GameData/ShopData/ShopFrame_7.asset,other,asset,842,n/a,
+Res/GameData/ShopData/ShopFrame_8.asset,other,asset,866,n/a,
+Res/GameData/ShopData/ShopGold1.asset,other,asset,804,n/a,
+Res/GameData/ShopData/ShopGold2.asset,other,asset,793,n/a,
+Res/GameData/ShopData/ShopGold3.asset,other,asset,790,n/a,
+Res/GameData/ShopData/ShopIcon1.asset,other,asset,746,n/a,
+Res/GameData/ShopData/ShopIcon2.asset,other,asset,747,n/a,
+Res/GameData/ShopData/ShopIcon3.asset,other,asset,747,n/a,
+Res/GameData/SkillsPeark/Burn Shot Perk.asset,other,asset,1882,n/a,
+Res/GameData/SkillsPeark/Multi Shots Perk.asset,other,asset,1877,n/a,
+Res/GameData/StatsPearks/CooldownRed.asset,other,asset,668,n/a,
+Res/GameData/StatsPearks/CriticalRate.asset,other,asset,717,n/a,
+Res/GameData/StatsPearks/Damage.asset,other,asset,712,n/a,
+Res/GameData/StatsPearks/Defense.asset,other,asset,666,n/a,
+Res/GameData/StatsPearks/HPRegen.asset,other,asset,709,n/a,
+Res/GameData/StatsPearks/HpLeech.asset,other,asset,723,n/a,
+Res/GameData/StatsPearks/MaxHPRate.asset,other,asset,710,n/a,
+Res/GameData/StatsPearks/MoveSpeed.asset,other,asset,678,n/a,
+Res/GameData/StatsPearks/attackSpeed.asset,other,asset,655,n/a,
+Res/Indicators/Arrow Indicator 2.png,texture,png,784916,n/a,
+Res/Indicators/Arrow Indicator.png,texture,png,14906,n/a,
+Res/Indicators/Arrow Indicator2.png,texture,png,39099,n/a,
+Res/Indicators/Cone Indicator.png,texture,png,96352,n/a,
+Res/Indicators/Heal Indicator.png,texture,png,109383,n/a,
+Res/Indicators/Range Indicator.png,texture,png,96448,n/a,
+Res/Materials/FloorDG.mat,other,mat,4807,n/a,
+Res/Materials/FloorDG.png,texture,png,47465,n/a,
+Res/Materials/FloorsCheckerboard0055_9_350 1.mat,other,mat,17640,n/a,
+Res/Materials/FloorsCheckerboard0055_9_350 2.mat,other,mat,17618,n/a,
+Res/Materials/FloorsCheckerboard0055_9_350 3.mat,other,mat,17769,n/a,
+Res/Materials/FloorsCheckerboard0055_9_350 4.mat,other,mat,17769,n/a,
+Res/Materials/FloorsCheckerboard0055_9_350 5.mat,other,mat,17622,n/a,
+Res/Materials/FloorsCheckerboard0055_9_350.mat,other,mat,17618,n/a,
+Res/Materials/Wood.png,texture,png,34841,n/a,
+Res/Materials/grass03.png,texture,png,721478,n/a,
+Res/Minimap1.renderTexture,other,rendertexture,855,n/a,
+Res/Monsters/MiniBossController.controller,animation,controller,8586,n/a,
+Res/Monsters/MonsterBoss1.controller,animation,controller,8536,n/a,
+Res/Monsters/MonsterController.controller,animation,controller,8580,n/a,
+Res/OldUI/Font/AnderHedgeRegular SDF.asset,other,asset,8444967,n/a,ui
+Res/OldUI/Font/AnderHedgeRegular.ttf,font,ttf,17380,n/a,ui
+Res/OldUI/Misc/BgPatternTile.png,texture,png,10126,n/a,ui
+Res/OldUI/Misc/Fire_fx_small.png,texture,png,29274,n/a,ui
+Res/OldUI/Misc/Separator_04.png,texture,png,4004,n/a,ui
+Res/OldUI/Misc/Undelete.png,texture,png,8160,n/a,ui
+Res/OldUI/Misc/coin-animation.png,texture,png,62046,n/a,ui
+Res/OldUI/Misc/gem-animation.psd,texture,psd,380235,n/a,ui
+Res/OldUI/Misc/icon-heroes.png,texture,png,33235,n/a,ui
+Res/OldUI/Misc/icon-scroll.png,texture,png,36197,n/a,ui
+Res/OldUI/Misc/icon-shield.png,texture,png,5771,n/a,ui
+Res/OldUI/Misc/icon-sword.png,texture,png,31350,n/a,ui
+Res/OldUI/Misc/slider_shell.png,texture,png,465,n/a,ui
+Res/OldUI/UI Images/Amount_shape_01.png,texture,png,3319,n/a,ui
+Res/OldUI/UI Images/Bundle_icon_01.png,texture,png,53509,n/a,ui
+Res/OldUI/UI Images/Bundle_icon_02.png,texture,png,91665,n/a,ui
+Res/OldUI/UI Images/Bundle_icon_03.png,texture,png,112513,n/a,ui
+Res/OldUI/UI Images/Bundle_icon_04.png,texture,png,158989,n/a,ui
+Res/OldUI/UI Images/Bundle_icon_05.png,texture,png,57997,n/a,ui
+Res/OldUI/UI Images/Bundle_icon_06.png,texture,png,76076,n/a,ui
+Res/OldUI/UI Images/Bundle_icon_07.png,texture,png,103736,n/a,ui
+Res/OldUI/UI Images/Burst.png,texture,png,27130,n/a,ui
+Res/OldUI/UI Images/Char_card_bg.png,texture,png,28346,n/a,ui
+Res/OldUI/UI Images/Char_fx_frame.png,texture,png,6262,n/a,ui
+Res/OldUI/UI Images/Christmas_Deco_01.png,texture,png,12012,n/a,ui
+Res/OldUI/UI Images/Christmas_Deco_02.png,texture,png,10112,n/a,ui
+Res/OldUI/UI Images/Christmas_Deco_03.png,texture,png,6574,n/a,ui
+Res/OldUI/UI Images/Christmas_Deco_04.png,texture,png,4866,n/a,ui
+Res/OldUI/UI Images/Christmas_Deco_05.png,texture,png,5460,n/a,ui
+Res/OldUI/UI Images/Christmas_Deco_06.png,texture,png,6038,n/a,ui
+Res/OldUI/UI Images/CloseEye.png,texture,png,60802,n/a,ui
+Res/OldUI/UI Images/Defeat_banner.png,texture,png,46230,n/a,ui
+Res/OldUI/UI Images/Delete_button.png,texture,png,9313,n/a,ui
+Res/OldUI/UI Images/Dragon_head.png,texture,png,104161,n/a,ui
+Res/OldUI/UI Images/Fade.png,texture,png,842,n/a,ui
+Res/OldUI/UI Images/Frame_02.png,texture,png,3723,n/a,ui
+Res/OldUI/UI Images/Frame_03.png,texture,png,3705,n/a,ui
+Res/OldUI/UI Images/Frame_skill_selected.png,texture,png,10284,n/a,ui
+Res/OldUI/UI Images/Header_bg_01.png,texture,png,14178,n/a,ui
+Res/OldUI/UI Images/Header_bg_02.png,texture,png,14315,n/a,ui
+Res/OldUI/UI Images/Header_bg_03.png,texture,png,14771,n/a,ui
+Res/OldUI/UI Images/Header_bg_christmas.png,texture,png,12390,n/a,ui
+Res/OldUI/UI Images/Heal_button_bg.png,texture,png,15470,n/a,ui
+Res/OldUI/UI Images/Hud_bg_01.png,texture,png,2987,n/a,ui
+Res/OldUI/UI Images/Hud_bg_02.png,texture,png,3245,n/a,ui
+Res/OldUI/UI Images/Hud_bg_03.png,texture,png,4090,n/a,ui
+Res/OldUI/UI Images/Icon_Dayle.png,texture,png,61495,n/a,ui
+Res/OldUI/UI Images/InputField.png,texture,png,3469,n/a,ui
+Res/OldUI/UI Images/Knightboy_avatar.png,texture,png,24959,n/a,ui
+Res/OldUI/UI Images/Life_Hud_bg.png,texture,png,3064,n/a,ui
+Res/OldUI/UI Images/Life_Hud_juice_01.png,texture,png,3197,n/a,ui
+Res/OldUI/UI Images/Life_Hud_juice_02.png,texture,png,3331,n/a,ui
+Res/OldUI/UI Images/Life_Hud_juice_03.png,texture,png,3254,n/a,ui
+Res/OldUI/UI Images/Life_Hud_juice_04.png,texture,png,4331,n/a,ui
+Res/OldUI/UI Images/Main_menu_bg.png,texture,png,3031,n/a,ui
+Res/OldUI/UI Images/Main_menu_button_01.png,texture,png,5977,n/a,ui
+Res/OldUI/UI Images/Main_menu_icon_01.png,texture,png,18863,n/a,ui
+Res/OldUI/UI Images/Main_menu_icon_02.png,texture,png,25122,n/a,ui
+Res/OldUI/UI Images/Main_menu_icon_03.png,texture,png,17880,n/a,ui
+Res/OldUI/UI Images/Main_menu_icon_04.png,texture,png,20413,n/a,ui
+Res/OldUI/UI Images/Main_menu_icon_05.png,texture,png,15986,n/a,ui
+Res/OldUI/UI Images/Main_menu_selector.png,texture,png,3829,n/a,ui
+Res/OldUI/UI Images/OpenEye.png,texture,png,58034,n/a,ui
+Res/OldUI/UI Images/Plano de Fundo.png,texture,png,19607,n/a,ui
+Res/OldUI/UI Images/Radial_glow.png,texture,png,13019,n/a,ui
+Res/OldUI/UI Images/Red_marker.png,texture,png,2897,n/a,ui
+Res/OldUI/UI Images/Separator_01.png,texture,png,3273,n/a,ui
+Res/OldUI/UI Images/Separator_02.png,texture,png,3210,n/a,ui
+Res/OldUI/UI Images/Separator_03.png,texture,png,3862,n/a,ui
+Res/OldUI/UI Images/Special_offer_tag.png,texture,png,6051,n/a,ui
+Res/OldUI/UI Images/Star.png,texture,png,102995,n/a,ui
+Res/OldUI/UI Images/Victory_banner.png,texture,png,76075,n/a,ui
+Res/OldUI/UI Images/Vignette.png,texture,png,10820,n/a,ui
+Res/OldUI/UI Images/Window_bg_01.png,texture,png,11752,n/a,ui
+Res/OldUI/UI Images/Window_bg_02.png,texture,png,12970,n/a,ui
+Res/OldUI/UI Images/Window_bg_03.png,texture,png,9183,n/a,ui
+Res/OldUI/UI Images/Window_bg_04.png,texture,png,6811,n/a,ui
+Res/OldUI/UI Images/XP_Hud_bg.png,texture,png,29264,n/a,ui
+Res/OldUI/UI Images/XP_Hud_frame.png,texture,png,35469,n/a,ui
+Res/OldUI/UI Images/XP_Hud_juice.png,texture,png,9085,n/a,ui
+Res/OldUI/UI Images/bg_0.png,texture,png,1299,n/a,ui
+Res/OldUI/UI Images/bg_empty_gear_slot.png,texture,png,3948,n/a,ui
+Res/OldUI/UI Images/bg_pattern_01.png,texture,png,6572,n/a,ui
+Res/OldUI/UI Images/bt_01.png,texture,png,4204,n/a,ui
+Res/OldUI/UI Images/bt_02.png,texture,png,4691,n/a,ui
+Res/OldUI/UI Images/bt_03.png,texture,png,4421,n/a,ui
+Res/OldUI/UI Images/bt_04.png,texture,png,4274,n/a,ui
+Res/OldUI/UI Images/bt_05.png,texture,png,5496,n/a,ui
+Res/OldUI/UI Images/bt_06.png,texture,png,4419,n/a,ui
+Res/OldUI/UI Images/bt_07.png,texture,png,5670,n/a,ui
+Res/OldUI/UI Images/bt_08.png,texture,png,7304,n/a,ui
+Res/OldUI/UI Images/bt_09.png,texture,png,10227,n/a,ui
+Res/OldUI/UI Images/bt_10.png,texture,png,10286,n/a,ui
+Res/OldUI/UI Images/bt_11.png,texture,png,8140,n/a,ui
+Res/OldUI/UI Images/bt_12-1.png,texture,png,9777,n/a,ui
+Res/OldUI/UI Images/bt_12.png,texture,png,4653,n/a,ui
+Res/OldUI/UI Images/bt_13.png,texture,png,4584,n/a,ui
+Res/OldUI/UI Images/bt_14.png,texture,png,4617,n/a,ui
+Res/OldUI/UI Images/bt_15.png,texture,png,4554,n/a,ui
+Res/OldUI/UI Images/frame_01.png,texture,png,8729,n/a,ui
+Res/OldUI/UI Images/frame_christmas.png,texture,png,7887,n/a,ui
+Res/OldUI/UI Images/frame_halloween.png,texture,png,7965,n/a,ui
+Res/OldUI/UI Images/halloween_deco_01.png,texture,png,6950,n/a,ui
+Res/OldUI/UI Images/halloween_deco_02.png,texture,png,8776,n/a,ui
+Res/OldUI/UI Images/halloween_deco_03.png,texture,png,15762,n/a,ui
+Res/OldUI/UI Images/icon_Chat_menu.png,texture,png,4937,n/a,ui
+Res/OldUI/UI Images/icon_Lock.png,texture,png,47167,n/a,ui
+Res/OldUI/UI Images/icon_Monster.png,texture,png,16424,n/a,ui
+Res/OldUI/UI Images/icon_Transparent.png,texture,png,18148,n/a,ui
+Res/OldUI/UI Images/icon_add.png,texture,png,2974,n/a,ui
+Res/OldUI/UI Images/icon_attack_type_01.png,texture,png,6563,n/a,ui
+Res/OldUI/UI Images/icon_attack_type_02.png,texture,png,6472,n/a,ui
+Res/OldUI/UI Images/icon_attack_type_03.png,texture,png,8223,n/a,ui
+Res/OldUI/UI Images/icon_char_class_01.png,texture,png,9747,n/a,ui
+Res/OldUI/UI Images/icon_char_class_02.png,texture,png,6819,n/a,ui
+Res/OldUI/UI Images/icon_char_class_03.png,texture,png,5816,n/a,ui
+Res/OldUI/UI Images/icon_checkmark.png,texture,png,5000,n/a,ui
+Res/OldUI/UI Images/icon_close.png,texture,png,3711,n/a,ui
+Res/OldUI/UI Images/icon_filter.png,texture,png,3155,n/a,ui
+Res/OldUI/UI Images/icon_hard_currency.png,texture,png,15039,n/a,ui
+Res/OldUI/UI Images/icon_heal.png,texture,png,55525,n/a,ui
+Res/OldUI/UI Images/icon_notification.png,texture,png,5870,n/a,ui
+Res/OldUI/UI Images/icon_open_mail.png,texture,png,13980,n/a,ui
+Res/OldUI/UI Images/icon_potions.png,texture,png,43569,n/a,ui
+Res/OldUI/UI Images/icon_power.png,texture,png,5949,n/a,ui
+Res/OldUI/UI Images/icon_rarity_01.png,texture,png,11410,n/a,ui
+Res/OldUI/UI Images/icon_rarity_02.png,texture,png,12365,n/a,ui
+Res/OldUI/UI Images/icon_rarity_03.png,texture,png,11693,n/a,ui
+Res/OldUI/UI Images/icon_settings.png,texture,png,19171,n/a,ui
+Res/OldUI/UI Images/icon_soft_currency.png,texture,png,14863,n/a,ui
+Res/OldUI/UI Images/icon_sorting UP.png,texture,png,3228,n/a,ui
+Res/OldUI/UI Images/icon_sortingDown.png,texture,png,3273,n/a,ui
+Res/OldUI/UI Images/icon_stat_attack.png,texture,png,3708,n/a,ui
+Res/OldUI/UI Images/icon_stat_critical.png,texture,png,4724,n/a,ui
+Res/OldUI/UI Images/icon_stat_defense.png,texture,png,3863,n/a,ui
+Res/OldUI/UI Images/icon_stat_health.png,texture,png,4300,n/a,ui
+Res/OldUI/UI Images/icon_stat_speed.png,texture,png,3656,n/a,ui
+Res/OldUI/UI Images/icon_stat_ultimate.png,texture,png,4253,n/a,ui
+Res/OldUI/UI Images/icon_xp.png,texture,png,57778,n/a,ui
+Res/OldUI/UI Images/scrollbar_bg.png,texture,png,3110,n/a,ui
+Res/OldUI/UI Images/tab_window_02_selected.png,texture,png,3469,n/a,ui
+Res/OldUI/UI Images/tab_window_02_unselected.png,texture,png,3500,n/a,ui
+Res/OldUI/UI Images/tab_window_03_selected.png,texture,png,5127,n/a,ui
+Res/OldUI/UI Images/tab_window_03_unselected.png,texture,png,4820,n/a,ui
+Res/OldUI/UI Images/type_crest_bg.png,texture,png,10951,n/a,ui
+Res/Prefabs/Misc/simple_separator.prefab,other,prefab,1846,n/a,
+Res/RankingRender.renderTexture,other,rendertexture,860,n/a,
+Res/Scenes/Home.unity,other,unity,4418482,n/a,
+Res/Scenes/Home/LightingData.asset,other,asset,18192,n/a,
+Res/Scenes/Home/ReflectionProbe-0.exr,other,exr,163864,n/a,
+Res/Scenes/Login.unity,other,unity,404869,n/a,
+Res/Scenes/Login/LightingData.asset,other,asset,18192,n/a,
+Res/Scenes/Login/New Lighting Settings.lighting,other,lighting,1871,n/a,
+Res/Scenes/Login/ReflectionProbe-0.exr,other,exr,163864,n/a,
+Res/Scenes/MapArena1.unity,other,unity,761108,n/a,
+Res/Scenes/MapArena1/CombinedMeshes_Environment.prefab,other,prefab,6050,n/a,
+Res/Scenes/MapArena1/CombinedMeshes_colormap_-544692.asset,other,asset,25655,n/a,
+Res/Scenes/MapArena1/CombinedMeshes_colormap_-544714.asset,other,asset,1642379,n/a,
+Res/Scenes/MapArena1/Global Volume Profile.asset,other,asset,1475,n/a,
+Res/Scenes/MapArena1/LightingData.asset,other,asset,17729,n/a,
+Res/Scenes/MapArena1/LightingaArena1.lighting,other,lighting,1796,n/a,
+Res/Scenes/MapArena1/NavMesh-FloorCollider.asset,other,asset,8812,n/a,
+Res/Scenes/MapArena1/ReflectionProbe-0.exr,other,exr,178906,n/a,
+Res/Scenes/MapArena2.unity,other,unity,761456,n/a,
+Res/Scenes/MapArena2/CombinedMeshes/Arena2_Combined_Environment.prefab,other,prefab,8603,n/a,
+Res/Scenes/MapArena2/CombinedMeshes/Combined_colormap 1_-113554.asset,other,asset,37352,n/a,
+Res/Scenes/MapArena2/CombinedMeshes/Combined_colormap 2_-113576.asset,other,asset,8804,n/a,
+Res/Scenes/MapArena2/CombinedMeshes/Combined_colormap_-113598.asset,other,asset,1771253,n/a,
+Res/Scenes/MapArena2/NavMesh-FloorCollider.asset,other,asset,8812,n/a,
+Res/Scenes/MapArena3.unity,other,unity,1141086,n/a,
+Res/Scenes/MapArena3/NavMesh-FloorCollider.asset,other,asset,15300,n/a,
+Res/Scenes/MapArena4.unity,other,unity,1152288,n/a,
+Res/Scenes/MapArena4/NavMesh-FloorCollider.asset,other,asset,15320,n/a,
+Res/Scenes/PVPArena2.unity,other,unity,428798,n/a,
+Res/Scenes/PVPArena2/CombinedMeshes/Combined_colormap 1_-247814.asset,other,asset,16997,n/a,
+Res/Scenes/PVPArena2/CombinedMeshes/Combined_colormap_-247792.asset,other,asset,822939,n/a,
+Res/Scenes/PVPArena2/CombinedMeshes/Combined_colormap_-247836.asset,other,asset,132813,n/a,
+Res/Scenes/PVPArena2/NavMesh-FloorCollider.asset,other,asset,11988,n/a,
+Res/Scenes/PVPArenaBR.unity,other,unity,1549888,n/a,
+Res/Scenes/PVPArenaBR/CombinedMeshes/Combined_colormap 1_-211126.asset,other,asset,61120,n/a,
+Res/Scenes/PVPArenaBR/CombinedMeshes/Combined_colormap_-211148.asset,other,asset,2484972,n/a,
+Res/Scenes/PVPArenaBR/NavMesh-FloorCollider.asset,other,asset,16208,n/a,
+Res/Settings/Bloom URP.asset,other,asset,18741,n/a,
+Res/Settings/Mobile_RPAsset 1.asset,other,asset,4879,n/a,
+Res/Settings/Mobile_Renderer 1.asset,other,asset,1798,n/a,
+Res/Skills/FireBall.asset,other,asset,2335,n/a,
+Res/Skills/MultiFireball.asset,other,asset,2333,n/a,
+Res/UI/BossIconMinimap.prefab,other,prefab,2248,n/a,ui
+Res/UI/CharacterIcon/icon_character_vic.png,texture,png,55640,n/a,ui
+Res/UI/Frames/FrameAtlas.spriteatlasv2,other,spriteatlasv2,1156,n/a,ui
+Res/UI/Frames/Frame_1.png,texture,png,7584,n/a,ui
+Res/UI/Frames/Frame_2.png,texture,png,8829,n/a,ui
+Res/UI/Frames/Frame_3.png,texture,png,12365,n/a,ui
+Res/UI/Frames/Frame_4.png,texture,png,3432,n/a,ui
+Res/UI/Frames/Frame_5.png,texture,png,70091,n/a,ui
+Res/UI/Frames/Frame_6.png,texture,png,687691,n/a,ui
+Res/UI/Frames/Frame_7.png,texture,png,171694,n/a,ui
+Res/UI/Frames/Frame_8.png,texture,png,195830,n/a,ui
+Res/UI/Frames/Frame_9.png,texture,png,206341,n/a,ui
+Res/UI/Frames/frameHalloween.png,texture,png,104746,n/a,ui
+Res/UI/Frames/frameS.png,texture,png,125022,n/a,ui
+Res/UI/Icons/Icon0.png,texture,png,361404,n/a,ui
+Res/UI/Icons/Icon1.png,texture,png,368592,n/a,ui
+Res/UI/Icons/Icon2.png,texture,png,358541,n/a,ui
+Res/UI/Icons/Icon3.png,texture,png,365886,n/a,ui
+Res/UI/Icons/Icon4.png,texture,png,321429,n/a,ui
+Res/UI/Icons/Icon5.png,texture,png,319510,n/a,ui
+Res/UI/Icons/Icon6.png,texture,png,331290,n/a,ui
+Res/UI/Icons/Icon7.png,texture,png,341600,n/a,ui
+Res/UI/Icons/IconAtlas.spriteatlasv2,other,spriteatlasv2,1229,n/a,ui
+Res/UI/Icons/Icon_1.png,texture,png,4664,n/a,ui
+Res/UI/Icons/Icon_2.png,texture,png,943,n/a,ui
+Res/UI/Icons/Icon_3.png,texture,png,9607,n/a,ui
+Res/UI/Icons/Icon_4.png,texture,png,11415,n/a,ui
+Res/UI/MapPreview/Arena_1_Icon.png,texture,png,101753,n/a,ui
+Res/UI/MapPreview/Arena_3_icon.png,texture,png,95429,n/a,ui
+Res/UI/MapPreview/MapPreviewAtlas.spriteatlasv2,other,spriteatlasv2,499,n/a,ui
+Res/UI/Materials/Fade.mat,other,mat,3979,n/a,ui
+Res/UI/PlayerIconMinimap.prefab,other,prefab,2252,n/a,ui
+Res/UI/SkillsIcon/Fireball.png,texture,png,235530,n/a,ui
+Res/UI/SkillsIcon/GrassBall.png,texture,png,310596,n/a,ui
+Res/UI/SkillsIcon/MultiFireball.png,texture,png,367077,n/a,ui
+Res/UI/SkillsIcon/MultiGrassBall.png,texture,png,338942,n/a,ui
+Res/UI/SkillsIcon/MultiNormalBall.png,texture,png,361438,n/a,ui
+Res/UI/SkillsIcon/MultiPerk.png,texture,png,209566,n/a,ui
+Res/UI/SkillsIcon/NormalBall.png,texture,png,224264,n/a,ui
+Res/UI/SkillsIcon/ShirikenPerk.png,texture,png,17164,n/a,ui
+Res/UI/SkillsIcon/SkillPerk.png,texture,png,187857,n/a,ui
+Res/UI/SkillsIcon/skill_archer_1.png,texture,png,216833,n/a,ui
+Res/UI/SkillsIcon/skill_archer_2.png,texture,png,237529,n/a,ui
+Res/UI/SkillsIcon/skill_archer_3.png,texture,png,228477,n/a,ui
+Res/UI/SkillsIcon/skill_archer_aa.png,texture,png,206806,n/a,ui
+Res/UI/SkillsIcon/skill_dagger_1.png,texture,png,285118,n/a,ui
+Res/UI/SkillsIcon/skill_dagger_2.png,texture,png,302637,n/a,ui
+Res/UI/SkillsIcon/skill_dagger_3.png,texture,png,284751,n/a,ui
+Res/UI/SkillsIcon/skill_dagger_aa.png,texture,png,264837,n/a,ui
+Res/UI/SkillsIcon/skill_poison_1.png,texture,png,285045,n/a,ui
+Res/UI/SkillsIcon/skill_poison_2.png,texture,png,374046,n/a,ui
+Res/UI/SkillsIcon/skill_poison_3.png,texture,png,344279,n/a,ui
+Res/UI/SkillsIcon/skill_poison_aa.png,texture,png,290178,n/a,ui
+Res/UI/SkillsIcon/skill_shooter_1.png,texture,png,295000,n/a,ui
+Res/UI/SkillsIcon/skill_shooter_2.png,texture,png,295883,n/a,ui
+Res/UI/SkillsIcon/skill_shooter_3.png,texture,png,273180,n/a,ui
+Res/UI/SkillsIcon/skill_shooter_aa.png,texture,png,275313,n/a,ui
+Res/UI/StatsIcon/AttackSpeed.png,texture,png,1592,n/a,ui
+Res/UI/StatsIcon/AttackSpeedMax.png,texture,png,1577,n/a,ui
+Res/UI/StatsIcon/Cooldown.png,texture,png,1499,n/a,ui
+Res/UI/StatsIcon/CooldownMax.png,texture,png,1343,n/a,ui
+Res/UI/StatsIcon/Critical.png,texture,png,1319,n/a,ui
+Res/UI/StatsIcon/CriticalMax.png,texture,png,1102,n/a,ui
+Res/UI/StatsIcon/Damage.png,texture,png,1446,n/a,ui
+Res/UI/StatsIcon/DamageMax.png,texture,png,1176,n/a,ui
+Res/UI/StatsIcon/Defense.png,texture,png,1720,n/a,ui
+Res/UI/StatsIcon/DefenseMax.png,texture,png,1222,n/a,ui
+Res/UI/StatsIcon/HP.png,texture,png,1769,n/a,ui
+Res/UI/StatsIcon/HPMax.png,texture,png,1706,n/a,ui
+Res/UI/StatsIcon/HPRegenMax.png,texture,png,1556,n/a,ui
+Res/UI/StatsIcon/Leech.png,texture,png,1770,n/a,ui
+Res/UI/StatsIcon/LeechMax.png,texture,png,1602,n/a,ui
+Res/UI/StatsIcon/MP.Png,texture,png,1880,n/a,ui
+Res/UI/StatsIcon/MPRegen.png,texture,png,1627,n/a,ui
+Res/UI/StatsIcon/Speed.png,texture,png,1532,n/a,ui
+Res/UI/StatsIcon/SpeedMax.png,texture,png,1233,n/a,ui
+Res/UI/StatsIcon/StatsAtlas.spriteatlasv2,other,spriteatlasv2,1740,n/a,ui
+Res/UI/UIGameplayMobile_.prefab,other,prefab,687065,n/a,ui
+Res/UI/UIGameplayPC.prefab,other,prefab,692644,n/a,ui
+Res/UI/UILogin.prefab,other,prefab,126611,n/a,ui
+Res/UI/UI_Gameplay/Ellipse 750.png,texture,png,5550,n/a,ui
+Res/UI/UI_Gameplay/EvolveFrame.png,texture,png,5328,n/a,ui
+Res/UI/UI_Gameplay/Frame.png,texture,png,5238,n/a,ui
+Res/UI/UI_Gameplay/HpBar.png,texture,png,409,n/a,ui
+Res/UI/UI_Gameplay/HpBarBackground.png,texture,png,698,n/a,ui
+Res/UI/UI_Gameplay/Joystick.png,texture,png,7148,n/a,ui
+Res/UI/UI_Gameplay/JoystickBackground.png,texture,png,12787,n/a,ui
+Res/UI/UI_Gameplay/Rectangle 1152.png,texture,png,14269,n/a,ui
+Res/UI/UI_Gameplay/Rectangle 41150.png,texture,png,1538,n/a,ui
+Res/UI/UI_Gameplay/box_xsk.png,texture,png,1255,n/a,ui
+Res/UI/UI_Gameplay/btn_nomal_4white.png,texture,png,4393,n/a,ui
+Res/UIElements/DamagePopup/DamagePopup.prefab,other,prefab,8935,n/a,ui
+Res/UIElements/DamagePopup/DamagePopupManager.prefab,other,prefab,1463,n/a,ui
+Res/UIElements/EnemyHpBar/EnemyHpBar.prefab,other,prefab,10190,n/a,ui
+Res/UIElements/Friend/FriendEntry.prefab,other,prefab,93877,n/a,ui
+Res/UIElements/GMPanel/GMItemEntry.prefab,other,prefab,28133,n/a,ui
+Res/UIElements/GMPanel/MapEventGMEntry.prefab,other,prefab,12752,n/a,ui
+Res/UIElements/Lobby/LobbyMapEntry.prefab,other,prefab,37366,n/a,ui
+Res/UIElements/Mailbox/MailEntry.prefab,other,prefab,29650,n/a,ui
+Res/UIElements/Mailbox/MailRewardEntry.prefab,other,prefab,12997,n/a,ui
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/1H_Melee/1H_Melee_Attack_Chop.anim,animation,anim,336548,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/1H_Melee/1H_Melee_Attack_Jump_Chop.anim,animation,anim,466899,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/1H_Melee/1H_Melee_Attack_Slice_Diagonal.anim,animation,anim,359361,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/1H_Melee/1H_Melee_Attack_Slice_Horizontal.anim,animation,anim,349852,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/1H_Melee/1H_Melee_Attack_Stab.anim,animation,anim,330210,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/1H_Ranged/1H_Ranged_Aiming.anim,animation,anim,171340,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/1H_Ranged/1H_Ranged_Reload.anim,animation,anim,283002,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/1H_Ranged/1H_Ranged_Shoot.anim,animation,anim,286548,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/1H_Ranged/1H_Ranged_Shooting.anim,animation,anim,472715,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Melee/2H_Melee_Attack_Chop.anim,animation,anim,393929,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Melee/2H_Melee_Attack_Slice.anim,animation,anim,317172,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Melee/2H_Melee_Attack_Spin.anim,animation,anim,422128,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Melee/2H_Melee_Attack_Spinning.anim,animation,anim,166064,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Melee/2H_Melee_Attack_Stab.anim,animation,anim,323309,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Melee/2H_Melee_Idle.anim,animation,anim,147042,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Ranged/2H_Ranged_Aiming.anim,animation,anim,237220,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Ranged/2H_Ranged_Reload.anim,animation,anim,267055,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Ranged/2H_Ranged_Shoot.anim,animation,anim,254504,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/2H_Ranged/2H_Ranged_Shooting.anim,animation,anim,427196,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Blocking/Block.anim,animation,anim,194706,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Blocking/Block_Attack.anim,animation,anim,338114,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Blocking/Block_Hit.anim,animation,anim,187386,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Blocking/Blocking.anim,animation,anim,135301,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/DualWielding/Dualwield_Melee_Attack_Chop.anim,animation,anim,416243,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/DualWielding/Dualwield_Melee_Attack_Slice.anim,animation,anim,358839,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/DualWielding/Dualwield_Melee_Attack_Stab.anim,animation,anim,312264,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Death_A.anim,animation,anim,284379,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Death_A_Pose.anim,animation,anim,90195,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Death_B.anim,animation,anim,404732,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Death_B_Pose.anim,animation,anim,90205,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Death_C_Pose.anim,animation,anim,90181,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Hit_A.anim,animation,anim,203477,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Hit_B.anim,animation,anim,239875,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Idle_Combat.anim,animation,anim,290600,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Taunt.anim,animation,anim,421067,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/General/Taunt_Longer.anim,animation,anim,705790,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Spellcasting/Spellcast_Long.anim,animation,anim,380235,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Spellcasting/Spellcast_Raise.anim,animation,anim,279001,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Spellcasting/Spellcast_Shoot.anim,animation,anim,240237,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Spellcasting/Spellcast_Summon.anim,animation,anim,643144,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Spellcasting/Spellcasting.anim,animation,anim,137682,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Unarmed/Unarmed_Idle.anim,animation,anim,136184,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Unarmed/Unarmed_Melee_Attack_Kick.anim,animation,anim,311827,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Unarmed/Unarmed_Melee_Attack_Punch_A.anim,animation,anim,360716,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Unarmed/Unarmed_Melee_Attack_Punch_B.anim,animation,anim,365334,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Combat/Unarmed/Unarmed_Pose.anim,animation,anim,90049,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Cheer.anim,animation,anim,364559,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Idle.anim,animation,anim,165794,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Idle_B.anim,animation,anim,238317,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Interact.anim,animation,anim,214051,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Lie_Down.anim,animation,anim,394135,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Lie_Idle.anim,animation,anim,137040,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Lie_Pose.anim,animation,anim,90205,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Lie_StandUp.anim,animation,anim,321433,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/PickUp.anim,animation,anim,233598,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Sit_Chair_Down.anim,animation,anim,270246,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Sit_Chair_Idle.anim,animation,anim,199230,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Sit_Chair_Pose.anim,animation,anim,90219,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Sit_Chair_StandUp.anim,animation,anim,249937,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Sit_Floor_Down.anim,animation,anim,258954,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Sit_Floor_Idle.anim,animation,anim,189874,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Sit_Floor_Pose.anim,animation,anim,90165,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Sit_Floor_StandUp.anim,animation,anim,227564,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Spawn_Air.anim,animation,anim,225453,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Spawn_Ground.anim,animation,anim,225422,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/T-Pose.anim,animation,anim,90079,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Throw.anim,animation,anim,339554,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/General/Use_Item.anim,animation,anim,235527,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Dodge_Backward.anim,animation,anim,180807,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Dodge_Forward.anim,animation,anim,193783,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Dodge_Left.anim,animation,anim,184956,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Dodge_Right.anim,animation,anim,186735,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Jump_Full_Long.anim,animation,anim,519619,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Jump_Full_Short.anim,animation,anim,381593,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Jump_Idle.anim,animation,anim,191556,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Jump_Land.anim,animation,anim,253439,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Jump_Start.anim,animation,anim,232746,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Running_A.anim,animation,anim,332132,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Running_B.anim,animation,anim,357733,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Running_C.anim,animation,anim,329203,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Running_Strafe_Left.anim,animation,anim,324975,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Running_Strafe_Right.anim,animation,anim,324771,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Walking_A.anim,animation,anim,357442,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Walking_B.anim,animation,anim,373953,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Walking_Backwards.anim,animation,anim,341625,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Walking_C.anim,animation,anim,351908,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Movement/Walking_D_Skeletons.anim,animation,anim,333502,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Skeletons/Death_C_Skeletons.anim,animation,anim,389305,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Skeletons/Death_C_Skeletons_Resurrect.anim,animation,anim,496057,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Skeletons/Skeleton_Inactive_Standing_Pose.anim,animation,anim,90230,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Skeletons/Skeletons_Awaken_Floor.anim,animation,anim,553809,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Skeletons/Skeletons_Awaken_Floor_Long.anim,animation,anim,723491,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Skeletons/Skeletons_Awaken_Standing.anim,animation,anim,399381,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Skeletons/Skeletons_Inactive_Floor_Pose.anim,animation,anim,90174,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Animations/Skeletons/Spawn_Ground_Skeletons.anim,animation,anim,562044,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Avatar/CharacterAvatar.asset,other,asset,55493,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Avatar/KayMask.mask,other,mask,351,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Avatar/RogueTopMask.mask,other,mask,3661,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Avatar/TopMaskHumanoid.mask,other,mask,359,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/License.txt,other,txt,540,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/URP/barbarian_texture.mat,other,mat,3839,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/URP/druid_texture.mat,other,mat,3834,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/URP/engineer_texture.mat,other,mat,3836,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/URP/knight_texture.mat,other,mat,3836,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/URP/mage_texture.mat,other,mat,3834,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/URP/rogue_texture.mat,other,mat,3834,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/barbarian_texture.mat,other,mat,3839,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/druid_texture.mat,other,mat,3835,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/engineer_texture.mat,other,mat,3837,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/knight_texture.mat,other,mat,16794,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/mage_texture.mat,other,mat,3833,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Materials/rogue_texture.mat,other,mat,16794,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/ammo_crate.fbx,mesh,fbx,24316,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/ammo_crate_withLid.fbx,mesh,fbx,45436,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/arrow.fbx,mesh,fbx,20524,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/arrow_bundle.fbx,mesh,fbx,28700,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/axe_1handed.fbx,mesh,fbx,28060,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/axe_2handed.fbx,mesh,fbx,37580,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/crossbow_1handed.fbx,mesh,fbx,38796,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/crossbow_2handed.fbx,mesh,fbx,47068,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/dagger.fbx,mesh,fbx,24908,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/druid_staff.fbx,mesh,fbx,55756,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/engineer_Wrench.fbx,mesh,fbx,35132,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/mug_empty.fbx,mesh,fbx,29308,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/mug_full.fbx,mesh,fbx,30636,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_huge_blue.fbx,mesh,fbx,29116,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_huge_green.fbx,mesh,fbx,29164,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_huge_orange.fbx,mesh,fbx,29148,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_huge_red.fbx,mesh,fbx,29116,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_large_blue.fbx,mesh,fbx,24140,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_large_green.fbx,mesh,fbx,24156,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_large_orange.fbx,mesh,fbx,24140,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_large_red.fbx,mesh,fbx,24140,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_medium_blue.fbx,mesh,fbx,24108,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_medium_green.fbx,mesh,fbx,24140,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_medium_orange.fbx,mesh,fbx,24124,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_medium_red.fbx,mesh,fbx,24108,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_small_blue.fbx,mesh,fbx,22636,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_small_green.fbx,mesh,fbx,22636,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_small_orange.fbx,mesh,fbx,22636,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/potion_small_red.fbx,mesh,fbx,22652,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/quiver.fbx,mesh,fbx,28092,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shield_badge.fbx,mesh,fbx,27596,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shield_badge_color.fbx,mesh,fbx,27596,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shield_round.fbx,mesh,fbx,28556,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shield_round_barbarian.fbx,mesh,fbx,28524,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shield_round_color.fbx,mesh,fbx,28508,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shield_spikes.fbx,mesh,fbx,33596,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shield_spikes_color.fbx,mesh,fbx,33596,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shield_square.fbx,mesh,fbx,27884,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shield_square_color.fbx,mesh,fbx,27916,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/shotgun.fbx,mesh,fbx,55292,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/smokebomb.fbx,mesh,fbx,27596,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/spellbook_closed.fbx,mesh,fbx,27276,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/spellbook_open.fbx,mesh,fbx,27468,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/staff.fbx,mesh,fbx,32780,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/sword_1handed.fbx,mesh,fbx,28428,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/sword_2handed.fbx,mesh,fbx,32044,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/sword_2handed_color.fbx,mesh,fbx,32060,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Accessories/wand.fbx,mesh,fbx,23516,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Characters/barbarian.fbx,mesh,fbx,486060,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Characters/druid.fbx,mesh,fbx,550972,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Characters/engineer.fbx,mesh,fbx,537500,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Characters/knight.fbx,mesh,fbx,490108,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Characters/mage.fbx,mesh,fbx,479692,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Characters/rogue.fbx,mesh,fbx,469756,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Models/Characters/rogue_hooded.fbx,mesh,fbx,456924,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/ammo_crate.prefab,other,prefab,2440,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/ammo_crate_withLid.prefab,other,prefab,4921,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/arrow.prefab,other,prefab,2434,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/arrow_bundle.prefab,other,prefab,2441,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/axe_1handed.prefab,other,prefab,2440,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/axe_2handed.prefab,other,prefab,2440,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/crossbow_1handed.prefab,other,prefab,2445,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/crossbow_2handed.prefab,other,prefab,2445,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/dagger.prefab,other,prefab,2436,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/druid_staff.prefab,other,prefab,2441,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/engineer_Wrench.prefab,other,prefab,2444,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/mug_empty.prefab,other,prefab,2439,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/mug_full.prefab,other,prefab,2437,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_huge_blue.prefab,other,prefab,2446,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_huge_green.prefab,other,prefab,2445,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_huge_orange.prefab,other,prefab,2448,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_huge_red.prefab,other,prefab,2445,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_large_blue.prefab,other,prefab,2446,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_large_green.prefab,other,prefab,2448,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_large_orange.prefab,other,prefab,2449,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_large_red.prefab,other,prefab,2446,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_medium_blue.prefab,other,prefab,2446,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_medium_green.prefab,other,prefab,2449,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_medium_orange.prefab,other,prefab,2450,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_medium_red.prefab,other,prefab,2446,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_small_blue.prefab,other,prefab,2446,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_small_green.prefab,other,prefab,2448,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_small_orange.prefab,other,prefab,2448,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/potion_small_red.prefab,other,prefab,2444,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/quiver.prefab,other,prefab,2435,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shield_badge.prefab,other,prefab,2441,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shield_badge_color.prefab,other,prefab,2447,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shield_round.prefab,other,prefab,2442,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shield_round_barbarian.prefab,other,prefab,2450,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shield_round_color.prefab,other,prefab,2447,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shield_spikes.prefab,other,prefab,2442,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shield_spikes_color.prefab,other,prefab,2449,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shield_square.prefab,other,prefab,2442,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shield_square_color.prefab,other,prefab,2448,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/shotgun.prefab,other,prefab,2436,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/smokebomb.prefab,other,prefab,2439,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/spellbook_closed.prefab,other,prefab,2446,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/spellbook_open.prefab,other,prefab,2444,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/staff.prefab,other,prefab,2435,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/sword_1handed.prefab,other,prefab,2443,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/sword_2handed.prefab,other,prefab,2443,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/sword_2handed_color.prefab,other,prefab,2449,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Accessories/wand.prefab,other,prefab,2433,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Characters/barbarian.prefab,other,prefab,52914,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Characters/druid.prefab,other,prefab,50345,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Characters/engineer.prefab,other,prefab,52912,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Characters/knight.prefab,other,prefab,52879,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Characters/mage.prefab,other,prefab,52827,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Characters/rogue.prefab,other,prefab,50229,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Prefabs/Characters/rogue_hooded.prefab,other,prefab,49423,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Barbarian/barbarian_texture 1.png,texture,png,31711,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Barbarian/barbarian_texture.png,texture,png,15089,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Barbarian/barbarian_texture_alt_A.png,texture,png,14821,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Barbarian/barbarian_texture_alt_B.png,texture,png,14986,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Barbarian/barbarian_texture_alt_C.png,texture,png,15536,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Druid/druid_texture.png,texture,png,16730,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Druid/druid_texture_alt_A.png,texture,png,16820,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Druid/druid_texture_alt_B.png,texture,png,17592,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Druid/druid_texture_alt_C.png,texture,png,16298,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Engineer/engineer_texture.png,texture,png,17331,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Engineer/engineer_texture_alt_A.png,texture,png,16497,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Engineer/engineer_texture_alt_B.png,texture,png,16503,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Engineer/engineer_texture_alt_C.png,texture,png,18230,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Knight/knight_texture.png,texture,png,14172,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Knight/knight_texture_alt_A.png,texture,png,16152,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Knight/knight_texture_alt_B.png,texture,png,17393,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Knight/knight_texture_alt_C.png,texture,png,16251,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Mage/mage_texture.png,texture,png,16311,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Mage/mage_texture_alt_A.png,texture,png,16115,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Mage/mage_texture_alt_B.png,texture,png,15198,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Mage/mage_texture_alt_C.png,texture,png,17291,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Rogue/Materials/rogue_texture_alt_A.mat,other,mat,14158,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Rogue/Materials/rogue_texture_alt_B.mat,other,mat,14158,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Rogue/rogue_texture 1.png,texture,png,18078,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Rogue/rogue_texture.png,texture,png,16670,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Rogue/rogue_texture_alt_A.png,texture,png,14210,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Rogue/rogue_texture_alt_B.png,texture,png,14526,n/a,
+ThirdPartyResources/3DModels/KayKit - Adventurers/Textures/Rogue/rogue_texture_alt_C.png,texture,png,14125,n/a,
+ThirdPartyResources/3DModels/MiniArena/License.txt,other,txt,747,n/a,
+ThirdPartyResources/3DModels/MiniArena/Materials/colormap 1.mat,other,mat,4900,n/a,
+ThirdPartyResources/3DModels/MiniArena/Materials/colormap 2.mat,other,mat,17810,n/a,
+ThirdPartyResources/3DModels/MiniArena/Materials/colormap.mat,other,mat,18007,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/banner.fbx,mesh,fbx,30096,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/block.fbx,mesh,fbx,27472,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/border-corner.fbx,mesh,fbx,26656,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/border-straight.fbx,mesh,fbx,26320,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/bricks.fbx,mesh,fbx,27680,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/character-soldier.fbx,mesh,fbx,531808,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/column-damaged.fbx,mesh,fbx,29008,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/column.fbx,mesh,fbx,28800,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/floor-detail.fbx,mesh,fbx,26624,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/floor.fbx,mesh,fbx,23936,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/stairs-corner-inner.fbx,mesh,fbx,27168,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/stairs-corner.fbx,mesh,fbx,27056,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/stairs.fbx,mesh,fbx,25536,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/statue.fbx,mesh,fbx,44720,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/tree.fbx,mesh,fbx,42048,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/trophy.fbx,mesh,fbx,33056,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/wall-corner.fbx,mesh,fbx,33344,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/wall-gate.fbx,mesh,fbx,36880,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/wall.fbx,mesh,fbx,28496,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/weapon-rack.fbx,mesh,fbx,32608,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/weapon-spear.fbx,mesh,fbx,27200,n/a,
+ThirdPartyResources/3DModels/MiniArena/Models/weapon-sword.fbx,mesh,fbx,27856,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/banner.prefab,other,prefab,2537,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/block.prefab,other,prefab,2537,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/border-corner.prefab,other,prefab,2545,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/border-straight.prefab,other,prefab,2547,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/bricks.prefab,other,prefab,2537,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/character-soldier.prefab,other,prefab,2549,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/column-damaged.prefab,other,prefab,2546,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/column.prefab,other,prefab,2538,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/floor-detail.prefab,other,prefab,2544,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/floor.prefab,other,prefab,2537,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/stairs-corner-inner.prefab,other,prefab,2551,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/stairs-corner.prefab,other,prefab,2545,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/stairs.prefab,other,prefab,2538,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/statue.prefab,other,prefab,2538,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/tree.prefab,other,prefab,2536,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/trophy.prefab,other,prefab,2538,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/wall-corner.prefab,other,prefab,2542,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/wall-gate.prefab,other,prefab,2541,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/wall.prefab,other,prefab,2536,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/weapon-rack.prefab,other,prefab,2543,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/weapon-spear.prefab,other,prefab,2544,n/a,
+ThirdPartyResources/3DModels/MiniArena/Prefabs/weapon-sword.prefab,other,prefab,2544,n/a,
+ThirdPartyResources/3DModels/MiniArena/Textures/colormap.png,texture,png,9106,n/a,
+ThirdPartyResources/3DModels/MiniDungeon/License.txt,other,txt,715,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Materials/colormap 1.mat,other,mat,17991,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Materials/colormap.mat,other,mat,18643,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/banner.fbx,mesh,fbx,27648,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/barrel.fbx,mesh,fbx,28336,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/character-human.fbx,mesh,fbx,529104,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/character-orc.fbx,mesh,fbx,525120,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/chest.fbx,mesh,fbx,48416,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/coin.fbx,mesh,fbx,29712,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/column.fbx,mesh,fbx,26960,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/dirt.fbx,mesh,fbx,27472,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/floor-detail.fbx,mesh,fbx,30208,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/floor.fbx,mesh,fbx,23936,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/gate.fbx,mesh,fbx,42832,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/rocks.fbx,mesh,fbx,30816,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/stairs.fbx,mesh,fbx,26736,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/stones.fbx,mesh,fbx,33280,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/trap.fbx,mesh,fbx,51552,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/wall-half.fbx,mesh,fbx,29776,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/wall-narrow.fbx,mesh,fbx,32144,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/wall-opening.fbx,mesh,fbx,30784,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/wall.fbx,mesh,fbx,28144,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/wood-structure.fbx,mesh,fbx,27008,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Models/wood-support.fbx,mesh,fbx,26160,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/banner.prefab,other,prefab,2727,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/barrel.prefab,other,prefab,3090,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/character-human.prefab,other,prefab,4459,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/character-orc.prefab,other,prefab,4457,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/chest.prefab,other,prefab,2918,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/coin.prefab,other,prefab,2725,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/column.prefab,other,prefab,3090,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/dirt.prefab,other,prefab,2725,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/floor-detail.prefab,other,prefab,3173,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/floor.prefab,other,prefab,2912,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/gate.prefab,other,prefab,3458,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/rocks.prefab,other,prefab,2980,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/stairs.prefab,other,prefab,2727,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/stones.prefab,other,prefab,3089,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/trap.prefab,other,prefab,2917,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/wall-half.prefab,other,prefab,3346,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/wall-narrow.prefab,other,prefab,3095,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/wall-opening.prefab,other,prefab,3096,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/wall.prefab,other,prefab,3088,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/wood-structure.prefab,other,prefab,2735,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Prefabs/wood-support.prefab,other,prefab,2733,n/a,dungeon-kit
+ThirdPartyResources/3DModels/MiniDungeon/Textures/colormap.png,texture,png,8308,n/a,dungeon-kit
+ThirdPartyResources/3DModels/Misc/Coin/Materials/DarkYellow.mat,other,mat,3833,n/a,
+ThirdPartyResources/3DModels/Misc/Coin/Materials/Yellow.mat,other,mat,5696,n/a,
+ThirdPartyResources/3DModels/Misc/Coin/Model/Coin.fbx,mesh,fbx,19420,n/a,
+ThirdPartyResources/3DModels/Misc/Gear/Gear.fbx,mesh,fbx,22924,n/a,
+ThirdPartyResources/3DModels/Misc/Gear/Materials/Orange.mat,other,mat,4029,n/a,
+ThirdPartyResources/3DModels/Misc/Plus/Material_0.mat,other,mat,3915,n/a,
+ThirdPartyResources/3DModels/Misc/Plus/PlusSign.fbx,mesh,fbx,18268,n/a,
+ThirdPartyResources/3DModels/Monsters/Mushnub/Atlas 1.mat,other,mat,16743,n/a,
+ThirdPartyResources/3DModels/Monsters/Mushnub/Atlas.mat,other,mat,16754,n/a,
+ThirdPartyResources/3DModels/Monsters/Mushnub/Atlas_Monsters 1.png,texture,png,9071,n/a,
+ThirdPartyResources/3DModels/Monsters/Mushnub/Atlas_Monsters.png,texture,png,9007,n/a,
+ThirdPartyResources/3DModels/Monsters/Mushnub/Mushnub.fbx,mesh,fbx,290140,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/Monsters/PoisonAlien/Alien.fbx,mesh,fbx,435980,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/Monsters/PoisonAlien/Atlas 2.mat,other,mat,16744,n/a,
+ThirdPartyResources/3DModels/Monsters/Slime/Controller/SlimeController.controller,animation,controller,8573,n/a,
+ThirdPartyResources/3DModels/Monsters/Slime/Materials/BodySlimeFireLv1.mat,other,mat,16842,n/a,
+ThirdPartyResources/3DModels/Monsters/Slime/Materials/BodySlimeFireLv3.mat,other,mat,16779,n/a,
+ThirdPartyResources/3DModels/Monsters/Slime/Materials/BodySlimePoisonLv1.mat,other,mat,16839,n/a,
+ThirdPartyResources/3DModels/Monsters/Slime/Materials/BodySlimePoisonLv2.mat,other,mat,16841,n/a,
+ThirdPartyResources/3DModels/Monsters/Slime/Materials/BodySlimePoisonLv3.mat,other,mat,16845,n/a,
+ThirdPartyResources/3DModels/Monsters/Slime/Materials/Eyes.mat,other,mat,3778,n/a,
+ThirdPartyResources/3DModels/Monsters/Slime/Model/Slime.fbx,mesh,fbx,338940,n/a,kaykit-candidate
+ThirdPartyResources/3DModels/Skeleton Mage/Glow.mat,other,mat,16688,n/a,
+ThirdPartyResources/3DModels/Skeleton Mage/Materials/skeleton_texture 1.mat,other,mat,15540,n/a,
+ThirdPartyResources/3DModels/Skeleton Mage/Skeleton_Mage.fbx,mesh,fbx,27197927,2820,
+ThirdPartyResources/3DModels/Skeleton Mage/skeleton.mat,other,mat,17762,n/a,
+ThirdPartyResources/3DModels/Skeleton Mage/skeleton_texture 1.png,texture,png,36301,n/a,
+ThirdPartyResources/3DModels/Skeleton Mage/skeleton_texture.png,texture,png,17037,n/a,
+ThirdPartyResources/Audio/Archievement WAV.wav,audio,wav,457638,n/a,
+ThirdPartyResources/Audio/Arrow.wav,audio,wav,145964,n/a,
+ThirdPartyResources/Audio/Cartoon_Click.wav,audio,wav,65988,n/a,
+ThirdPartyResources/Audio/DaggerUltimate.wav,audio,wav,824092,n/a,
+ThirdPartyResources/Audio/EntityDead.wav,audio,wav,35350,n/a,
+ThirdPartyResources/Audio/Female_attack_1.wav,audio,wav,66934,n/a,
+ThirdPartyResources/Audio/Female_attack_2.wav,audio,wav,59514,n/a,
+ThirdPartyResources/Audio/Grunt1.wav,audio,wav,290672,n/a,
+ThirdPartyResources/Audio/Grunt2.wav,audio,wav,311308,n/a,
+ThirdPartyResources/Audio/Impact_1.wav,audio,wav,136660,n/a,
+ThirdPartyResources/Audio/Impact_2.wav,audio,wav,99332,n/a,
+ThirdPartyResources/Audio/Impact_3.wav,audio,wav,124972,n/a,
+ThirdPartyResources/Audio/MaleGrunt.wav,audio,wav,115790,n/a,
+ThirdPartyResources/Audio/MaleGrunt2.wav,audio,wav,254030,n/a,
+ThirdPartyResources/Audio/MaleGrunt3.wav,audio,wav,334714,n/a,
+ThirdPartyResources/Audio/MonsterSkill.wav,audio,wav,18454,n/a,
+ThirdPartyResources/Audio/MultiShot.wav,audio,wav,295284,n/a,
+ThirdPartyResources/Audio/OrbCartoon.wav,audio,wav,4630,n/a,
+ThirdPartyResources/Audio/Select.wav,audio,wav,288150,n/a,
+ThirdPartyResources/Audio/SelectMap.wav,audio,wav,2277282,n/a,
+ThirdPartyResources/Audio/SingleShot.wav,audio,wav,972422,n/a,
+ThirdPartyResources/Audio/Swoosh1.wav,audio,wav,92262,n/a,
+ThirdPartyResources/Audio/UI-Close.wav,audio,wav,240158,n/a,
+ThirdPartyResources/Audio/Upgrade.wav,audio,wav,1344156,n/a,
+ThirdPartyResources/Audio/boing-cartoon.wav,audio,wav,66206,n/a,
+ThirdPartyResources/Audio/bubble-shimmer.wav,audio,wav,242692,n/a,
+ThirdPartyResources/Audio/glass-breaking.wav,audio,wav,313494,n/a,
+ThirdPartyResources/Audio/many-arrows.wav,audio,wav,302090,n/a,
+ThirdPartyResources/Audio/slash-sword.wav,audio,wav,339332,n/a,
+ThirdPartyResources/Audio/sword-clash.wav,audio,wav,662150,n/a,
+ThirdPartyResources/BoxEntity/BoxEntity.prefab,other,prefab,18016,n/a,
+ThirdPartyResources/Characters/Adventurer/DaggerAAPrefab.prefab,other,prefab,243003,n/a,
+ThirdPartyResources/Characters/Adventurer/DaggerSkill_Prefab.prefab,other,prefab,126930,n/a,
+ThirdPartyResources/Characters/Adventurer/DashDamage.prefab,other,prefab,2629,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/Boots.mat,other,mat,19472,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/DaggerMaterials/DarkSteel.mat,other,mat,17656,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/DaggerMaterials/DarkWood.mat,other,mat,17624,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/DaggerMaterials/LightSteel.mat,other,mat,17648,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/DaggerMaterials/LightWood.mat,other,mat,17645,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/DaggerMaterials/Steel.mat,other,mat,17742,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/Detail.mat,other,mat,19536,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/Eye.mat,other,mat,19416,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/Hair.mat,other,mat,31267,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/Material.006.mat,other,mat,19438,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/Pants.mat,other,mat,19437,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/Pupil.mat,other,mat,19421,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/Shirt.mat,other,mat,19457,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/Skin.mat,other,mat,19931,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/SkinMatt/HairSkin1.mat,other,mat,31246,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/SkinMatt/UnderShirtSkin1.mat,other,mat,19511,n/a,
+ThirdPartyResources/Characters/Adventurer/Materials/UnderShirt.mat,other,mat,19460,n/a,
+ThirdPartyResources/Characters/Adventurer/Models/Adventurer.fbx,mesh,fbx,4255116,n/a,kaykit-candidate
+ThirdPartyResources/Characters/Adventurer/Models/Black.mat,other,mat,3752,n/a,
+ThirdPartyResources/Characters/Adventurer/Models/Dagger 3.fbx,mesh,fbx,32860,n/a,kaykit-candidate
+ThirdPartyResources/Characters/Adventurer/Models/Dagger 3.prefab,other,prefab,3799,n/a,
+ThirdPartyResources/Characters/Adventurer/Models/Face.mat,other,mat,3713,n/a,
+ThirdPartyResources/Characters/Adventurer/Models/FullMask_Adventurer.mask,other,mask,4567,n/a,
+ThirdPartyResources/Characters/Adventurer/Models/Grey.mat,other,mat,3751,n/a,
+ThirdPartyResources/Characters/Adventurer/Models/Hair.mat,other,mat,3746,n/a,
+ThirdPartyResources/Characters/Adventurer/Models/Main.mat,other,mat,3751,n/a,
+ThirdPartyResources/Characters/Adventurer/Models/Skin.mat,other,mat,3756,n/a,
+ThirdPartyResources/Characters/Adventurer/Models/TopMask_Adventurer.mask,other,mask,4566,n/a,
+ThirdPartyResources/Characters/Adventurer/SkillData/DaggerAA.asset,other,asset,4378,n/a,
+ThirdPartyResources/Characters/Adventurer/SkillData/DaggerSkill.asset,other,asset,4412,n/a,
+ThirdPartyResources/Characters/Adventurer/SkillData/DaggerUltimate.asset,other,asset,4393,n/a,
+ThirdPartyResources/Characters/Adventurer/SkillData/Dash.asset,other,asset,4001,n/a,
+ThirdPartyResources/Characters/Adventurer/VincentDefault.prefab,other,prefab,66983,n/a,
+ThirdPartyResources/Characters/Adventurer/VincentSkin1.prefab,other,prefab,68845,n/a,
+ThirdPartyResources/Characters/Adventurer/VincentSkin2.prefab,other,prefab,70112,n/a,
+ThirdPartyResources/Characters/Mage/BackHole/BlackHole_BaseColor.png,texture,png,2413897,n/a,
+ThirdPartyResources/Characters/Mage/BackHole/BlackHole_Blackhole_mat.mat,other,mat,17761,n/a,
+ThirdPartyResources/Characters/Mage/BackHole/Blackhole.fbx,mesh,fbx,51964,n/a,kaykit-candidate
+ThirdPartyResources/Characters/Mage/BackHole/Blackhole.prefab,other,prefab,3472,n/a,
+ThirdPartyResources/Characters/Mage/MageAA.asset,other,asset,4179,n/a,
+ThirdPartyResources/Characters/Mage/MageController.controller,animation,controller,18385,n/a,
+ThirdPartyResources/Characters/Mage/MageOrb.prefab,other,prefab,10087,n/a,
+ThirdPartyResources/Characters/Mage/MageOrbMini.prefab,other,prefab,5528,n/a,
+ThirdPartyResources/Characters/Mage/MageSkill.asset,other,asset,4874,n/a,
+ThirdPartyResources/Characters/Mage/MageSkill2.asset,other,asset,4529,n/a,
+ThirdPartyResources/Characters/Mage/MageSkill3.asset,other,asset,4188,n/a,
+ThirdPartyResources/Characters/Mage/MagicWall.prefab,other,prefab,8281,n/a,
+ThirdPartyResources/Characters/Mage/Orb/Atlas.mat,other,mat,17743,n/a,
+ThirdPartyResources/Characters/Mage/Orb/Atlas.png,texture,png,6557,n/a,
+ThirdPartyResources/Characters/Mage/Orb/Planet_11.fbx,mesh,fbx,93676,n/a,kaykit-candidate
+ThirdPartyResources/Characters/Mage/Orb/Planet_11.prefab,other,prefab,2538,n/a,
+ThirdPartyResources/Characters/Mage/SkeletonMage.prefab,other,prefab,14349,n/a,
+ThirdPartyResources/Characters/Mage/SkeletonMageSkin1.prefab,other,prefab,16634,n/a,
+ThirdPartyResources/Characters/Mage/SkillBlackhole.prefab,other,prefab,23780,n/a,
+ThirdPartyResources/Characters/Mage/Staff/Staff.fbx,mesh,fbx,75964,n/a,kaykit-candidate
+ThirdPartyResources/Characters/Mage/Staff/skeleton 1.mat,other,mat,17704,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/DashWarrior.asset,other,asset,4110,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Materials/Glow.mat,other,mat,3776,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Materials/skeleton.mat,other,mat,17770,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Models/Black.mat,other,mat,17745,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Models/DarkBrown.mat,other,mat,17626,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Models/DarkSteel.mat,other,mat,17738,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Models/LightRed.mat,other,mat,17743,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Models/LightRedEmission.mat,other,mat,17769,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Models/Red.mat,other,mat,17735,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Models/RedEmission.mat,other,mat,17771,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Models/Skeleton_Warrior.fbx,mesh,fbx,27585886,3755,kaykit-candidate
+ThirdPartyResources/Characters/Skeleton Warrior/Models/Skeleton_Warrior.prefab,other,prefab,2545,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Models/Sword.fbx,mesh,fbx,37500,n/a,kaykit-candidate
+ThirdPartyResources/Characters/Skeleton Warrior/SkeletonWarriorFire.prefab,other,prefab,15246,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/SkeletonWarriorSkin1.prefab,other,prefab,18539,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/SkillNormalUltimate.prefab,other,prefab,7129,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/SwordAttack.asset,other,asset,4323,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/SwordSlash 1.prefab,other,prefab,360665,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/SwordSlash.prefab,other,prefab,356418,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/Textures/skeleton_texture.png,texture,png,17037,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/WarriorAA.asset,other,asset,4031,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/WarriorAA.png,texture,png,254862,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/WarriorDash.png,texture,png,488906,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/WarriorMultiSword.png,texture,png,611047,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/WarriorSkill1.png,texture,png,352453,n/a,
+ThirdPartyResources/Characters/Skeleton Warrior/WarriorUltimate.asset,other,asset,4272,n/a,
+ThirdPartyResources/Characters/SkeletonAssasin/Assasin1.asset,other,asset,4031,n/a,
+ThirdPartyResources/Characters/SkeletonAssasin/Assasin2.asset,other,asset,4718,n/a,
+ThirdPartyResources/Characters/SkeletonAssasin/AssasinAA.asset,other,asset,4030,n/a,
+ThirdPartyResources/Characters/SkeletonAssasin/Blade.fbx,mesh,fbx,34844,n/a,kaykit-candidate
+ThirdPartyResources/Characters/SkeletonAssasin/BladeSlash.prefab,other,prefab,356413,n/a,
+ThirdPartyResources/Characters/SkeletonAssasin/CharacterAssasin.prefab,other,prefab,93734,n/a,
+ThirdPartyResources/Characters/SkeletonAssasin/CharacterAssasinSkin1.prefab,other,prefab,93739,n/a,
+ThirdPartyResources/Characters/SkeletonAssasin/GunnerController 1.controller,animation,controller,18388,n/a,
+ThirdPartyResources/Characters/SkeletonAssasin/skeleton 2.mat,other,mat,17786,n/a,
+ThirdPartyResources/Characters/SkeletonAssasin/skeleton.mat,other,mat,3791,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Materials/Glow 1.mat,other,mat,3710,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Materials/Glow.mat,other,mat,3811,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Materials/GunnerSkin1.mat,other,mat,31272,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Materials/skeleton 1.mat,other,mat,17785,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Materials/skeleton.mat,other,mat,17780,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Models/Bullet.fbx,mesh,fbx,550668,n/a,kaykit-candidate
+ThirdPartyResources/Characters/SkeletonGunner/Models/Color.png,texture,png,117607,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Models/Gun2.fbx,mesh,fbx,57356,n/a,kaykit-candidate
+ThirdPartyResources/Characters/SkeletonGunner/Models/Materials/Color.mat,other,mat,17729,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Models/Materials/Gold.mat,other,mat,3845,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Models/Materials/Mat.5.mat,other,mat,3793,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Models/Skeleton_Rogue.fbx,mesh,fbx,27896506,3345,kaykit-candidate
+ThirdPartyResources/Characters/SkeletonGunner/Models/Skeleton_Rogue.prefab,other,prefab,2543,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/MultiWaterShots.asset,other,asset,4298,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Skeleton_Gunner.prefab,other,prefab,15925,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Skeleton_GunnerSkin1.prefab,other,prefab,17195,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Textures/skeleton_texture 1.png,texture,png,35912,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Textures/skeleton_texture 2.png,texture,png,32009,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/Textures/skeleton_texture.png,texture,png,17037,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/TripleWaterShot.asset,other,asset,4339,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/WaterBullet.prefab,other,prefab,363388,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/WaterBulletBig.prefab,other,prefab,246451,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/WaterReverseDash.asset,other,asset,4056,n/a,
+ThirdPartyResources/Characters/SkeletonGunner/WaterShotAA.asset,other,asset,4041,n/a,
+ThirdPartyResources/Characters/Survival/Materials/Atlas.mat,other,mat,17901,n/a,
+ThirdPartyResources/Characters/Survival/Materials/SurvivalSkin1.mat,other,mat,31276,n/a,
+ThirdPartyResources/Characters/Survival/Models/PosionSLime.png,texture,png,53531,n/a,
+ThirdPartyResources/Characters/Survival/Models/Survival.fbx,mesh,fbx,4877996,n/a,kaykit-candidate
+ThirdPartyResources/Characters/Survival/Poison/Bubbles1.mat,other,mat,17584,n/a,
+ThirdPartyResources/Characters/Survival/Poison/Lazy Potion.fbx,mesh,fbx,205744,n/a,kaykit-candidate
+ThirdPartyResources/Characters/Survival/Poison/PoisonPuddle.fbx,mesh,fbx,49804,n/a,kaykit-candidate
+ThirdPartyResources/Characters/Survival/Poison/PoisonSmoke.prefab,other,prefab,113965,n/a,
+ThirdPartyResources/Characters/Survival/Poison/Poisonprefab.prefab,other,prefab,3979,n/a,
+ThirdPartyResources/Characters/Survival/Poison/Posion 1.mat,other,mat,5100,n/a,
+ThirdPartyResources/Characters/Survival/Poison/Posion.mat,other,mat,5011,n/a,
+ThirdPartyResources/Characters/Survival/Poison/PosionTexture.png,texture,png,340371,n/a,
+ThirdPartyResources/Characters/Survival/Poison/Potion_Gradient.mat,other,mat,4775,n/a,
+ThirdPartyResources/Characters/Survival/Poison/Potion_Gradient.png,texture,png,52668,n/a,
+ThirdPartyResources/Characters/Survival/Poison/Solid_Gradient.mat,other,mat,3688,n/a,
+ThirdPartyResources/Characters/Survival/Poison/Transparent.mat,other,mat,3905,n/a,
+ThirdPartyResources/Characters/Survival/Poison/Transparent_Liquid.mat,other,mat,17657,n/a,
+ThirdPartyResources/Characters/Survival/PosionDamage.prefab,other,prefab,247305,n/a,
+ThirdPartyResources/Characters/Survival/PosionPuddlePrefab.prefab,other,prefab,9033,n/a,
+ThirdPartyResources/Characters/Survival/SkillData/MultiPoisonousBottles.asset,other,asset,4239,n/a,
+ThirdPartyResources/Characters/Survival/SkillData/PoisonousBottle.asset,other,asset,4365,n/a,
+ThirdPartyResources/Characters/Survival/SkillData/PoisonousExplosion.asset,other,asset,4358,n/a,
+ThirdPartyResources/Characters/Survival/SkillData/SurvivalAA.asset,other,asset,4071,n/a,
+ThirdPartyResources/Characters/Survival/Survival_Character.prefab,other,prefab,48935,n/a,
+ThirdPartyResources/Characters/Survival/Survival_CharacterSkin1.prefab,other,prefab,49448,n/a,
+ThirdPartyResources/Characters/Survival/Textures/Zombie_Atlas 1.png,texture,png,7736,n/a,
+ThirdPartyResources/Characters/Survival/Textures/Zombie_Atlas.png,texture,png,7224,n/a,
+ThirdPartyResources/Characters/Vic/ArcherAA.asset,other,asset,4358,n/a,
+ThirdPartyResources/Characters/Vic/ArcherDash.asset,other,asset,3937,n/a,
+ThirdPartyResources/Characters/Vic/Archer_Skill_1.asset,other,asset,5076,n/a,
+ThirdPartyResources/Characters/Vic/Archer_Skill_2.asset,other,asset,4827,n/a,
+ThirdPartyResources/Characters/Vic/Arrow_1.prefab,other,prefab,10121,n/a,
+ThirdPartyResources/Characters/Vic/Arrow_2.prefab,other,prefab,10322,n/a,
+ThirdPartyResources/Characters/Vic/Vic.prefab,other,prefab,56816,n/a,
+ThirdPartyResources/Characters/Vic/VicController.controller,animation,controller,18274,n/a,
+ThirdPartyResources/Characters/Vic/VicSkin1.prefab,other,prefab,58846,n/a,
+ThirdPartyResources/Effects/Bullet1006.png,texture,png,14894,n/a,vfx-texture
+ThirdPartyResources/Effects/Bullet1088.png,texture,png,10248,n/a,vfx-texture
+ThirdPartyResources/Effects/arcane_glow.png,texture,png,14081,n/a,vfx-texture
+ThirdPartyResources/Effects/arcane_glow_01.png,texture,png,17019,n/a,vfx-texture
+ThirdPartyResources/Effects/arcane_glow_red.png,texture,png,14439,n/a,vfx-texture
+ThirdPartyResources/Effects/arcane_glow_red_weaponskin.png,texture,png,14446,n/a,vfx-texture
+ThirdPartyResources/Effects/arcane_spark.png,texture,png,8334,n/a,vfx-texture
+ThirdPartyResources/Effects/arcane_sphere.png,texture,png,12990,n/a,vfx-texture
+ThirdPartyResources/Effects/arcanetrail.png,texture,png,20826,n/a,vfx-texture
+ThirdPartyResources/Effects/blue.png,texture,png,191564,n/a,vfx-texture
+ThirdPartyResources/Effects/lifebeam.png,texture,png,9996,n/a,vfx-texture
+ThirdPartyResources/Effects/lifetrail.png,texture,png,25342,n/a,vfx-texture
+ThirdPartyResources/Effects/lightHorizontal_043_9.png,texture,png,14801,n/a,vfx-texture
+ThirdPartyResources/Effects/lightning_new_2009.png,texture,png,77136,n/a,vfx-texture
+ThirdPartyResources/Effects/lightning_new_arc_yellow.png,texture,png,77746,n/a,vfx-texture
+ThirdPartyResources/Effects/lightning_new_glow_2009.png,texture,png,55438,n/a,vfx-texture
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 120 SDF Atlas.png,texture,png,216779,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 120 SDF.asset,other,asset,2150192,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 210 SDF Atlas.png,texture,png,429261,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 210 SDF.asset,other,asset,8442104,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 32 SDF Atlas.png,texture,png,62893,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 32 SDF.asset,other,asset,575829,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 40 SDF Atlas.png,texture,png,72133,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 40 SDF.asset,other,asset,573488,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 50 SDF Atlas.png,texture,png,110730,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 50 SDF.asset,other,asset,575409,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 54 SDF Atlas.png,texture,png,113673,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 54 SDF.asset,other,asset,2149611,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 72 SDF Atlas.png,texture,png,145585,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline 72 SDF.asset,other,asset,2150332,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_120 SDF Atlas.png,texture,png,560979,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_120 SDF.asset,other,asset,4301534,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_210 SDF Atlas.png,texture,png,1077003,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_210 SDF.asset,other,asset,16886377,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_32 SDF Atlas.png,texture,png,153710,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_32 SDF.asset,other,asset,1146542,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_40 SDF Atlas.png,texture,png,174973,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_40 SDF.asset,other,asset,1147107,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_50 SDF Atlas.png,texture,png,275316,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_50 SDF.asset,other,asset,1147452,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_54 SDF Atlas.png,texture,png,255987,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_54 SDF.asset,other,asset,2196987,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_72 SDF Atlas.png,texture,png,370440,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular Outline_Extended ASCII_72 SDF.asset,other,asset,4295055,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular SDF.asset,other,asset,577360,n/a,
+ThirdPartyResources/Font/Fonts/LilitaOne-Regular.ttf,font,ttf,26832,n/a,
+"ThirdPartyResources/Font/NotoSansCJK/Rude_MaterialSymbolsOutlined[FILL,GRAD,opsz,wght] SDF.asset",other,asset,35198731,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Rude_NotoSans-Bold SDF.asset,other,asset,33879508,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Rude_NotoSans-Regular SDF.asset,other,asset,33879446,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Rude_NotoSansJP-Regular SDF.asset,other,asset,36885746,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Rude_NotoSansKR-Regular SDF.asset,other,asset,34656159,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Rude_NotoSansSC-Regular SDF.asset,other,asset,37638232,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Rude_NotoSansTC-Bold SDF.asset,other,asset,35988272,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Rude_NotoSansTC-Regular SDF.asset,other,asset,35819036,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSans-Bold.ttf,font,ttf,582604,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSans-Regular.ttf,font,ttf,582748,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSansDisplay-Regular.ttf,font,ttf,360236,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSansJP-Bold.ttf,font,ttf,5727828,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSansJP-Regular.ttf,font,ttf,5732824,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSansKR-Bold.ttf,font,ttf,6190824,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSansKR-Regular.ttf,font,ttf,6192764,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSansSC-Bold.ttf,font,ttf,10550116,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSansSC-Regular.ttf,font,ttf,10560380,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSansTC-Bold.ttf,font,ttf,7105312,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/NotoSansTC-Regular.ttf,font,ttf,7110560,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/Range/JP_japanese_full.txt,other,txt,21305,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/Range/KR_Korean-Hangul.txt,other,txt,6869,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/Range/Latin-Complete.txt,other,txt,1868,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/Range/SC_1-8105纯汉字（按顺序排列）.txt,other,txt,33380,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/Range/TC_word-list.txt,other,txt,15560,n/a,
+ThirdPartyResources/Font/NotoSansCJK/Sources/Range/common.txt,other,txt,763,n/a,
+ThirdPartyResources/Font/NotoSansCJK/noto sans_license.txt,other,txt,4474,n/a,
+ThirdPartyResources/Font/Resources/LilitaOne-Regular Outline 64 SDF Atlas.png,texture,png,131294,n/a,
+ThirdPartyResources/Font/Resources/LilitaOne-Regular Outline 64 SDF.asset,other,asset,2153982,n/a,
+ThirdPartyResources/Font/Resources/LilitaOne-Regular Outline_Extended ASCII_64 SDF Atlas.png,texture,png,308062,n/a,
+ThirdPartyResources/Font/Resources/LilitaOne-Regular Outline_Extended ASCII_64 SDF.asset,other,asset,2204230,n/a,
+ThirdPartyResources/Font/Resources/Rude_NotoSansJP-Bold SDF.asset,other,asset,36873034,n/a,
+ThirdPartyResources/Font/Resources/Rude_NotoSansKR-Bold SDF.asset,other,asset,34660377,n/a,
+ThirdPartyResources/Font/Resources/Rude_NotoSansSC-Bold SDF.asset,other,asset,37620939,n/a,
+ThirdPartyResources/Monsters/Alien/BossAlienLv1.prefab,other,prefab,34436,n/a,
+ThirdPartyResources/Monsters/Alien/Orbital_PoisonBullet_2.asset,other,asset,2038,n/a,
+ThirdPartyResources/Monsters/Alien/Orbital_PoisonBullet_3.asset,other,asset,2039,n/a,
+ThirdPartyResources/Monsters/Alien/PoisonBulletTriple.asset,other,asset,1908,n/a,
+ThirdPartyResources/Monsters/Alien/PoisonBullet_Single.asset,other,asset,1908,n/a,
+ThirdPartyResources/Monsters/Alien/PoisonTrap.asset,other,asset,1971,n/a,
+ThirdPartyResources/Monsters/Alien/PosionPuddlePrefab.prefab,other,prefab,10268,n/a,
+ThirdPartyResources/Monsters/Mushnub/BossMushnubLv1.prefab,other,prefab,35752,n/a,
+ThirdPartyResources/Monsters/Mushnub/Orbital_PoisonBullet_1.asset,other,asset,2041,n/a,
+ThirdPartyResources/Monsters/Mushnub/PoisonBullet_1.asset,other,asset,1904,n/a,
+ThirdPartyResources/Monsters/Mushnub/PoisonProjectile_1.prefab,other,prefab,14710,n/a,
+ThirdPartyResources/Monsters/Slime/Slime_Fire_Lv1.prefab,other,prefab,34173,n/a,
+ThirdPartyResources/Monsters/Slime/Slime_Fire_Lv2.prefab,other,prefab,34187,n/a,
+ThirdPartyResources/Monsters/Slime/Slime_Fire_Lv3.prefab,other,prefab,29727,n/a,
+ThirdPartyResources/Monsters/Slime/Slime_Poison_Lv1.prefab,other,prefab,33922,n/a,
+ThirdPartyResources/Monsters/Slime/Slime_Poison_Lv2.prefab,other,prefab,34187,n/a,
+ThirdPartyResources/Monsters/Slime/Slime_Poison_Lv3.prefab,other,prefab,29729,n/a,
+ThirdPartyResources/New UI/1.3.0UI/Backgrounds/BG2.png,texture,png,1908289,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Backgrounds/BGRanking.png,texture,png,384971,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Backgrounds/BgFull.png,texture,png,1460391,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Backgrounds/background-1.png,texture,png,726584,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Badges.png,texture,png,22845,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Bar/BarBG.png,texture,png,538,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Bar/HPAlly.png,texture,png,439,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Bar/HPCharacter.png,texture,png,434,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Bar/HPDecrease.png,texture,png,369,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Bar/HPEnemy.png,texture,png,581,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Bar/HPIncrease.png,texture,png,435,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/BossBG.png,texture,png,24856,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/BG_RewardDetail_Premium.png,texture,png,1539,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/Box_Popup.png,texture,png,1733,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/Button_W.png,texture,png,1213,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/Circle_Button_w.png,texture,png,6387,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/DropDown.png,texture,png,1629,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/Label_Currency.png,texture,png,575,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/NickNameBG.png,texture,png,110652,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/PopupFrame 1.png,texture,png,447,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/PopupFrame.png,texture,png,447,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/PremiumPassReward.png,texture,png,25295,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/ProgressBG.png,texture,png,526,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/ProgressBar.png,texture,png,776,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/RankingEntry.png,texture,png,1103,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/RankingEntrySelect.png,texture,png,984,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/Red_Dot.png,texture,png,2839,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/Shop_Push_Tab_Light_Purple_Selected.png,texture,png,3058,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/Shop_Push_Tag_Light_Purple_Unselected.png,texture,png,2914,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/Shop_Push_Tag_Purple_Selected.png,texture,png,3048,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/Shop_Push_Tag_Purple_Unselected.png,texture,png,2998,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/SkinMask.png,texture,png,1694,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/active.png,texture,png,4294,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/freePassReward.png,texture,png,21017,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/ins_bottom.png,texture,png,24182,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/ins_middle.png,texture,png,268290,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/ins_top.png,texture,png,38864,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/noactive.png,texture,png,3297,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/progressbar_yellow.png,texture,png,1166,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/t_activity_bg_camp_Progress.png,texture,png,6375,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Box_Buttons/vip_cell.png,texture,png,6286,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharUI_Equip_BG.png,texture,png,30964,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterIcons/VincentIcon.png,texture,png,117876,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/Rarity_Select_Common.png,texture,png,10295,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/Rarity_Select_Epic.png,texture,png,10506,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/Rarity_Select_Rare.png,texture,png,10308,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/Rarity_Select_Uncommon.png,texture,png,10400,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/Rarity_Select_legendary.png,texture,png,10353,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/RuneBG.png,texture,png,4186,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/RuneDamageBG.png,texture,png,4177,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/RuneDefenseBG.png,texture,png,4146,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/RuneEnergyBG.png,texture,png,4270,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/RuneSelected.png,texture,png,3207,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/SkinBG.png,texture,png,3322,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/CharacterSelection/SkinSelected.png,texture,png,2953,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/ClassIcon/MageIcon.png,texture,png,16248,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/ClassIcon/ShooterIcon.png,texture,png,15802,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/ClassIcon/SlayerIcon.png,texture,png,14136,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/ClassIcon/WarriorIcon.png,texture,png,13887,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gameplay/Joystick.png,texture,png,21517,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gameplay/JoystickBG.png,texture,png,12355,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gameplay/SkillBG.png,texture,png,5415,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gameplay/SkillCooldown.png,texture,png,21304,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gameplay/SkillJoystick.png,texture,png,39666,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gameplay/SkillJoystickBG.png,texture,png,12574,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Glow_1.png,texture,png,66777,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Glow_2.png,texture,png,38802,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gradient/HorizontalGradient.png,texture,png,6412,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gradient/LargeVerticalGradient.png,texture,png,244,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gradient/Lit_Vertical1Gradient.png,texture,png,391,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gradient/Lit_Vertical2Gradient.png,texture,png,389,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Gradient/Med_VerticalGradient.png,texture,png,287,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/AddSlotIcon.png,texture,png,3137,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Blue Diamond 1st Outline 256px.png,texture,png,4055,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Calendar 1st Outline 64px.png,texture,png,2251,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/DragHand.png,texture,png,9748,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/EnergyIcon.png,texture,png,164903,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Gift1.png,texture,png,45711,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Golden Coin 1st Outline 256px.png,texture,png,7222,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Golden Trophy 1st Outline 256px.png,texture,png,6957,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Green Upgrade 2nd Outline 256px.png,texture,png,2987,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Guide_KB_WSAD.png,texture,png,19933,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Icon_Bag.Png,texture,png,23341,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/RankIcon.png,texture,png,2796,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Refresh.png,texture,png,8916,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/SelectArrow.png,texture,png,1685,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/SkinsIcon.png,texture,png,2315,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/TVAds.png,texture,png,16889,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Target.png,texture,png,14889,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Thunder.png,texture,png,41895,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Ticket.png,texture,png,9096,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/UpgradeCoin.png,texture,png,9739,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/Vip_Arrow.png,texture,png,3103,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/accountExpIcon.png,texture,png,25902,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/arrow_0.png,texture,png,4519,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/characterExpIcon.png,texture,png,21225,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/check_icon.png,texture,png,8283,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/hero_assist_plus.png,texture,png,1545,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/home.png,texture,png,2008,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/icon_Plus.Png,texture,png,4006,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/icon_instruction.png,texture,png,2146,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/jingzhidun.png,texture,png,4706,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/lock_0.png,texture,png,4124,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/rank_1.png,texture,png,65957,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/rank_2.png,texture,png,50272,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/rank_3.png,texture,png,51254,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Icons/shop.png,texture,png,29477,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/LockTarget.png,texture,png,3402,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/LogoMain.png,texture,png,151707,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Patterns/PatternBattlePass.png,texture,png,13073,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Patterns/PatternMain.png,texture,png,20133,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Patterns/PatternQuest.png,texture,png,9553,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Patterns/PatternRanking.png,texture,png,14671,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Patterns/PatternShop.png,texture,png,11065,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Patterns/PatternUpgrade.png,texture,png,13114,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Patterns/projectilPattern.png,texture,png,10643,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Patterns/upgrade.png,texture,png,19756,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Pop_BG.png,texture,png,3795,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Pop_Content_BG.png,texture,png,769,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/PopupTitle.png,texture,png,8277,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/Expert.png,texture,png,9233,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/License.txt,other,txt,262,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/Master1.png,texture,png,4943,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/Master2.png,texture,png,5632,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/Master3.png,texture,png,8299,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/Silver1.png,texture,png,3156,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/Silver2.png,texture,png,3434,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/Silver3.png,texture,png,3826,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/Unranked.png,texture,png,2373,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/amethyst1.png,texture,png,4728,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/amethyst2.png,texture,png,4540,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/amethyst3.png,texture,png,5133,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/bronze1.png,texture,png,3167,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/bronze2.png,texture,png,3447,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/bronze3.png,texture,png,3567,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/gold1.png,texture,png,3167,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/gold2.png,texture,png,3437,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/gold3.png,texture,png,4082,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/plat1.png,texture,png,3165,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/plat2.png,texture,png,3692,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Ranks/plat3.png,texture,png,4010,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/CommonEquip.png,texture,png,5527,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/CommonItem.png,texture,png,3277,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/CommonRune.png,texture,png,4280,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/CommonRuneEquip.png,texture,png,3952,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/EpicEquip.png,texture,png,5246,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/EpicItem.png,texture,png,3273,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/EpicRune.png,texture,png,4084,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/EpicRuneEquip.png,texture,png,4042,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/LegendaryEquip.png,texture,png,5471,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/LegendaryItem.png,texture,png,3251,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/LegendaryRune.png,texture,png,4175,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/LegendaryRuneEquip.png,texture,png,4161,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/Mask.png,texture,png,5362,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/RareEquip.png,texture,png,5259,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/RareItem.png,texture,png,3368,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/RareRune.png,texture,png,4070,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/RareRuneEquip.png,texture,png,4134,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/UncommonEquip.png,texture,png,5710,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/UncommonItem.png,texture,png,3386,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/UncommonRune.png,texture,png,4258,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/RarityItems/UncommonRuneEquip.png,texture,png,4154,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Slider_StageHorizontal_Fill_White.png,texture,png,112,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/CDRIcon.png,texture,png,1902,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/CDRUp.png,texture,png,2382,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/ColletctRange.png,texture,png,2909,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/ColletctRangeUp.png,texture,png,4042,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/CriticalDamage.png,texture,png,1582,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/CriticalDamageUp.png,texture,png,4315,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/Damage.png,texture,png,1329,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/DamageUp.png,texture,png,1793,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/Defense.png,texture,png,1509,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/DefenseUp.png,texture,png,2032,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/HP.png,texture,png,1535,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/HPUp.png,texture,png,1946,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/Vector (4).png,texture,png,1213,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/Vector (5).png,texture,png,1377,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/Vector (8).png,texture,png,1788,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/Stats/Vector (9).png,texture,png,1815,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/Backgrounds.spriteatlasv2,other,spriteatlasv2,645,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/BoxButtonsAtlas.spriteatlasv2,other,spriteatlasv2,2470,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/CharacterSelectionItems.spriteatlasv2,other,spriteatlasv2,864,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/CharacterSelectionRarityBanner.spriteatlasv2,other,spriteatlasv2,718,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/Gameplay bars.spriteatlasv2,other,spriteatlasv2,791,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/IconsAtlas.spriteatlasv2,other,spriteatlasv2,2908,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/PatternsAtlas.spriteatlasv2,other,spriteatlasv2,937,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/RankIcons.spriteatlasv2,other,spriteatlasv2,1813,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/RarityItems.spriteatlasv2,other,spriteatlasv2,1886,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIAtlas/StatIcons.spriteatlasv2,other,spriteatlasv2,1521,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/UIMask/DiagonalMask.png,texture,png,12402,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/bg_0.png,texture,png,1673,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/carpet-long.png,texture,png,73279,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/carpet-long_0.png,texture,png,66504,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/carpet-long_1.png,texture,png,14670,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/r_ring_701.png,texture,png,83433,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/r_ring_701_blue.png,texture,png,82842,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/r_ring_701_green.png,texture,png,80441,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/t_Profile_bg1.png,texture,png,3046,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/ticket_top.png,texture,png,23733,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/ui_monster_bg.png,texture,png,2260,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/ui_rank_bg.png,texture,png,15373,n/a,ui
+ThirdPartyResources/New UI/1.3.0UI/xr_t_fazhen001.png,texture,png,29655,n/a,ui
+ThirdPartyResources/New UI/ElementaIcons/ElectricalElement.png,texture,png,14031,n/a,ui
+ThirdPartyResources/New UI/ElementaIcons/FireElement.png,texture,png,9828,n/a,ui
+ThirdPartyResources/New UI/ElementaIcons/FlyingElement.png,texture,png,9767,n/a,ui
+ThirdPartyResources/New UI/ElementaIcons/GrassElement.png,texture,png,13524,n/a,ui
+ThirdPartyResources/New UI/ElementaIcons/GroundElement.png,texture,png,11939,n/a,ui
+ThirdPartyResources/New UI/ElementaIcons/MysticElement.png,texture,png,14346,n/a,ui
+ThirdPartyResources/New UI/ElementaIcons/PoisonElement.png,texture,png,17795,n/a,ui
+ThirdPartyResources/New UI/ElementaIcons/SteelElement.png,texture,png,61225,n/a,ui
+ThirdPartyResources/New UI/ElementaIcons/WaterElement.png,texture,png,12903,n/a,ui
+ThirdPartyResources/New UI/UI_old/AdventurerIcon.png,texture,png,54132,n/a,ui
+ThirdPartyResources/New UI/UI_old/BG1.png,texture,png,83471,n/a,ui
+ThirdPartyResources/New UI/UI_old/BG2.png,texture,png,66220,n/a,ui
+ThirdPartyResources/New UI/UI_old/Bar.png,texture,png,10135,n/a,ui
+ThirdPartyResources/New UI/UI_old/BarBG.png,texture,png,14916,n/a,ui
+ThirdPartyResources/New UI/UI_old/Box1.png,texture,png,629468,n/a,ui
+ThirdPartyResources/New UI/UI_old/Box2.png,texture,png,1440371,n/a,ui
+ThirdPartyResources/New UI/UI_old/Box3.png,texture,png,101539,n/a,ui
+ThirdPartyResources/New UI/UI_old/Box3Selected.png,texture,png,110321,n/a,ui
+ThirdPartyResources/New UI/UI_old/Box4.png,texture,png,692474,n/a,ui
+ThirdPartyResources/New UI/UI_old/Box4Selected.png,texture,png,900459,n/a,ui
+ThirdPartyResources/New UI/UI_old/Box5.png,texture,png,662309,n/a,ui
+ThirdPartyResources/New UI/UI_old/Box5Selected.png,texture,png,811889,n/a,ui
+ThirdPartyResources/New UI/UI_old/BoxSelect.png,texture,png,521265,n/a,ui
+ThirdPartyResources/New UI/UI_old/Button1 1.png,texture,png,64037,n/a,ui
+ThirdPartyResources/New UI/UI_old/Button1.png,texture,png,64037,n/a,ui
+ThirdPartyResources/New UI/UI_old/Button2.png,texture,png,101661,n/a,ui
+ThirdPartyResources/New UI/UI_old/Button3.png,texture,png,72114,n/a,ui
+ThirdPartyResources/New UI/UI_old/Button4.png,texture,png,86192,n/a,ui
+ThirdPartyResources/New UI/UI_old/CIrcleIcon.png,texture,png,601938,n/a,ui
+ThirdPartyResources/New UI/UI_old/CIrcleIconSelected.png,texture,png,682046,n/a,ui
+ThirdPartyResources/New UI/UI_old/Circle.png,texture,png,36521,n/a,ui
+ThirdPartyResources/New UI/UI_old/Component 3 (1).png,texture,png,16452,n/a,ui
+ThirdPartyResources/New UI/UI_old/Component 4 (1).png,texture,png,65710,n/a,ui
+ThirdPartyResources/New UI/UI_old/Component 4 (2).png,texture,png,9478,n/a,ui
+ThirdPartyResources/New UI/UI_old/Component 4 (3).png,texture,png,64680,n/a,ui
+ThirdPartyResources/New UI/UI_old/Component 5 (2).png,texture,png,9096,n/a,ui
+ThirdPartyResources/New UI/UI_old/Component 5 (3).png,texture,png,669,n/a,ui
+ThirdPartyResources/New UI/UI_old/Component 6.png,texture,png,25367,n/a,ui
+ThirdPartyResources/New UI/UI_old/EvilEmpire.asset,other,asset,2148874,n/a,ui
+ThirdPartyResources/New UI/UI_old/Flag.png,texture,png,212863,n/a,ui
+ThirdPartyResources/New UI/UI_old/GunnerIcon.png,texture,png,131742,n/a,ui
+ThirdPartyResources/New UI/UI_old/MageIcon.png,texture,png,106405,n/a,ui
+ThirdPartyResources/New UI/UI_old/PassIcon.png,texture,png,36985,n/a,ui
+ThirdPartyResources/New UI/UI_old/Progress.png,texture,png,7965,n/a,ui
+ThirdPartyResources/New UI/UI_old/SlayerIcon.png,texture,png,82738,n/a,ui
+ThirdPartyResources/New UI/UI_old/SurvivalChracter.png,texture,png,112451,n/a,ui
+ThirdPartyResources/New UI/UI_old/WarriorIcon.png,texture,png,121228,n/a,ui
+ThirdPartyResources/Particle samples/License.txt,other,txt,645,n/a,
+ThirdPartyResources/Particle samples/Materials/Fire.mat,other,mat,2323,n/a,
+ThirdPartyResources/Particle samples/Materials/Heart.mat,other,mat,2324,n/a,
+ThirdPartyResources/Particle samples/Materials/Smoke.mat,other,mat,2327,n/a,
+ThirdPartyResources/Particle samples/Materials/Spark.mat,other,mat,2324,n/a,
+ThirdPartyResources/Particle samples/Materials/Star.mat,other,mat,2325,n/a,
+ThirdPartyResources/Particle samples/Materials/Trace.mat,other,mat,2324,n/a,
+ThirdPartyResources/Particle samples/Prefabs/Electricity.prefab,other,prefab,117296,n/a,
+ThirdPartyResources/Particle samples/Prefabs/Fire.prefab,other,prefab,117554,n/a,
+ThirdPartyResources/Particle samples/Prefabs/Hearts.prefab,other,prefab,117274,n/a,
+ThirdPartyResources/Particle samples/Prefabs/Magic.prefab,other,prefab,117264,n/a,
+ThirdPartyResources/Particle samples/Prefabs/Smoke.prefab,other,prefab,117261,n/a,
+ThirdPartyResources/Particle samples/Prefabs/Sparks.prefab,other,prefab,117235,n/a,
+ThirdPartyResources/Particle samples/Sprites/Rotated/flame_05_rotated.png,texture,png,23507,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/flame_06_rotated.png,texture,png,26118,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/muzzle_01_rotated.png,texture,png,85709,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/muzzle_02_rotated.png,texture,png,66563,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/muzzle_03_rotated.png,texture,png,64602,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/muzzle_04_rotated.png,texture,png,69511,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/muzzle_05_rotated.png,texture,png,62527,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/spark_05_rotated.png,texture,png,68266,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/spark_06_rotated.png,texture,png,59985,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/trace_01_rotated.png,texture,png,24462,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/trace_02_rotated.png,texture,png,29626,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/trace_03_rotated.png,texture,png,33115,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/trace_04_rotated.png,texture,png,34091,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/trace_05_rotated.png,texture,png,32863,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/trace_06_rotated.png,texture,png,32261,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/Rotated/trace_07_rotated.png,texture,png,28520,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/circle_01.png,texture,png,50943,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/circle_02.png,texture,png,40752,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/circle_03.png,texture,png,71813,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/circle_04.png,texture,png,47657,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/circle_05.png,texture,png,36611,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/dirt_01.png,texture,png,122447,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/dirt_02.png,texture,png,144110,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/dirt_03.png,texture,png,277132,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/fire_01.png,texture,png,121471,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/fire_02.png,texture,png,106108,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/flame_01.png,texture,png,35189,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/flame_02.png,texture,png,46051,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/flame_03.png,texture,png,35470,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/flame_04.png,texture,png,43388,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/flame_05.png,texture,png,11404,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/flame_06.png,texture,png,13722,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/flare_01.png,texture,png,22077,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/light_01.png,texture,png,60764,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/light_02.png,texture,png,60327,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/light_03.png,texture,png,62268,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/magic_01.png,texture,png,82795,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/magic_02.png,texture,png,93730,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/magic_03.png,texture,png,59051,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/magic_04.png,texture,png,31286,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/magic_05.png,texture,png,53857,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/muzzle_01.png,texture,png,80802,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/muzzle_02.png,texture,png,59278,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/muzzle_03.png,texture,png,58467,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/muzzle_04.png,texture,png,67275,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/muzzle_05.png,texture,png,56402,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/scorch_01.png,texture,png,63851,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/scorch_02.png,texture,png,75809,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/scorch_03.png,texture,png,92244,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/scratch_01.png,texture,png,58070,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/slash_01.png,texture,png,16775,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/slash_02.png,texture,png,28122,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/slash_03.png,texture,png,14700,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/slash_04.png,texture,png,13373,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_01.png,texture,png,86344,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_02.png,texture,png,86644,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_03.png,texture,png,33642,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_04.png,texture,png,77863,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_05.png,texture,png,67943,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_06.png,texture,png,50927,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_07.png,texture,png,64564,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_08.png,texture,png,82167,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_09.png,texture,png,80368,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/smoke_10.png,texture,png,84879,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/spark_01.png,texture,png,91292,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/spark_02.png,texture,png,100419,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/spark_03.png,texture,png,72740,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/spark_04.png,texture,png,77451,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/spark_05.png,texture,png,64037,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/spark_06.png,texture,png,59612,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/spark_07.png,texture,png,35093,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/star_01.png,texture,png,33033,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/star_02.png,texture,png,41812,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/star_03.png,texture,png,35367,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/star_04.png,texture,png,22029,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/star_05.png,texture,png,42975,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/star_06.png,texture,png,25156,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/star_07.png,texture,png,25846,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/star_08.png,texture,png,29109,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/star_09.png,texture,png,32629,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/symbol_01.png,texture,png,7532,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/symbol_02.png,texture,png,7129,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/trace_01.png,texture,png,17369,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/trace_02.png,texture,png,20280,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/trace_03.png,texture,png,24429,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/trace_04.png,texture,png,24865,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/trace_05.png,texture,png,22660,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/trace_06.png,texture,png,21552,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/trace_07.png,texture,png,18802,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/twirl_01.png,texture,png,31267,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/twirl_02.png,texture,png,45770,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/twirl_03.png,texture,png,53410,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/window_01.png,texture,png,13573,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/window_02.png,texture,png,14062,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/window_03.png,texture,png,7440,n/a,vfx-texture
+ThirdPartyResources/Particle samples/Sprites/window_04.png,texture,png,39076,n/a,vfx-texture
+ThirdPartyResources/Shaders/UnityURPToonLitShaderExample-master/LICENSE.txt,other,txt,1075,n/a,
+ThirdPartyResources/Shaders/UnityURPToonLitShaderExample-master/NiloInvLerpRemap.hlsl,other,hlsl,774,n/a,
+ThirdPartyResources/Shaders/UnityURPToonLitShaderExample-master/NiloOutlineUtil.hlsl,other,hlsl,2112,n/a,
+ThirdPartyResources/Shaders/UnityURPToonLitShaderExample-master/NiloZOffset.hlsl,other,hlsl,1580,n/a,
+ThirdPartyResources/Shaders/UnityURPToonLitShaderExample-master/SimpleURPToonLitOutlineExample.shader,other,shader,34001,n/a,
+ThirdPartyResources/Shaders/UnityURPToonLitShaderExample-master/SimpleURPToonLitOutlineExample_LightingEquation.hlsl,other,hlsl,3666,n/a,
+ThirdPartyResources/Shaders/UnityURPToonLitShaderExample-master/SimpleURPToonLitOutlineExample_Shared.hlsl,other,hlsl,22518,n/a,
+ThirdPartyResources/ShurikenSkill/Material_0.mat,other,mat,17751,n/a,
+ThirdPartyResources/ShurikenSkill/Materials/gltf_embedded_0.mat,other,mat,3771,n/a,
+ThirdPartyResources/ShurikenSkill/Shuriken.controller,animation,controller,2086,n/a,
+ThirdPartyResources/ShurikenSkill/Shuriken.fbx,mesh,fbx,130204,n/a,
+ThirdPartyResources/ShurikenSkill/ShurikenPrefab.prefab,other,prefab,12593,n/a,
+ThirdPartyResources/ShurikenSkill/gltf_embedded_0.png,texture,png,1511,n/a,

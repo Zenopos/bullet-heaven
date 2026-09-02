@@ -1,0 +1,12 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/CouponItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "Coupon1",
+  "idCoupon": 1,
+  "couponCode": "GM1000",
+  "currencyRewardId": "GO",
+  "currencyAmount": 1000,
+  "_scriptType": "CouponItem.cs"
+}

@@ -1,0 +1,275 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/Scriptables/CharacterData.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "character1",
+  "characterName": "Vicent",
+  "characterNameTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Vincent "
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Vincent "
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "文森特"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "ヴィンセント"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "빈센트"
+    }
+  ],
+  "characterId": 0,
+  "characterType": {
+    "$ref": "Assets/BulletHellTemplate/Res/GameData/ElementalTypes/FireType.asset",
+    "fileID": 11400000
+  },
+  "icon": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/1.3.0UI/CharacterIcons/VincentIcon.png",
+    "fileID": 21300000
+  },
+  "tierIcon": {
+    "$ref": null,
+    "guid": "efec4c0752ba7a343ad7672ba955fc95",
+    "fileID": 21300000
+  },
+  "characterClassType": "Slayer",
+  "characterClassTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Slayer"
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Assassino"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "屠杀者"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "スレイヤー"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "슬레이어"
+    }
+  ],
+  "characterClassIcon": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/1.3.0UI/ClassIcon/SlayerIcon.png",
+    "fileID": 21300000
+  },
+  "characterRarity": 4,
+  "characterModel": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/VincentDefault.prefab",
+    "fileID": 2529108966158168793
+  },
+  "characterSkins": [
+    {
+      "skinIcon": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/AdventurerIcon.png",
+        "fileID": 21300000
+      },
+      "skinName": "Vincent",
+      "skinNameTranslated": [],
+      "skinCharacterModel": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/VincentDefault.prefab",
+        "fileID": 2529108966158168793
+      },
+      "isUnlocked": 1,
+      "unlockCurrencyId": null,
+      "unlockPrice": 0
+    },
+    {
+      "skinIcon": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/AdventurerIcon.png",
+        "fileID": 21300000
+      },
+      "skinName": "Ice Vincent",
+      "skinNameTranslated": [],
+      "skinCharacterModel": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/VincentSkin1.prefab",
+        "fileID": 2529108966158168793
+      },
+      "isUnlocked": 0,
+      "unlockCurrencyId": "DM",
+      "unlockPrice": 500
+    },
+    {
+      "skinIcon": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/New UI/UI_old/AdventurerIcon.png",
+        "fileID": 21300000
+      },
+      "skinName": "Golden Vincent",
+      "skinNameTranslated": [],
+      "skinCharacterModel": {
+        "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/VincentSkin2.prefab",
+        "fileID": 2529108966158168793
+      },
+      "isUnlocked": 0,
+      "unlockCurrencyId": "DM",
+      "unlockPrice": 500
+    }
+  ],
+  "autoAttack": {
+    "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/SkillData/DaggerAA.asset",
+    "fileID": 11400000
+  },
+  "skills": [
+    {
+      "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/SkillData/DaggerSkill.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/SkillData/DaggerUltimate.asset",
+      "fileID": 11400000
+    },
+    {
+      "$ref": "Assets/BulletHellTemplate/ThirdPartyResources/Characters/Adventurer/SkillData/Dash.asset",
+      "fileID": 11400000
+    }
+  ],
+  "itemSlots": [
+    "Head",
+    "Armor",
+    "Pants",
+    "Shoes"
+  ],
+  "runeSlots": [
+    "Rune Universal",
+    "Rune Defense",
+    "Rune Attack",
+    "Rune Support"
+  ],
+  "isUnlock": 1,
+  "baseStats": {
+    "baseHP": 870,
+    "baseHPRegen": 2,
+    "baseHPLeech": 0.01,
+    "baseMP": 100,
+    "baseMPRegen": 7,
+    "baseDamage": 65,
+    "baseAttackSpeed": 1.8,
+    "baseCooldownReduction": 0,
+    "baseCriticalRate": 0.3,
+    "baseCriticalDamageMultiplier": 2,
+    "baseDefense": 0,
+    "baseShield": 0,
+    "baseMoveSpeed": 2.2,
+    "baseCollectRange": 2,
+    "baseMaxStats": 3,
+    "baseMaxSkills": 3
+  },
+  "maxLevel": 10,
+  "statsPercentageIncreaseByLevel": 0.05,
+  "expCalculationMethod": 1,
+  "initialExp": 20,
+  "finalExp": 500,
+  "expPerLevel": "140000001d000000290000003a0000005400000078000000ab000000f50000005e010000f4010000",
+  "currencyId": "UP",
+  "upgradeCostPerLevel": "1900000026000000390000005500000081000000c200000024010000b901000098020000e8030000",
+  "initialUpgradeCost": 25,
+  "finalUpgradeCost": 1000,
+  "upgradeCostCalculationMethod": 1,
+  "statUpgrades": [
+    {
+      "upgradeName": "Hp Max",
+      "upgradeNameTranslated": [],
+      "statType": 0,
+      "upgradeMaxLevel": 5,
+      "upgradeAmounts": [
+        100,
+        120,
+        140,
+        180,
+        200
+      ],
+      "upgradeCosts": "c8000000bc020000dc05000088130000e02e000008520000",
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/HP.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    },
+    {
+      "upgradeName": "Damage Plus",
+      "upgradeNameTranslated": [],
+      "statType": 5,
+      "upgradeMaxLevel": 5,
+      "upgradeAmounts": [
+        10,
+        12,
+        14,
+        18,
+        30
+      ],
+      "upgradeCosts": "2c010000e8030000b80b0000581b0000983a0000",
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Damage.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    },
+    {
+      "upgradeName": "Collector",
+      "upgradeNameTranslated": [],
+      "statType": 13,
+      "upgradeMaxLevel": 5,
+      "upgradeAmounts": [
+        1,
+        1,
+        1,
+        1,
+        3
+      ],
+      "upgradeCosts": "d007000010270000a861000050c30000c0d40100",
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/OldUI/UI Images/icon_Monster.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    },
+    {
+      "upgradeName": "More Stats",
+      "upgradeNameTranslated": [],
+      "statType": 14,
+      "upgradeMaxLevel": 2,
+      "upgradeAmounts": [
+        1,
+        1
+      ],
+      "upgradeCosts": "50c30000c0d40100",
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Damage.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    },
+    {
+      "upgradeName": "More Skills",
+      "upgradeNameTranslated": [],
+      "statType": 15,
+      "upgradeMaxLevel": 2,
+      "upgradeAmounts": [
+        1,
+        1
+      ],
+      "upgradeCosts": "50c30000c0d40100",
+      "upgradeIcon": {
+        "$ref": "Assets/BulletHellTemplate/Res/UI/StatsIcon/Leech.png",
+        "fileID": 21300000
+      },
+      "currencyTag": "GO"
+    }
+  ],
+  "_scriptType": "CharacterData.cs"
+}

@@ -1,0 +1,52 @@
+{
+  "m_Script": {
+    "$ref": "Assets/BulletHellTemplate/Core/BattlePassItem.cs",
+    "fileID": 11500000
+  },
+  "m_Name": "PassItem 10",
+  "passId": 10,
+  "itemTitle": "Tier SSS ",
+  "itemTitleTranslated": [
+    {
+      "LanguageId": "en",
+      "Translate": "Tier SSS "
+    },
+    {
+      "LanguageId": "pt",
+      "Translate": "Nível SSS"
+    },
+    {
+      "LanguageId": "zh",
+      "Translate": "SSS 级别"
+    },
+    {
+      "LanguageId": "ja",
+      "Translate": "SSSティア"
+    },
+    {
+      "LanguageId": "ko",
+      "Translate": "SSS 등급"
+    }
+  ],
+  "itemIcon": {
+    "$ref": null,
+    "guid": "2ccfbab9457cd1c4db7505036343fc6d",
+    "fileID": 21300000
+  },
+  "rewardType": 0,
+  "rewardTier": 0,
+  "characterData": [
+    {
+      "$ref": "Assets/BulletHellTemplate/Res/GameData/CharacterData/character4.asset",
+      "fileID": 11400000
+    }
+  ],
+  "currencyReward": {
+    "currency": null,
+    "amount": 0
+  },
+  "iconReward": null,
+  "frameReward": null,
+  "inventoryItems": [],
+  "_scriptType": "BattlePassItem.cs"
+}
